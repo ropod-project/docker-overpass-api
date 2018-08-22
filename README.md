@@ -15,7 +15,7 @@ Some example files are available under https://git.ropod.org/ropod/wm/openstreet
 `docker run -d -p <localhost port>:80 overpass:latest`
 
 ## Example
-`docker run -d -p 5000:80 overpass:latest`
+`docker run -d -p 8000:80 overpass:latest`
 
 ## Testing
 http://localhost:5000/api/interpreter?data=%5Bout:json%5D%5Btimeout:25%5D;
