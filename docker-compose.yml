@@ -1,0 +1,9 @@
+version: "2"
+services:
+  overpass:
+    image: git.ropod.org:4567/ropod/wm/docker-overpass-api:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports: 
+    - "8000:80"
