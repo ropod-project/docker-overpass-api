@@ -6226,7 +6226,7 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='-1' />
   </way>
-  <way id='989' timestamp='2018-09-18T07:27:00Z' version='2' changeset='69'>
+  <way id='989' timestamp='2018-09-18T07:26:59Z' uid='1' user='Lakshadeep' version='2' changeset='69'>
     <nd ref='4263' />
     <nd ref='4262' />
     <nd ref='4261' />
@@ -10573,7 +10573,8 @@
     <tag k='ref' v='AMK_B_L-1_C5' />
     <tag k='type' v='junction' />
   </relation>
-  <relation id='112' timestamp='2018-08-16T15:31:51Z' uid='1' user='Lakshadeep' version='2' changeset='33'>
+  <relation id='112' timestamp='2018-09-18T09:31:20Z' version='3' changeset='70'>
+    <member type='way' ref='1390' role='local_connection' />
     <member type='relation' ref='63' role='local_area' />
     <member type='relation' ref='64' role='local_area' />
     <member type='way' ref='588' role='geometry' />
@@ -10920,7 +10921,8 @@
     <tag k='ref' v='AMK_A_L-1_C12' />
     <tag k='type' v='junction' />
   </relation>
-  <relation id='147' timestamp='2018-08-16T15:31:50Z' uid='1' user='Lakshadeep' version='1' changeset='33'>
+  <relation id='147' timestamp='2018-09-18T09:31:20Z' version='2' changeset='70'>
+    <member type='way' ref='1388' role='local_connection' />
     <member type='relation' ref='50' role='local_area' />
     <member type='relation' ref='51' role='local_area' />
     <member type='way' ref='634' role='geometry' />
@@ -11066,7 +11068,8 @@
     <tag k='ref' v='AMK_B_L-1_C2_Door1' />
     <tag k='type' v='door' />
   </relation>
-  <relation id='162' timestamp='2018-08-16T17:59:35Z' uid='1' user='Lakshadeep' version='1' changeset='35'>
+  <relation id='162' timestamp='2018-09-18T09:31:20Z' version='2' changeset='70'>
+    <member type='way' ref='1389' role='local_connection' />
     <member type='way' ref='1310' role='local_connection' />
     <member type='way' ref='1311' role='local_connection' />
     <member type='relation' ref='151' role='local_area' />
