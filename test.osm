@@ -771,8 +771,8 @@
   <node id='3395' timestamp='2018-08-15T14:24:09Z' uid='1' user='Lakshadeep' version='2' changeset='27' lat='50.1359642' lon='8.6476653' />
   <node id='3396' timestamp='2018-07-24T08:45:55Z' uid='1' user='Lakshadeep' version='1' changeset='9' lat='50.1360409' lon='8.6476494' />
   <node id='3397' timestamp='2018-08-15T14:24:09Z' uid='1' user='Lakshadeep' version='2' changeset='27' lat='50.1360395' lon='8.6476336' />
-  <node id='3402' timestamp='2018-09-17T14:03:22Z' version='2' changeset='68' lat='50.1363164393' lon='8.64749724084' />
-  <node id='3404' timestamp='2018-09-17T14:03:22Z' version='2' changeset='68' lat='50.13631484156' lon='8.6475122362' />
+  <node id='3402' timestamp='2018-09-17T14:03:21Z' uid='1' user='Lakshadeep' version='2' changeset='68' lat='50.1363164' lon='8.6474972' />
+  <node id='3404' timestamp='2018-09-17T14:03:21Z' uid='1' user='Lakshadeep' version='2' changeset='68' lat='50.1363148' lon='8.6475122' />
   <node id='3408' timestamp='2018-08-23T11:00:57Z' uid='1' user='Lakshadeep' version='3' changeset='42' lat='50.1362593' lon='8.6475124' />
   <node id='3409' timestamp='2018-08-15T14:24:09Z' uid='1' user='Lakshadeep' version='2' changeset='27' lat='50.1362605' lon='8.6474981' />
   <node id='3432' timestamp='2018-07-24T10:45:19Z' uid='1' user='Lakshadeep' version='1' changeset='11' lat='50.1363271' lon='8.6475936' />
@@ -6226,14 +6226,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='-1' />
   </way>
-  <way id='989' timestamp='2018-08-03T13:18:39Z' uid='1' user='Lakshadeep' version='1' changeset='19'>
+  <way id='989' timestamp='2018-09-18T07:27:00Z' version='2' changeset='69'>
     <nd ref='4263' />
     <nd ref='4262' />
     <nd ref='4261' />
     <nd ref='4260' />
     <nd ref='4263' />
-    <tag k='always_closed' v='no' />
-    <tag k='always_open' v='yes' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -9790,42 +9789,42 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='-1' />
   </way>
-  <way id='1385' timestamp='2018-09-17T13:32:31Z' version='2' changeset='67'>
+  <way id='1385' timestamp='2018-09-17T13:32:31Z' uid='1' user='Lakshadeep' version='2' changeset='67'>
     <nd ref='4638' />
     <nd ref='4639' />
     <tag k='highway' v='local-way' />
     <tag k='level' v='4' />
     <tag k='oneway' v='no' />
   </way>
-  <way id='1386' timestamp='2018-09-17T13:32:31Z' version='2' changeset='67'>
+  <way id='1386' timestamp='2018-09-17T13:32:31Z' uid='1' user='Lakshadeep' version='2' changeset='67'>
     <nd ref='4630' />
     <nd ref='4631' />
     <tag k='highway' v='local-way' />
     <tag k='level' v='4' />
     <tag k='oneway' v='no' />
   </way>
-  <way id='1387' timestamp='2018-09-17T13:32:31Z' version='2' changeset='67'>
+  <way id='1387' timestamp='2018-09-17T13:32:31Z' uid='1' user='Lakshadeep' version='2' changeset='67'>
     <nd ref='4641' />
     <nd ref='4640' />
     <tag k='highway' v='local-way' />
     <tag k='level' v='4' />
     <tag k='oneway' v='no' />
   </way>
-  <way id='1388' timestamp='2018-09-17T14:03:22Z' version='1' changeset='68'>
+  <way id='1388' timestamp='2018-09-17T14:03:21Z' uid='1' user='Lakshadeep' version='1' changeset='68'>
     <nd ref='4842' />
     <nd ref='4833' />
     <tag k='highway' v='local-way' />
     <tag k='level' v='-1' />
     <tag k='oneway' v='no' />
   </way>
-  <way id='1389' timestamp='2018-09-17T14:03:22Z' version='1' changeset='68'>
+  <way id='1389' timestamp='2018-09-17T14:03:21Z' uid='1' user='Lakshadeep' version='1' changeset='68'>
     <nd ref='4990' />
     <nd ref='4989' />
     <tag k='highway' v='local-way' />
     <tag k='level' v='-1' />
     <tag k='oneway' v='no' />
   </way>
-  <way id='1390' timestamp='2018-09-17T14:03:22Z' version='1' changeset='68'>
+  <way id='1390' timestamp='2018-09-17T14:03:21Z' uid='1' user='Lakshadeep' version='1' changeset='68'>
     <nd ref='4880' />
     <nd ref='4876' />
     <tag k='highway' v='local-way' />
