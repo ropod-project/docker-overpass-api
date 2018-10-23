@@ -1999,7 +1999,7 @@
   <node id='2054' timestamp='2018-10-10T11:13:11Z' uid='1' user='Dharmin' version='1' changeset='10' lat='50.7806422' lon='7.1826645' />
   <node id='2055' timestamp='2018-10-10T11:13:11Z' uid='1' user='Dharmin' version='1' changeset='10' lat='50.7806423' lon='7.1825105' />
   <node id='2056' timestamp='2018-10-10T11:13:11Z' uid='1' user='Dharmin' version='1' changeset='10' lat='50.780644' lon='7.1825105' />
-  <node id='2057' timestamp='2018-10-10T11:13:11Z' uid='1' user='Dharmin' version='1' changeset='10' lat='50.780644' lon='7.1826645' />
+  <node id='2057' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20' lat='50.78064377941' lon='7.1826645' />
   <node id='2058' timestamp='2018-10-10T11:13:11Z' uid='1' user='Dharmin' version='1' changeset='10' lat='50.7806422' lon='7.1828337' />
   <node id='2059' timestamp='2018-10-10T11:13:11Z' uid='1' user='Dharmin' version='1' changeset='10' lat='50.7806422' lon='7.1827459' />
   <node id='2060' timestamp='2018-10-10T11:13:11Z' uid='1' user='Dharmin' version='1' changeset='10' lat='50.7806439' lon='7.1827459' />
@@ -2540,30 +2540,30 @@
   <node id='2607' timestamp='2018-10-15T16:24:13Z' uid='1' user='Dharmin' version='1' changeset='17' lat='50.7797302' lon='7.1831708' />
   <node id='2608' timestamp='2018-10-15T16:24:13Z' uid='1' user='Dharmin' version='1' changeset='17' lat='50.7807542' lon='7.1831694' />
   <node id='2609' timestamp='2018-10-15T16:24:13Z' uid='1' user='Dharmin' version='1' changeset='17' lat='50.7807498' lon='7.1817983' />
-  <node id='2610' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18' lat='50.78044092299' lon='7.18226649722' />
-  <node id='2611' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18' lat='50.7805608013' lon='7.18226721792' />
-  <node id='2612' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18' lat='50.78054117615' lon='7.18224395488' />
-  <node id='2613' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18' lat='50.78054123691' lon='7.1823050705' />
-  <node id='2614' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18' lat='50.78057653799' lon='7.18230498272' />
-  <node id='2615' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18' lat='50.78057647723' lon='7.18224386709' />
-  <node id='2616' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18' lat='50.78046097365' lon='7.18227644287' />
-  <node id='2617' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18' lat='50.78053759126' lon='7.18227644287' />
-  <node id='2618' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18' lat='50.78046097329' lon='7.18224214374' />
-  <node id='2619' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18' lat='50.78046091253' lon='7.1822596328' />
-  <node id='2620' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18' lat='50.78053759126' lon='7.18226029912' />
-  <node id='2621' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18' lat='50.78053765202' lon='7.18224281006' />
-  <node id='2622' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18' lat='50.7804228778' lon='7.18224471315' />
-  <node id='2623' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18' lat='50.78042299932' lon='7.18230467565' />
-  <node id='2624' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18' lat='50.78045720656' lon='7.18230450225' />
-  <node id='2625' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18' lat='50.78045708504' lon='7.18224453975' />
-  <node id='2626' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18' lat='50.78057851262' lon='7.18224059995' />
-  <node id='2627' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18' lat='50.78053914059' lon='7.1823083' />
-  <node id='2628' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18' lat='50.78053914059' lon='7.18224059995' />
-  <node id='2629' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18' lat='50.78045933311' lon='7.1823083' />
-  <node id='2630' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18' lat='50.78045933311' lon='7.18224059995' />
-  <node id='2631' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18' lat='50.7804201' lon='7.18224059995' />
-  <node id='2632' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18' lat='50.780440847' lon='7.18227479005' />
-  <node id='2633' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18' lat='50.78056065734' lon='7.18227417085' />
+  <node id='2610' timestamp='2018-10-17T12:16:01Z' uid='1' user='Dharmin' version='1' changeset='18' lat='50.7804409' lon='7.1822665' />
+  <node id='2611' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18' lat='50.7805608' lon='7.1822672' />
+  <node id='2612' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18' lat='50.7805412' lon='7.182244' />
+  <node id='2613' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18' lat='50.7805412' lon='7.1823051' />
+  <node id='2614' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18' lat='50.7805765' lon='7.182305' />
+  <node id='2615' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18' lat='50.7805765' lon='7.1822439' />
+  <node id='2616' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18' lat='50.780461' lon='7.1822764' />
+  <node id='2617' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18' lat='50.7805376' lon='7.1822764' />
+  <node id='2618' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18' lat='50.780461' lon='7.1822421' />
+  <node id='2619' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18' lat='50.7804609' lon='7.1822596' />
+  <node id='2620' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18' lat='50.7805376' lon='7.1822603' />
+  <node id='2621' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18' lat='50.7805377' lon='7.1822428' />
+  <node id='2622' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18' lat='50.7804229' lon='7.1822447' />
+  <node id='2623' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18' lat='50.780423' lon='7.1823047' />
+  <node id='2624' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18' lat='50.7804572' lon='7.1823045' />
+  <node id='2625' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18' lat='50.7804571' lon='7.1822445' />
+  <node id='2626' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18' lat='50.7805785' lon='7.1822406' />
+  <node id='2627' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18' lat='50.7805391' lon='7.1823083' />
+  <node id='2628' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18' lat='50.7805391' lon='7.1822406' />
+  <node id='2629' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18' lat='50.7804593' lon='7.1823083' />
+  <node id='2630' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18' lat='50.7804593' lon='7.1822406' />
+  <node id='2631' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18' lat='50.7804201' lon='7.1822406' />
+  <node id='2632' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18' lat='50.7804408' lon='7.1822748' />
+  <node id='2633' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18' lat='50.7805607' lon='7.1822742' />
   <way id='1' timestamp='2018-09-30T17:43:57Z' uid='1' user='Dharmin' version='1' changeset='1'>
     <nd ref='9' />
     <nd ref='5' />
@@ -2600,13 +2600,13 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
   </way>
-  <way id='4' timestamp='2018-09-30T17:43:57Z' uid='1' user='Dharmin' version='1' changeset='1'>
+  <way id='4' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='11' />
     <nd ref='12' />
     <nd ref='21' />
     <nd ref='22' />
     <nd ref='11' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -2623,13 +2623,13 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
   </way>
-  <way id='6' timestamp='2018-09-30T17:43:57Z' uid='1' user='Dharmin' version='1' changeset='1'>
+  <way id='6' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='18' />
     <nd ref='17' />
     <nd ref='41' />
     <nd ref='42' />
     <nd ref='18' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -2646,13 +2646,13 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
   </way>
-  <way id='8' timestamp='2018-09-30T17:43:57Z' uid='1' user='Dharmin' version='1' changeset='1'>
+  <way id='8' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='26' />
     <nd ref='25' />
     <nd ref='29' />
     <nd ref='30' />
     <nd ref='26' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='inside' />
@@ -2678,13 +2678,13 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
   </way>
-  <way id='11' timestamp='2018-09-30T17:43:57Z' uid='1' user='Dharmin' version='1' changeset='1'>
+  <way id='11' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='34' />
     <nd ref='33' />
     <nd ref='37' />
     <nd ref='38' />
     <nd ref='34' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -2719,13 +2719,13 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
   </way>
-  <way id='15' timestamp='2018-09-30T17:43:57Z' uid='1' user='Dharmin' version='1' changeset='1'>
+  <way id='15' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='68' />
     <nd ref='46' />
     <nd ref='43' />
     <nd ref='67' />
     <nd ref='68' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -2828,13 +2828,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='0' />
   </way>
-  <way id='25' timestamp='2018-09-30T17:43:58Z' uid='1' user='Dharmin' version='1' changeset='1'>
+  <way id='25' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='77' />
     <nd ref='74' />
     <nd ref='82' />
     <nd ref='83' />
     <nd ref='77' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -2887,13 +2887,13 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
   </way>
-  <way id='31' timestamp='2018-10-03T19:23:52Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='31' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='90' />
     <nd ref='91' />
     <nd ref='86' />
     <nd ref='89' />
     <nd ref='90' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -3583,13 +3583,13 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
   </way>
-  <way id='102' timestamp='2018-10-03T19:23:54Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='102' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='341' />
     <nd ref='340' />
     <nd ref='343' />
     <nd ref='344' />
     <nd ref='341' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -3606,13 +3606,13 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
   </way>
-  <way id='104' timestamp='2018-10-03T19:23:54Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='104' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='347' />
     <nd ref='351' />
     <nd ref='348' />
     <nd ref='346' />
     <nd ref='347' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -3638,13 +3638,13 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
   </way>
-  <way id='107' timestamp='2018-10-03T19:23:54Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='107' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='358' />
     <nd ref='355' />
     <nd ref='354' />
     <nd ref='359' />
     <nd ref='358' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -3652,13 +3652,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='0' />
   </way>
-  <way id='108' timestamp='2018-10-03T19:23:54Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='108' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='356' />
     <nd ref='357' />
     <nd ref='361' />
     <nd ref='362' />
     <nd ref='356' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -3684,13 +3684,13 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
   </way>
-  <way id='111' timestamp='2018-10-03T19:23:54Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='111' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='457' />
     <nd ref='415' />
     <nd ref='416' />
     <nd ref='458' />
     <nd ref='457' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -3698,13 +3698,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='0' />
   </way>
-  <way id='112' timestamp='2018-10-03T19:23:54Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='112' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='466' />
     <nd ref='460' />
     <nd ref='463' />
     <nd ref='465' />
     <nd ref='466' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -3712,13 +3712,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='0' />
   </way>
-  <way id='113' timestamp='2018-10-03T19:23:54Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='113' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='365' />
     <nd ref='433' />
     <nd ref='434' />
     <nd ref='366' />
     <nd ref='365' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -3726,13 +3726,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='0' />
   </way>
-  <way id='114' timestamp='2018-10-03T19:23:54Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='114' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='369' />
     <nd ref='364' />
     <nd ref='367' />
     <nd ref='368' />
     <nd ref='369' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -3758,13 +3758,13 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
   </way>
-  <way id='117' timestamp='2018-10-03T19:23:54Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='117' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='436' />
     <nd ref='408' />
     <nd ref='405' />
     <nd ref='439' />
     <nd ref='436' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='inside' />
@@ -3996,13 +3996,13 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
   </way>
-  <way id='140' timestamp='2018-10-03T19:23:55Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='140' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='431' />
     <nd ref='420' />
     <nd ref='419' />
     <nd ref='430' />
     <nd ref='431' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='yes' />
     <tag k='door:direction' v='outside' />
@@ -4019,13 +4019,13 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
   </way>
-  <way id='142' timestamp='2018-10-03T19:23:55Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='142' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='449' />
     <nd ref='450' />
     <nd ref='445' />
     <nd ref='446' />
     <nd ref='449' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='inside' />
@@ -4127,13 +4127,13 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
   </way>
-  <way id='153' timestamp='2018-10-03T19:23:56Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='153' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='470' />
     <nd ref='467' />
     <nd ref='468' />
     <nd ref='471' />
     <nd ref='470' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -4159,13 +4159,13 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
   </way>
-  <way id='156' timestamp='2018-10-03T19:23:56Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='156' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='474' />
     <nd ref='486' />
     <nd ref='487' />
     <nd ref='473' />
     <nd ref='474' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='inside' />
@@ -4191,13 +4191,13 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
   </way>
-  <way id='159' timestamp='2018-10-03T19:23:56Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='159' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='525' />
     <nd ref='509' />
     <nd ref='512' />
     <nd ref='524' />
     <nd ref='525' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -4403,13 +4403,13 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
   </way>
-  <way id='181' timestamp='2018-10-03T19:23:56Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='181' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='482' />
     <nd ref='478' />
     <nd ref='480' />
     <nd ref='483' />
     <nd ref='482' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -4417,13 +4417,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='0' />
   </way>
-  <way id='182' timestamp='2018-10-03T19:23:56Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='182' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='497' />
     <nd ref='505' />
     <nd ref='506' />
     <nd ref='500' />
     <nd ref='497' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -4431,13 +4431,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='0' />
   </way>
-  <way id='183' timestamp='2018-10-03T19:23:56Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='183' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='507' />
     <nd ref='514' />
     <nd ref='515' />
     <nd ref='508' />
     <nd ref='507' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -4445,13 +4445,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='0' />
   </way>
-  <way id='184' timestamp='2018-10-03T19:23:57Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='184' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='490' />
     <nd ref='501' />
     <nd ref='504' />
     <nd ref='491' />
     <nd ref='490' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -4459,13 +4459,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='0' />
   </way>
-  <way id='185' timestamp='2018-10-03T19:23:57Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='185' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='517' />
     <nd ref='520' />
     <nd ref='521' />
     <nd ref='518' />
     <nd ref='517' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -4473,13 +4473,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='0' />
   </way>
-  <way id='186' timestamp='2018-10-03T19:23:57Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='186' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='510' />
     <nd ref='493' />
     <nd ref='496' />
     <nd ref='511' />
     <nd ref='510' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -4519,13 +4519,13 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
   </way>
-  <way id='190' timestamp='2018-10-03T19:23:57Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='190' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='575' />
     <nd ref='580' />
     <nd ref='581' />
     <nd ref='578' />
     <nd ref='575' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -4533,13 +4533,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='0' />
   </way>
-  <way id='191' timestamp='2018-10-03T19:23:57Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='191' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='583' />
     <nd ref='588' />
     <nd ref='589' />
     <nd ref='586' />
     <nd ref='583' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -4547,13 +4547,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='0' />
   </way>
-  <way id='192' timestamp='2018-10-03T19:23:57Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='192' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='591' />
     <nd ref='596' />
     <nd ref='597' />
     <nd ref='594' />
     <nd ref='591' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -4561,13 +4561,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='0' />
   </way>
-  <way id='193' timestamp='2018-10-03T19:23:57Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='193' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='599' />
     <nd ref='604' />
     <nd ref='605' />
     <nd ref='602' />
     <nd ref='599' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -4575,13 +4575,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='0' />
   </way>
-  <way id='194' timestamp='2018-10-03T19:23:57Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='194' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='619' />
     <nd ref='620' />
     <nd ref='623' />
     <nd ref='622' />
     <nd ref='619' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -4603,13 +4603,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='0' />
   </way>
-  <way id='196' timestamp='2018-10-03T19:23:57Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='196' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='635' />
     <nd ref='636' />
     <nd ref='633' />
     <nd ref='634' />
     <nd ref='635' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -4617,13 +4617,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='0' />
   </way>
-  <way id='197' timestamp='2018-10-03T19:23:57Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='197' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='668' />
     <nd ref='672' />
     <nd ref='675' />
     <nd ref='671' />
     <nd ref='668' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -4687,13 +4687,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='0' />
   </way>
-  <way id='202' timestamp='2018-10-03T19:23:57Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='202' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='649' />
     <nd ref='650' />
     <nd ref='646' />
     <nd ref='647' />
     <nd ref='649' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='inside' />
@@ -4701,13 +4701,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='0' />
   </way>
-  <way id='203' timestamp='2018-10-03T19:23:57Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='203' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='655' />
     <nd ref='656' />
     <nd ref='653' />
     <nd ref='654' />
     <nd ref='655' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='double_doors' v='no' />
     <tag k='indoor' v='door' />
@@ -4746,13 +4746,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='0' />
   </way>
-  <way id='207' timestamp='2018-10-03T19:23:58Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='207' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='715' />
     <nd ref='710' />
     <nd ref='713' />
     <nd ref='716' />
     <nd ref='715' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -4760,13 +4760,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='0' />
   </way>
-  <way id='208' timestamp='2018-10-03T19:23:58Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='208' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='731' />
     <nd ref='718' />
     <nd ref='721' />
     <nd ref='732' />
     <nd ref='731' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -4774,13 +4774,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='0' />
   </way>
-  <way id='209' timestamp='2018-10-03T19:23:58Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='209' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='723' />
     <nd ref='730' />
     <nd ref='733' />
     <nd ref='724' />
     <nd ref='723' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -4788,13 +4788,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='0' />
   </way>
-  <way id='210' timestamp='2018-10-03T19:23:58Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='210' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='735' />
     <nd ref='726' />
     <nd ref='729' />
     <nd ref='736' />
     <nd ref='735' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -4802,13 +4802,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='0' />
   </way>
-  <way id='211' timestamp='2018-10-03T19:23:58Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='211' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='740' />
     <nd ref='734' />
     <nd ref='737' />
     <nd ref='739' />
     <nd ref='740' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -4816,13 +4816,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='0' />
   </way>
-  <way id='212' timestamp='2018-10-03T19:23:58Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='212' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='746' />
     <nd ref='742' />
     <nd ref='745' />
     <nd ref='747' />
     <nd ref='746' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='inside' />
@@ -5439,13 +5439,13 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
   </way>
-  <way id='278' timestamp='2018-10-03T19:24:00Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='278' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='797' />
     <nd ref='794' />
     <nd ref='821' />
     <nd ref='822' />
     <nd ref='797' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -5512,13 +5512,13 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
   </way>
-  <way id='285' timestamp='2018-10-03T19:24:00Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='285' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='813' />
     <nd ref='810' />
     <nd ref='814' />
     <nd ref='817' />
     <nd ref='813' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='inside' />
@@ -5535,13 +5535,13 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
   </way>
-  <way id='287' timestamp='2018-10-03T19:24:00Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='287' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='816' />
     <nd ref='815' />
     <nd ref='819' />
     <nd ref='818' />
     <nd ref='816' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -6817,13 +6817,13 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
   </way>
-  <way id='396' timestamp='2018-10-04T21:05:32Z' uid='1' user='Dharmin' version='1' changeset='4'>
+  <way id='396' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='1219' />
     <nd ref='1216' />
     <nd ref='1215' />
     <nd ref='1218' />
     <nd ref='1219' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -8564,13 +8564,13 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='2' />
   </way>
-  <way id='621' timestamp='2018-10-10T11:13:13Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='621' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='1759' />
     <nd ref='1737' />
     <nd ref='1734' />
     <nd ref='1760' />
     <nd ref='1759' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -9103,13 +9103,13 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='2' />
   </way>
-  <way id='679' timestamp='2018-10-10T11:13:14Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='679' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='1988' />
     <nd ref='1985' />
     <nd ref='1986' />
     <nd ref='1989' />
     <nd ref='1988' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -9117,13 +9117,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='680' timestamp='2018-10-10T11:13:14Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='680' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='2005' />
     <nd ref='2002' />
     <nd ref='1944' />
     <nd ref='1942' />
     <nd ref='2005' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -9300,13 +9300,13 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='2' />
   </way>
-  <way id='699' timestamp='2018-10-10T11:13:15Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='699' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='1954' />
     <nd ref='1959' />
     <nd ref='1969' />
     <nd ref='1968' />
     <nd ref='1954' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -9314,26 +9314,26 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='700' timestamp='2018-10-10T11:13:15Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='700' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='1935' />
     <nd ref='1927' />
     <nd ref='1926' />
     <nd ref='1936' />
     <nd ref='1935' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:direction' v='outside' />
     <tag k='double_doors' v='yes' />
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='701' timestamp='2018-10-10T11:13:15Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='701' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='1964' />
     <nd ref='1963' />
     <nd ref='1940' />
     <nd ref='1939' />
     <nd ref='1964' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -9341,13 +9341,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='702' timestamp='2018-10-10T11:13:15Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='702' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='1965' />
     <nd ref='1921' />
     <nd ref='1918' />
     <nd ref='1966' />
     <nd ref='1965' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='inside' />
@@ -9355,13 +9355,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='703' timestamp='2018-10-10T11:13:15Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='703' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='1916' />
     <nd ref='2044' />
     <nd ref='2048' />
     <nd ref='1915' />
     <nd ref='1916' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -9369,13 +9369,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='704' timestamp='2018-10-10T11:13:15Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='704' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='2046' />
     <nd ref='2036' />
     <nd ref='2040' />
     <nd ref='2045' />
     <nd ref='2046' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -9383,13 +9383,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='705' timestamp='2018-10-10T11:13:15Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='705' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='2038' />
     <nd ref='1905' />
     <nd ref='1902' />
     <nd ref='2037' />
     <nd ref='2038' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -9397,13 +9397,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='706' timestamp='2018-10-10T11:13:15Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='706' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='1900' />
     <nd ref='1897' />
     <nd ref='1894' />
     <nd ref='1899' />
     <nd ref='1900' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -9411,13 +9411,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='707' timestamp='2018-10-10T11:13:15Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='707' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='1892' />
     <nd ref='1889' />
     <nd ref='1883' />
     <nd ref='1891' />
     <nd ref='1892' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -9425,13 +9425,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='708' timestamp='2018-10-10T11:13:15Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='708' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='1880' />
     <nd ref='1873' />
     <nd ref='1870' />
     <nd ref='1879' />
     <nd ref='1880' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -9439,13 +9439,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='709' timestamp='2018-10-10T11:13:16Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='709' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='1868' />
     <nd ref='1851' />
     <nd ref='1843' />
     <nd ref='1867' />
     <nd ref='1868' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -9453,13 +9453,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='710' timestamp='2018-10-10T11:13:16Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='710' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='1856' />
     <nd ref='1835' />
     <nd ref='1827' />
     <nd ref='1853' />
     <nd ref='1856' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -9467,13 +9467,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='711' timestamp='2018-10-10T11:13:16Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='711' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='1840' />
     <nd ref='1820' />
     <nd ref='1814' />
     <nd ref='1837' />
     <nd ref='1840' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -9481,13 +9481,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='712' timestamp='2018-10-10T11:13:16Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='712' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='1824' />
     <nd ref='1810' />
     <nd ref='1806' />
     <nd ref='1821' />
     <nd ref='1824' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -9495,13 +9495,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='713' timestamp='2018-10-10T11:13:16Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='713' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='1812' />
     <nd ref='1798' />
     <nd ref='1791' />
     <nd ref='1811' />
     <nd ref='1812' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -9509,13 +9509,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='714' timestamp='2018-10-10T11:13:16Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='714' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='1803' />
     <nd ref='1782' />
     <nd ref='1778' />
     <nd ref='1800' />
     <nd ref='1803' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -9523,13 +9523,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='715' timestamp='2018-10-10T11:13:16Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='715' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='1785' />
     <nd ref='1774' />
     <nd ref='1770' />
     <nd ref='1783' />
     <nd ref='1785' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -9537,13 +9537,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='716' timestamp='2018-10-10T11:13:16Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='716' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='1776' />
     <nd ref='1766' />
     <nd ref='1762' />
     <nd ref='1775' />
     <nd ref='1776' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -9551,13 +9551,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='717' timestamp='2018-10-10T11:13:16Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='717' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='1768' />
     <nd ref='1750' />
     <nd ref='1746' />
     <nd ref='1767' />
     <nd ref='1768' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -9565,13 +9565,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='718' timestamp='2018-10-10T11:13:16Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='718' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='1752' />
     <nd ref='1758' />
     <nd ref='1754' />
     <nd ref='1751' />
     <nd ref='1752' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -9579,13 +9579,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='719' timestamp='2018-10-10T11:13:16Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='719' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='2074' />
     <nd ref='2078' />
     <nd ref='2079' />
     <nd ref='2077' />
     <nd ref='2074' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -9593,13 +9593,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='720' timestamp='2018-10-10T11:13:16Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='720' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='2066' />
     <nd ref='2071' />
     <nd ref='2072' />
     <nd ref='2065' />
     <nd ref='2066' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -9607,13 +9607,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='721' timestamp='2018-10-10T11:13:16Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='721' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='2058' />
     <nd ref='2064' />
     <nd ref='2068' />
     <nd ref='2061' />
     <nd ref='2058' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -9621,13 +9621,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='722' timestamp='2018-10-10T11:13:16Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='722' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='2054' />
     <nd ref='2008' />
     <nd ref='2012' />
     <nd ref='2057' />
     <nd ref='2054' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -9635,13 +9635,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='723' timestamp='2018-10-10T11:13:16Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='723' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='2022' />
     <nd ref='2051' />
     <nd ref='2052' />
     <nd ref='2021' />
     <nd ref='2022' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -9649,13 +9649,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='724' timestamp='2018-10-10T11:13:16Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='724' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='2030' />
     <nd ref='2015' />
     <nd ref='2016' />
     <nd ref='2029' />
     <nd ref='2030' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -9663,13 +9663,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='725' timestamp='2018-10-10T11:13:16Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='725' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='2000' />
     <nd ref='2028' />
     <nd ref='2032' />
     <nd ref='1999' />
     <nd ref='2000' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -10080,13 +10080,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='769' timestamp='2018-10-10T11:13:18Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='769' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='1655' />
     <nd ref='1658' />
     <nd ref='1657' />
     <nd ref='1654' />
     <nd ref='1655' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -10094,13 +10094,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='770' timestamp='2018-10-10T11:13:18Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='770' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='2169' />
     <nd ref='2166' />
     <nd ref='1692' />
     <nd ref='1693' />
     <nd ref='2169' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -10117,13 +10117,13 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='2' />
   </way>
-  <way id='772' timestamp='2018-10-10T11:13:18Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='772' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='1686' />
     <nd ref='1683' />
     <nd ref='1674' />
     <nd ref='1675' />
     <nd ref='1686' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -10144,13 +10144,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='774' timestamp='2018-10-10T11:13:18Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='774' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='1679' />
     <nd ref='1680' />
     <nd ref='1695' />
     <nd ref='1696' />
     <nd ref='1679' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -10158,13 +10158,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='775' timestamp='2018-10-10T11:13:18Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='775' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='1678' />
     <nd ref='2371' />
     <nd ref='2368' />
     <nd ref='1677' />
     <nd ref='1678' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='inside' />
@@ -10172,13 +10172,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='776' timestamp='2018-10-10T11:13:18Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='776' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='2366' />
     <nd ref='2208' />
     <nd ref='2212' />
     <nd ref='2365' />
     <nd ref='2366' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -10186,13 +10186,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='777' timestamp='2018-10-10T11:13:18Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='777' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='2210' />
     <nd ref='2200' />
     <nd ref='2204' />
     <nd ref='2209' />
     <nd ref='2210' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -10200,13 +10200,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='778' timestamp='2018-10-10T11:13:18Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='778' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='2202' />
     <nd ref='2363' />
     <nd ref='2360' />
     <nd ref='2201' />
     <nd ref='2202' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -10214,13 +10214,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='779' timestamp='2018-10-10T11:13:18Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='779' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='2358' />
     <nd ref='2355' />
     <nd ref='2352' />
     <nd ref='2357' />
     <nd ref='2358' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -10228,13 +10228,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='780' timestamp='2018-10-10T11:13:18Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='780' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='2350' />
     <nd ref='2347' />
     <nd ref='2344' />
     <nd ref='2349' />
     <nd ref='2350' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -10242,13 +10242,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='781' timestamp='2018-10-10T11:13:18Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='781' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='2342' />
     <nd ref='2339' />
     <nd ref='2336' />
     <nd ref='2341' />
     <nd ref='2342' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -10256,13 +10256,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='782' timestamp='2018-10-10T11:13:18Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='782' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='2334' />
     <nd ref='2328' />
     <nd ref='2324' />
     <nd ref='2333' />
     <nd ref='2334' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -10270,13 +10270,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='783' timestamp='2018-10-10T11:13:18Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='783' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='2330' />
     <nd ref='2320' />
     <nd ref='2316' />
     <nd ref='2329' />
     <nd ref='2330' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -10284,13 +10284,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='784' timestamp='2018-10-10T11:13:18Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='784' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='2322' />
     <nd ref='2312' />
     <nd ref='2308' />
     <nd ref='2321' />
     <nd ref='2322' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -10298,13 +10298,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='785' timestamp='2018-10-10T11:13:18Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='785' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='2314' />
     <nd ref='2304' />
     <nd ref='2300' />
     <nd ref='2313' />
     <nd ref='2314' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -10312,13 +10312,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='786' timestamp='2018-10-10T11:13:18Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='786' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='2306' />
     <nd ref='2296' />
     <nd ref='2292' />
     <nd ref='2305' />
     <nd ref='2306' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -10326,13 +10326,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='787' timestamp='2018-10-10T11:13:19Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='787' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='2298' />
     <nd ref='2288' />
     <nd ref='2284' />
     <nd ref='2297' />
     <nd ref='2298' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -10340,13 +10340,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='788' timestamp='2018-10-10T11:13:19Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='788' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='2290' />
     <nd ref='2280' />
     <nd ref='2276' />
     <nd ref='2289' />
     <nd ref='2290' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -10354,13 +10354,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='789' timestamp='2018-10-10T11:13:19Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='789' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='2282' />
     <nd ref='2272' />
     <nd ref='2268' />
     <nd ref='2281' />
     <nd ref='2282' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -10368,13 +10368,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='790' timestamp='2018-10-10T11:13:19Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='790' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='2274' />
     <nd ref='2256' />
     <nd ref='2252' />
     <nd ref='2273' />
     <nd ref='2274' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -10382,13 +10382,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='791' timestamp='2018-10-10T11:13:19Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='791' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='2258' />
     <nd ref='2264' />
     <nd ref='2260' />
     <nd ref='2257' />
     <nd ref='2258' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -10396,13 +10396,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='792' timestamp='2018-10-10T11:13:19Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='792' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='2248' />
     <nd ref='2245' />
     <nd ref='2249' />
     <nd ref='2250' />
     <nd ref='2248' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -10410,13 +10410,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='793' timestamp='2018-10-10T11:13:19Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='793' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='2238' />
     <nd ref='2242' />
     <nd ref='2243' />
     <nd ref='2241' />
     <nd ref='2238' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -10424,13 +10424,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='794' timestamp='2018-10-10T11:13:19Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='794' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='2230' />
     <nd ref='2235' />
     <nd ref='2236' />
     <nd ref='2229' />
     <nd ref='2230' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -10438,13 +10438,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='795' timestamp='2018-10-10T11:13:19Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='795' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='2222' />
     <nd ref='2228' />
     <nd ref='2232' />
     <nd ref='2225' />
     <nd ref='2222' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -10452,13 +10452,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='796' timestamp='2018-10-10T11:13:19Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='796' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='2218' />
     <nd ref='2172' />
     <nd ref='2176' />
     <nd ref='2221' />
     <nd ref='2218' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -10466,13 +10466,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='797' timestamp='2018-10-10T11:13:19Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='797' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='2186' />
     <nd ref='2215' />
     <nd ref='2216' />
     <nd ref='2185' />
     <nd ref='2186' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -10480,13 +10480,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='798' timestamp='2018-10-10T11:13:19Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='798' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='2194' />
     <nd ref='2179' />
     <nd ref='2180' />
     <nd ref='2193' />
     <nd ref='2194' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -10494,13 +10494,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='2' />
   </way>
-  <way id='799' timestamp='2018-10-10T11:13:19Z' uid='1' user='Dharmin' version='1' changeset='10'>
+  <way id='799' timestamp='2018-10-20T12:13:07Z' version='2' changeset='20'>
     <nd ref='1639' />
     <nd ref='2192' />
     <nd ref='2196' />
     <nd ref='1640' />
     <nd ref='1639' />
-    <tag k='always_closed' v='no' />
+    <tag k='always_closed' v='yes' />
     <tag k='door' v='hinged' />
     <tag k='door:automatic' v='no' />
     <tag k='door:direction' v='outside' />
@@ -10988,7 +10988,7 @@
     <tag k='level' v='2' />
     <tag k='oneway' v='yes' />
   </way>
-  <way id='856' timestamp='2018-10-17T12:16:03Z' version='2' changeset='18'>
+  <way id='856' timestamp='2018-10-17T12:16:03Z' uid='1' user='Dharmin' version='2' changeset='18'>
     <nd ref='2396' />
     <nd ref='2383' />
     <tag k='highway' v='local-way' />
@@ -11079,7 +11079,7 @@
     <tag k='level' v='2' />
     <tag k='oneway' v='yes' />
   </way>
-  <way id='871' timestamp='2018-10-17T12:16:03Z' version='2' changeset='18'>
+  <way id='871' timestamp='2018-10-17T12:16:03Z' uid='1' user='Dharmin' version='2' changeset='18'>
     <nd ref='2400' />
     <nd ref='2399' />
     <tag k='highway' v='local-way' />
@@ -11187,7 +11187,7 @@
     <tag k='level' v='2' />
     <tag k='oneway' v='no' />
   </way>
-  <way id='885' timestamp='2018-10-17T12:16:03Z' version='2' changeset='18'>
+  <way id='885' timestamp='2018-10-17T12:16:03Z' uid='1' user='Dharmin' version='2' changeset='18'>
     <nd ref='1307' />
     <nd ref='2404' />
     <nd ref='2428' />
@@ -11833,63 +11833,63 @@
     <tag k='min-level' v='0' />
     <tag k='name' v='BRSU' />
   </way>
-  <way id='951' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18'>
+  <way id='951' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18'>
     <nd ref='2611' />
     <nd ref='2397' />
     <tag k='highway' v='local-way' />
     <tag k='level' v='2' />
     <tag k='oneway' v='yes' />
   </way>
-  <way id='952' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18'>
+  <way id='952' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18'>
     <nd ref='2398' />
     <nd ref='2611' />
     <tag k='highway' v='local-way' />
     <tag k='level' v='2' />
     <tag k='oneway' v='yes' />
   </way>
-  <way id='953' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18'>
+  <way id='953' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18'>
     <nd ref='2610' />
     <nd ref='2398' />
     <tag k='highway' v='local-way' />
     <tag k='level' v='2' />
     <tag k='oneway' v='yes' />
   </way>
-  <way id='954' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18'>
+  <way id='954' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18'>
     <nd ref='2399' />
     <nd ref='2610' />
     <tag k='highway' v='local-way' />
     <tag k='level' v='2' />
     <tag k='oneway' v='yes' />
   </way>
-  <way id='955' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18'>
+  <way id='955' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18'>
     <nd ref='2610' />
     <nd ref='2381' />
     <tag k='highway' v='local-way' />
     <tag k='level' v='2' />
     <tag k='oneway' v='yes' />
   </way>
-  <way id='956' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18'>
+  <way id='956' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18'>
     <nd ref='2382' />
     <nd ref='2610' />
     <tag k='highway' v='local-way' />
     <tag k='level' v='2' />
     <tag k='oneway' v='yes' />
   </way>
-  <way id='957' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18'>
+  <way id='957' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18'>
     <nd ref='2611' />
     <nd ref='2382' />
     <tag k='highway' v='local-way' />
     <tag k='level' v='2' />
     <tag k='oneway' v='yes' />
   </way>
-  <way id='958' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18'>
+  <way id='958' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18'>
     <nd ref='2383' />
     <nd ref='2611' />
     <tag k='highway' v='local-way' />
     <tag k='level' v='2' />
     <tag k='oneway' v='yes' />
   </way>
-  <way id='959' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18'>
+  <way id='959' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18'>
     <nd ref='2615' />
     <nd ref='2614' />
     <nd ref='2613' />
@@ -11898,7 +11898,7 @@
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_C_L2_C18_LA1' />
   </way>
-  <way id='960' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18'>
+  <way id='960' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18'>
     <nd ref='2620' />
     <nd ref='2617' />
     <nd ref='2616' />
@@ -11907,7 +11907,7 @@
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_C_L2_C17_LA2' />
   </way>
-  <way id='961' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18'>
+  <way id='961' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18'>
     <nd ref='2621' />
     <nd ref='2620' />
     <nd ref='2619' />
@@ -11916,7 +11916,7 @@
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_C_L2_C17_LA1' />
   </way>
-  <way id='962' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18'>
+  <way id='962' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18'>
     <nd ref='2625' />
     <nd ref='2624' />
     <nd ref='2623' />
@@ -11925,7 +11925,7 @@
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_C_L2_C7_LA1' />
   </way>
-  <way id='963' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18'>
+  <way id='963' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18'>
     <nd ref='2627' />
     <nd ref='2628' />
     <nd ref='2626' />
@@ -11938,7 +11938,7 @@
     <tag k='ref' v='BRSU_C_L2_C18' />
     <tag k='surface:smoothness' v='excellent' />
   </way>
-  <way id='964' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18'>
+  <way id='964' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18'>
     <nd ref='2629' />
     <nd ref='2630' />
     <nd ref='2628' />
@@ -11950,7 +11950,7 @@
     <tag k='ref' v='BRSU_C_L2_C17' />
     <tag k='surface:smoothness' v='excellent' />
   </way>
-  <way id='965' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18'>
+  <way id='965' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18'>
     <nd ref='2558' />
     <nd ref='2559' />
     <nd ref='2631' />
@@ -13056,7 +13056,7 @@
     <tag k='ref' v='BRSU_C_L2_C8_LA1' />
     <tag k='type' v='local_area' />
   </relation>
-  <relation id='146' timestamp='2018-10-17T12:16:03Z' version='2' changeset='18'>
+  <relation id='146' timestamp='2018-10-17T12:16:03Z' uid='1' user='Dharmin' version='2' changeset='18'>
     <member type='way' ref='962' role='geometry' />
     <member type='node' ref='2610' role='topology' />
     <tag k='ref' v='BRSU_C_L2_C7_LA1' />
@@ -13214,7 +13214,7 @@
     <tag k='ref' v='BRSU_C_L2_C13' />
     <tag k='type' v='corridor' />
   </relation>
-  <relation id='172' timestamp='2018-10-17T12:36:45Z' version='4' changeset='19'>
+  <relation id='172' timestamp='2018-10-17T12:36:45Z' uid='1' user='Dharmin' version='4' changeset='19'>
     <member type='way' ref='929' role='geometry' />
     <member type='node' ref='2424' role='topology' />
     <member type='way' ref='853' role='local_connection' />
@@ -13257,7 +13257,7 @@
     <tag k='ref' v='BRSU_C_L2_C5' />
     <tag k='type' v='corridor' />
   </relation>
-  <relation id='176' timestamp='2018-10-17T12:16:03Z' version='3' changeset='18'>
+  <relation id='176' timestamp='2018-10-17T12:16:03Z' uid='1' user='Dharmin' version='3' changeset='18'>
     <member type='way' ref='927' role='geometry' />
     <member type='node' ref='2420' role='topology' />
     <member type='way' ref='868' role='local_connection' />
@@ -13268,7 +13268,7 @@
     <tag k='ref' v='BRSU_C_L2_C8' />
     <tag k='type' v='corridor' />
   </relation>
-  <relation id='177' timestamp='2018-10-17T12:16:03Z' version='3' changeset='18'>
+  <relation id='177' timestamp='2018-10-17T12:16:03Z' uid='1' user='Dharmin' version='3' changeset='18'>
     <member type='way' ref='925' role='geometry' />
     <member type='node' ref='2419' role='topology' />
     <member type='way' ref='867' role='local_connection' />
@@ -13317,7 +13317,7 @@
     <tag k='ref' v='BRSU_C_L2_C10' />
     <tag k='type' v='corridor' />
   </relation>
-  <relation id='182' timestamp='2018-10-17T12:36:45Z' version='4' changeset='19'>
+  <relation id='182' timestamp='2018-10-17T12:36:45Z' uid='1' user='Dharmin' version='4' changeset='19'>
     <member type='way' ref='934' role='geometry' />
     <member type='node' ref='2425' role='topology' />
     <member type='way' ref='878' role='local_connection' />
@@ -13347,7 +13347,7 @@
     <tag k='ref' v='BRSU_C_L2_C12' />
     <tag k='type' v='corridor' />
   </relation>
-  <relation id='185' timestamp='2018-10-17T12:16:03Z' version='3' changeset='18'>
+  <relation id='185' timestamp='2018-10-17T12:16:03Z' uid='1' user='Dharmin' version='3' changeset='18'>
     <member type='way' ref='946' role='geometry' />
     <member type='relation' ref='179' role='corridor' />
     <member type='relation' ref='170' role='corridor' />
@@ -13404,7 +13404,7 @@
     <tag k='ref' v='BRSU' />
     <tag k='type' v='building' />
   </relation>
-  <relation id='190' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18'>
+  <relation id='190' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18'>
     <member type='way' ref='965' role='geometry' />
     <member type='node' ref='2632' role='topology' />
     <member type='way' ref='953' role='local_connection' />
@@ -13413,25 +13413,25 @@
     <tag k='ref' v='BRSU_C_L2_C7' />
     <tag k='type' v='junction' />
   </relation>
-  <relation id='191' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18'>
+  <relation id='191' timestamp='2018-10-17T12:16:03Z' uid='1' user='Dharmin' version='1' changeset='18'>
     <member type='way' ref='959' role='geometry' />
     <member type='node' ref='2611' role='topology' />
     <tag k='ref' v='BRSU_C_L2_C18_LA1' />
     <tag k='type' v='local_area' />
   </relation>
-  <relation id='192' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18'>
+  <relation id='192' timestamp='2018-10-17T12:16:03Z' uid='1' user='Dharmin' version='1' changeset='18'>
     <member type='way' ref='960' role='geometry' />
     <member type='node' ref='2398' role='topology' />
     <tag k='ref' v='BRSU_C_L2_C17_LA2' />
     <tag k='type' v='local_area' />
   </relation>
-  <relation id='193' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18'>
+  <relation id='193' timestamp='2018-10-17T12:16:03Z' uid='1' user='Dharmin' version='1' changeset='18'>
     <member type='way' ref='961' role='geometry' />
     <member type='node' ref='2382' role='topology' />
     <tag k='ref' v='BRSU_C_L2_C17_LA1' />
     <tag k='type' v='local_area' />
   </relation>
-  <relation id='194' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18'>
+  <relation id='194' timestamp='2018-10-17T12:16:03Z' uid='1' user='Dharmin' version='1' changeset='18'>
     <member type='way' ref='963' role='geometry' />
     <member type='node' ref='2633' role='topology' />
     <member type='way' ref='951' role='local_connection' />
@@ -13440,7 +13440,7 @@
     <tag k='ref' v='BRSU_C_L2_C18' />
     <tag k='type' v='junction' />
   </relation>
-  <relation id='195' timestamp='2018-10-17T12:16:03Z' version='1' changeset='18'>
+  <relation id='195' timestamp='2018-10-17T12:16:03Z' uid='1' user='Dharmin' version='1' changeset='18'>
     <member type='way' ref='964' role='geometry' />
     <member type='node' ref='2422' role='topology' />
     <member type='way' ref='952' role='local_connection' />
