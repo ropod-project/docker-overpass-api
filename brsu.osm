@@ -7764,7 +7764,7 @@
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_A13_LA1' />
   </way>
-  <way id='533' timestamp='2019-01-14T15:10:29Z' version='2' changeset='28'>
+  <way id='533' timestamp='2019-01-15T14:37:45Z' uid='2' user='Lakshadeep' version='3' changeset='29'>
     <nd ref='1461' />
     <nd ref='1460' />
     <nd ref='1459' />
@@ -7772,7 +7772,7 @@
     <nd ref='1461' />
     <tag k='behaviour' v='undocking' />
     <tag k='level' v='0' />
-    <tag k='ref' v='BRSU_C_L0_A1_LA1' />
+    <tag k='ref' v='BRSU_A_L0_A1_LA1' />
   </way>
   <way id='534' timestamp='2018-10-05T15:59:59Z' uid='1' user='Dharmin' version='1' changeset='5'>
     <nd ref='1465' />
@@ -8071,7 +8071,7 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
   </way>
-  <way id='567' timestamp='2019-01-14T15:10:29Z' version='2' changeset='28'>
+  <way id='567' timestamp='2019-01-14T15:10:29Z' uid='2' user='Lakshadeep' version='2' changeset='28'>
     <nd ref='1572' />
     <nd ref='1573' />
     <nd ref='1571' />
@@ -8081,7 +8081,7 @@
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C9_LA1' />
   </way>
-  <way id='568' timestamp='2019-01-14T15:10:29Z' version='2' changeset='28'>
+  <way id='568' timestamp='2019-01-14T15:10:29Z' uid='2' user='Lakshadeep' version='2' changeset='28'>
     <nd ref='1575' />
     <nd ref='1574' />
     <nd ref='1573' />
@@ -8217,7 +8217,7 @@
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C4_LA1' />
   </way>
-  <way id='583' timestamp='2019-01-14T15:10:29Z' version='2' changeset='28'>
+  <way id='583' timestamp='2019-01-14T15:10:29Z' uid='2' user='Lakshadeep' version='2' changeset='28'>
     <nd ref='1624' />
     <nd ref='1623' />
     <nd ref='1622' />
@@ -11416,12 +11416,13 @@
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_C_L2_C3_LA1' />
   </way>
-  <way id='913' timestamp='2018-10-10T14:21:00Z' uid='1' user='Dharmin' version='1' changeset='11'>
+  <way id='913' action='modify' timestamp='2018-10-10T14:21:00Z' uid='1' user='Dharmin' version='1' changeset='11'>
     <nd ref='2519' />
     <nd ref='2518' />
     <nd ref='2517' />
     <nd ref='2516' />
     <nd ref='2519' />
+    <tag k='behaviour' v='undocking' />
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_C_L2_C2_LA1' />
   </way>
