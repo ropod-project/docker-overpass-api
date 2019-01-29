@@ -1668,13 +1668,11 @@
   <node id='1723' timestamp='2018-10-10T11:13:09Z' uid='1' user='Dharmin' version='1' changeset='10' lat='50.7806667' lon='7.1830701' />
   <node id='1724' timestamp='2018-10-10T11:13:09Z' uid='1' user='Dharmin' version='1' changeset='10' lat='50.7806667' lon='7.183065' />
   <node id='1725' timestamp='2018-10-10T11:13:09Z' uid='1' user='Dharmin' version='1' changeset='10' lat='50.7806636' lon='7.183065' />
-  <node id='1726' timestamp='2018-10-10T11:13:09Z' uid='1' user='Dharmin' version='1' changeset='10' lat='50.7805775' lon='7.1830512' />
-  <node id='1727' timestamp='2018-10-10T11:13:09Z' uid='1' user='Dharmin' version='1' changeset='10' lat='50.7806437' lon='7.1830495' />
-  <node id='1728' timestamp='2018-10-10T11:13:09Z' uid='1' user='Dharmin' version='1' changeset='10' lat='50.7805805' lon='7.1831224' />
-  <node id='1729' timestamp='2018-10-10T11:13:09Z' uid='1' user='Dharmin' version='1' changeset='10' lat='50.7805806' lon='7.1830493' />
-  <node id='1730' timestamp='2018-10-10T11:13:09Z' uid='1' user='Dharmin' version='1' changeset='10' lat='50.7805775' lon='7.1830493' />
-  <node id='1731' timestamp='2018-10-10T11:13:09Z' uid='1' user='Dharmin' version='1' changeset='10' lat='50.7805774' lon='7.1831224' />
-  <node id='1732' timestamp='2018-10-10T11:13:09Z' uid='1' user='Dharmin' version='1' changeset='10' lat='50.7805774' lon='7.1831167' />
+  <node id='1728' timestamp='2019-01-23T15:17:58Z' uid='1' user='Dharmin' version='2' changeset='35' lat='50.7806436' lon='7.1831234' />
+  <node id='1729' timestamp='2019-01-23T15:17:58Z' uid='1' user='Dharmin' version='2' changeset='35' lat='50.7806439' lon='7.1830829' />
+  <node id='1730' timestamp='2019-01-23T15:17:58Z' uid='1' user='Dharmin' version='2' changeset='35' lat='50.7806423' lon='7.1830829' />
+  <node id='1731' timestamp='2019-01-23T15:17:58Z' uid='1' user='Dharmin' version='2' changeset='35' lat='50.7806418' lon='7.1831234' />
+  <node id='1732' timestamp='2019-01-23T15:17:58Z' uid='1' user='Dharmin' version='2' changeset='35' lat='50.7806418' lon='7.1831175' />
   <node id='1733' timestamp='2018-10-10T11:13:09Z' uid='1' user='Dharmin' version='1' changeset='10' lat='50.7806667' lon='7.1831167' />
   <node id='1734' timestamp='2018-10-10T11:13:09Z' uid='1' user='Dharmin' version='1' changeset='10' lat='50.7806651' lon='7.1830996' />
   <node id='1735' timestamp='2018-10-10T11:13:09Z' uid='1' user='Dharmin' version='1' changeset='10' lat='50.780665' lon='7.1831227' />
@@ -2021,8 +2019,8 @@
   <node id='2077' timestamp='2018-10-10T11:13:11Z' uid='1' user='Dharmin' version='1' changeset='10' lat='50.7806439' lon='7.1830186' />
   <node id='2078' timestamp='2018-10-10T11:13:11Z' uid='1' user='Dharmin' version='1' changeset='10' lat='50.7806422' lon='7.1830322' />
   <node id='2079' timestamp='2018-10-10T11:13:11Z' uid='1' user='Dharmin' version='1' changeset='10' lat='50.7806437' lon='7.1830322' />
-  <node id='2080' timestamp='2018-10-10T11:13:11Z' uid='1' user='Dharmin' version='1' changeset='10' lat='50.7806437' lon='7.1830513' />
-  <node id='2081' timestamp='2018-10-10T11:13:11Z' uid='1' user='Dharmin' version='1' changeset='10' lat='50.7806421' lon='7.1830513' />
+  <node id='2080' timestamp='2019-01-23T15:17:58Z' uid='1' user='Dharmin' version='2' changeset='35' lat='50.7806439' lon='7.1830722' />
+  <node id='2081' timestamp='2019-01-23T15:17:58Z' uid='1' user='Dharmin' version='2' changeset='35' lat='50.7806423' lon='7.1830722' />
   <node id='2082' timestamp='2018-10-10T11:13:11Z' uid='1' user='Dharmin' version='1' changeset='10' lat='50.7803349' lon='7.1829713' />
   <node id='2083' timestamp='2018-10-10T11:13:11Z' uid='1' user='Dharmin' version='1' changeset='10' lat='50.7803318' lon='7.1829713' />
   <node id='2084' timestamp='2018-10-10T11:13:11Z' uid='1' user='Dharmin' version='1' changeset='10' lat='50.7803318' lon='7.1829662' />
@@ -2330,9 +2328,7 @@
   <node id='2386' timestamp='2018-10-10T14:20:57Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7806595' lon='7.1827945' />
   <node id='2387' timestamp='2018-10-10T14:20:57Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.780659' lon='7.1829834' />
   <node id='2388' timestamp='2018-10-10T14:20:57Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.780659' lon='7.1831048' />
-  <node id='2389' timestamp='2018-10-10T14:20:57Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7806104' lon='7.1831026' />
-  <node id='2390' timestamp='2018-10-10T14:20:57Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7806106' lon='7.1830771' />
-  <node id='2391' timestamp='2018-10-10T14:20:57Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7806502' lon='7.1830831' />
+  <node id='2391' timestamp='2019-01-23T15:17:58Z' uid='1' user='Dharmin' version='2' changeset='35' lat='50.7806501' lon='7.1831044' />
   <node id='2392' timestamp='2018-10-10T14:20:57Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7806501' lon='7.1829844' />
   <node id='2393' timestamp='2018-10-10T14:20:57Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7806497' lon='7.1827965' />
   <node id='2394' timestamp='2018-10-10T14:20:57Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.780649' lon='7.1825291' />
@@ -2352,7 +2348,6 @@
   <node id='2408' timestamp='2018-11-26T18:08:23Z' uid='1' user='Dharmin' version='2' changeset='23' lat='50.780344' lon='7.1823595' />
   <node id='2409' timestamp='2018-10-10T14:20:57Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7803443' lon='7.1823349' />
   <node id='2410' timestamp='2018-10-10T14:20:57Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7807014' lon='7.1822738' />
-  <node id='2411' timestamp='2018-10-10T14:20:57Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7806112' lon='7.1830917' />
   <node id='2412' timestamp='2018-10-10T14:20:57Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.780656' lon='7.1830971' />
   <node id='2413' timestamp='2018-10-10T14:20:57Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.780655' lon='7.1829839' />
   <node id='2414' timestamp='2018-11-26T18:08:23Z' uid='1' user='Dharmin' version='2' changeset='23' lat='50.7806542' lon='7.1828994' />
@@ -2370,18 +2365,10 @@
   <node id='2426' timestamp='2018-10-10T14:20:57Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7802954' lon='7.1822762' />
   <node id='2427' timestamp='2018-10-10T14:20:57Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7802575' lon='7.1822749' />
   <node id='2428' timestamp='2018-10-10T14:20:57Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7801548' lon='7.1822747' />
-  <node id='2429' timestamp='2018-10-10T14:20:57Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7806389' lon='7.183066' />
-  <node id='2430' timestamp='2018-10-10T14:20:57Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7805829' lon='7.183065' />
-  <node id='2431' timestamp='2018-10-10T14:20:57Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7806388' lon='7.1830893' />
-  <node id='2432' timestamp='2018-10-10T14:20:57Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7805827' lon='7.1830883' />
-  <node id='2433' timestamp='2018-10-10T14:20:57Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7805825' lon='7.1831129' />
-  <node id='2434' timestamp='2018-10-10T14:20:57Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7806386' lon='7.1831138' />
   <node id='2435' timestamp='2018-10-10T14:20:57Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7806456' lon='7.1830712' />
   <node id='2436' timestamp='2018-10-10T14:20:57Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7806545' lon='7.1830712' />
-  <node id='2437' timestamp='2018-10-10T14:20:57Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7806545' lon='7.1830944' />
-  <node id='2438' timestamp='2018-10-10T14:20:57Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7806456' lon='7.1830944' />
-  <node id='2439' timestamp='2018-10-10T14:20:57Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7806456' lon='7.1831145' />
-  <node id='2440' timestamp='2018-10-10T14:20:57Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7806634' lon='7.1831144' />
+  <node id='2438' timestamp='2019-01-23T15:17:58Z' uid='1' user='Dharmin' version='2' changeset='35' lat='50.7806549' lon='7.1831147' />
+  <node id='2440' timestamp='2019-01-23T15:17:58Z' uid='1' user='Dharmin' version='2' changeset='35' lat='50.7806634' lon='7.183115' />
   <node id='2441' timestamp='2018-10-10T14:20:57Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7806633' lon='7.1830712' />
   <node id='2442' timestamp='2018-10-10T14:20:57Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7806457' lon='7.1829038' />
   <node id='2443' timestamp='2018-10-10T14:20:57Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7806456' lon='7.1830519' />
@@ -2463,10 +2450,8 @@
   <node id='2529' timestamp='2018-10-10T14:20:58Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.780255' lon='7.1822751' />
   <node id='2530' timestamp='2018-10-10T14:20:58Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7802552' lon='7.1822446' />
   <node id='2531' timestamp='2018-10-10T14:20:58Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7800549' lon='7.1822426' />
-  <node id='2532' timestamp='2018-10-10T14:20:58Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7806436' lon='7.1830673' />
-  <node id='2533' timestamp='2018-10-10T14:20:58Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7805793' lon='7.1830502' />
-  <node id='2534' timestamp='2018-10-10T14:20:58Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7805789' lon='7.1831193' />
-  <node id='2535' timestamp='2018-10-10T14:20:58Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7806421' lon='7.18312' />
+  <node id='2532' timestamp='2019-01-23T15:17:58Z' uid='1' user='Dharmin' version='2' changeset='35' lat='50.7806431' lon='7.1830673' />
+  <node id='2535' timestamp='2019-01-23T15:17:58Z' uid='1' user='Dharmin' version='2' changeset='35' lat='50.7806428' lon='7.1831201' />
   <node id='2536' timestamp='2018-10-10T14:20:58Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7806658' lon='7.18312' />
   <node id='2537' timestamp='2018-10-10T14:20:58Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7806429' lon='7.1830504' />
   <node id='2538' timestamp='2018-10-10T14:20:58Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7806658' lon='7.1830676' />
@@ -2587,6 +2572,78 @@
   <node id='2655' timestamp='2018-12-12T18:06:06Z' uid='2' user='Lakshadeep' version='1' changeset='25' lat='50.7803305' lon='7.18307' />
   <node id='2656' timestamp='2018-12-12T18:06:06Z' uid='2' user='Lakshadeep' version='1' changeset='25' lat='50.7803305' lon='7.183065' />
   <node id='2657' timestamp='2018-12-12T18:06:06Z' uid='2' user='Lakshadeep' version='1' changeset='25' lat='50.7803335' lon='7.183065' />
+  <node id='2658' timestamp='2019-01-16T15:22:43Z' uid='1' user='Dharmin' version='1' changeset='31' lat='50.7802467' lon='7.1822437'>
+    <tag k='WLAN_ssid' v='H-BRS' />
+    <tag k='access' v='private' />
+    <tag k='level' v='0' />
+  </node>
+  <node id='2659' timestamp='2019-01-16T15:22:43Z' uid='1' user='Dharmin' version='1' changeset='31' lat='50.7806683' lon='7.1831146'>
+    <tag k='WLAN_ssid' v='H-BRS' />
+    <tag k='access' v='private' />
+    <tag k='level' v='0' />
+  </node>
+  <node id='2660' timestamp='2019-01-16T15:22:43Z' uid='1' user='Dharmin' version='1' changeset='31' lat='50.7806559' lon='7.1828316'>
+    <tag k='WLAN_ssid' v='H-BRS' />
+    <tag k='access' v='private' />
+    <tag k='level' v='0' />
+  </node>
+  <node id='2661' timestamp='2019-01-16T15:22:43Z' uid='1' user='Dharmin' version='1' changeset='31' lat='50.7806527' lon='7.1826079'>
+    <tag k='WLAN_ssid' v='H-BRS' />
+    <tag k='access' v='private' />
+    <tag k='level' v='0' />
+  </node>
+  <node id='2662' timestamp='2019-01-16T15:22:43Z' uid='1' user='Dharmin' version='1' changeset='31' lat='50.7806562' lon='7.1822664'>
+    <tag k='WLAN_ssid' v='H-BRS' />
+    <tag k='access' v='private' />
+    <tag k='level' v='0' />
+  </node>
+  <node id='2663' timestamp='2019-01-16T15:22:43Z' uid='1' user='Dharmin' version='1' changeset='31' lat='50.7805581' lon='7.1822789' />
+  <node id='2664' timestamp='2019-01-16T15:22:43Z' uid='1' user='Dharmin' version='1' changeset='31' lat='50.7805271' lon='7.1821747'>
+    <tag k='WLAN_ssid' v='H-BRS' />
+    <tag k='access' v='private' />
+    <tag k='level' v='0' />
+  </node>
+  <node id='2665' timestamp='2019-01-16T15:22:43Z' uid='1' user='Dharmin' version='1' changeset='31' lat='50.7803438' lon='7.1822672'>
+    <tag k='WLAN_ssid' v='H-BRS' />
+    <tag k='access' v='private' />
+    <tag k='level' v='0' />
+  </node>
+  <node id='2666' timestamp='2019-01-16T15:22:43Z' uid='1' user='Dharmin' version='1' changeset='31' lat='50.7803424' lon='7.1825198'>
+    <tag k='WLAN_ssid' v='H-BRS' />
+    <tag k='access' v='private' />
+    <tag k='level' v='0' />
+  </node>
+  <node id='2667' timestamp='2019-01-16T15:22:43Z' uid='1' user='Dharmin' version='1' changeset='31' lat='50.7803425' lon='7.1828294'>
+    <tag k='WLAN_ssid' v='H-BRS' />
+    <tag k='access' v='private' />
+    <tag k='level' v='0' />
+  </node>
+  <node id='2668' timestamp='2019-01-16T15:22:43Z' uid='1' user='Dharmin' version='1' changeset='31' lat='50.7804001' lon='7.1829609'>
+    <tag k='WLAN_ssid' v='H-BRS' />
+    <tag k='access' v='private' />
+    <tag k='level' v='0' />
+  </node>
+  <node id='2669' timestamp='2019-01-16T15:22:43Z' uid='1' user='Dharmin' version='1' changeset='31' lat='50.7803417' lon='7.1830883'>
+    <tag k='WLAN_ssid' v='H-BRS' />
+    <tag k='access' v='private' />
+    <tag k='level' v='0' />
+  </node>
+  <node id='2670' timestamp='2019-01-16T15:22:43Z' uid='1' user='Dharmin' version='1' changeset='31' lat='50.7802603' lon='7.183102'>
+    <tag k='WLAN_ssid' v='mas-lab-c022' />
+    <tag k='access' v='permissive' />
+    <tag k='level' v='0' />
+  </node>
+  <node id='2671' timestamp='2019-01-22T20:02:59Z' uid='1' user='Dharmin' version='1' changeset='33' lat='50.7806568' lon='7.1822642'>
+    <tag k='WLAN_ssid' v='H-BRS' />
+    <tag k='access' v='permissive' />
+    <tag k='level' v='2' />
+  </node>
+  <node id='2672' timestamp='2019-01-22T20:02:59Z' uid='1' user='Dharmin' version='1' changeset='33' lat='50.7803475' lon='7.1822772'>
+    <tag k='WLAN_ssid' v='H-BRS' />
+    <tag k='access' v='permissive' />
+    <tag k='level' v='2' />
+  </node>
+  <node id='2673' timestamp='2019-01-23T15:17:58Z' uid='1' user='Dharmin' version='1' changeset='35' lat='50.7806454' lon='7.1831146' />
   <way id='1' timestamp='2018-09-30T17:43:57Z' uid='1' user='Dharmin' version='1' changeset='1'>
     <nd ref='9' />
     <nd ref='5' />
@@ -2874,13 +2931,13 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
   </way>
-  <way id='27' timestamp='2018-09-30T17:43:58Z' uid='1' user='Dharmin' version='1' changeset='1'>
+  <way id='27' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='73' />
     <nd ref='72' />
     <nd ref='71' />
     <nd ref='70' />
     <nd ref='73' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
   <way id='28' timestamp='2018-09-30T17:43:58Z' uid='1' user='Dharmin' version='1' changeset='1'>
@@ -3171,346 +3228,346 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
   </way>
-  <way id='54' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='54' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='170' />
     <nd ref='169' />
     <nd ref='168' />
     <nd ref='167' />
     <nd ref='170' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='55' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='55' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='174' />
     <nd ref='173' />
     <nd ref='172' />
     <nd ref='171' />
     <nd ref='174' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='56' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='56' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='178' />
     <nd ref='177' />
     <nd ref='176' />
     <nd ref='175' />
     <nd ref='178' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='57' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='57' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='182' />
     <nd ref='181' />
     <nd ref='180' />
     <nd ref='179' />
     <nd ref='182' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='58' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='58' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='186' />
     <nd ref='185' />
     <nd ref='184' />
     <nd ref='183' />
     <nd ref='186' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='59' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='59' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='190' />
     <nd ref='189' />
     <nd ref='188' />
     <nd ref='187' />
     <nd ref='190' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='60' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='60' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='194' />
     <nd ref='193' />
     <nd ref='192' />
     <nd ref='191' />
     <nd ref='194' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='61' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='61' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='198' />
     <nd ref='197' />
     <nd ref='196' />
     <nd ref='195' />
     <nd ref='198' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='62' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='62' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='202' />
     <nd ref='201' />
     <nd ref='200' />
     <nd ref='199' />
     <nd ref='202' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='63' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='63' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='206' />
     <nd ref='205' />
     <nd ref='204' />
     <nd ref='203' />
     <nd ref='206' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='64' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='64' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='210' />
     <nd ref='209' />
     <nd ref='208' />
     <nd ref='207' />
     <nd ref='210' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='65' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='65' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='214' />
     <nd ref='213' />
     <nd ref='212' />
     <nd ref='211' />
     <nd ref='214' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='66' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='66' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='218' />
     <nd ref='217' />
     <nd ref='216' />
     <nd ref='215' />
     <nd ref='218' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='67' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='67' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='222' />
     <nd ref='221' />
     <nd ref='220' />
     <nd ref='219' />
     <nd ref='222' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='68' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='68' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='226' />
     <nd ref='225' />
     <nd ref='224' />
     <nd ref='223' />
     <nd ref='226' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='69' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='69' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='230' />
     <nd ref='229' />
     <nd ref='228' />
     <nd ref='227' />
     <nd ref='230' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='70' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='70' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='234' />
     <nd ref='233' />
     <nd ref='232' />
     <nd ref='231' />
     <nd ref='234' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='71' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='71' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='238' />
     <nd ref='237' />
     <nd ref='236' />
     <nd ref='235' />
     <nd ref='238' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='72' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='72' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='242' />
     <nd ref='241' />
     <nd ref='240' />
     <nd ref='239' />
     <nd ref='242' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='73' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='73' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='246' />
     <nd ref='245' />
     <nd ref='244' />
     <nd ref='243' />
     <nd ref='246' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='74' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='74' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='250' />
     <nd ref='249' />
     <nd ref='248' />
     <nd ref='247' />
     <nd ref='250' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='75' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='75' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='254' />
     <nd ref='253' />
     <nd ref='252' />
     <nd ref='251' />
     <nd ref='254' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='76' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='76' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='258' />
     <nd ref='257' />
     <nd ref='256' />
     <nd ref='255' />
     <nd ref='258' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='77' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='77' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='262' />
     <nd ref='261' />
     <nd ref='260' />
     <nd ref='259' />
     <nd ref='262' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='78' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='78' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='266' />
     <nd ref='265' />
     <nd ref='264' />
     <nd ref='263' />
     <nd ref='266' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='79' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='79' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='270' />
     <nd ref='269' />
     <nd ref='268' />
     <nd ref='267' />
     <nd ref='270' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='80' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='80' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='274' />
     <nd ref='273' />
     <nd ref='272' />
     <nd ref='271' />
     <nd ref='274' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='81' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='81' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='706' />
     <nd ref='277' />
     <nd ref='276' />
     <nd ref='275' />
     <nd ref='706' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='82' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='82' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='281' />
     <nd ref='280' />
     <nd ref='279' />
     <nd ref='278' />
     <nd ref='281' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='83' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='83' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='285' />
     <nd ref='284' />
     <nd ref='283' />
     <nd ref='282' />
     <nd ref='285' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='84' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='84' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='289' />
     <nd ref='288' />
     <nd ref='287' />
     <nd ref='286' />
     <nd ref='289' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='85' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='85' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='293' />
     <nd ref='292' />
     <nd ref='291' />
     <nd ref='290' />
     <nd ref='293' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='86' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='86' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='297' />
     <nd ref='296' />
     <nd ref='295' />
     <nd ref='294' />
     <nd ref='297' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='87' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='87' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='301' />
     <nd ref='300' />
     <nd ref='299' />
     <nd ref='298' />
     <nd ref='301' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='88' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='88' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='305' />
     <nd ref='304' />
     <nd ref='303' />
     <nd ref='302' />
     <nd ref='305' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='89' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='89' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='309' />
     <nd ref='308' />
     <nd ref='307' />
     <nd ref='306' />
     <nd ref='309' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='90' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='90' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='313' />
     <nd ref='312' />
     <nd ref='311' />
     <nd ref='310' />
     <nd ref='313' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='91' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='91' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='317' />
     <nd ref='316' />
     <nd ref='315' />
     <nd ref='314' />
     <nd ref='317' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
   <way id='92' timestamp='2018-10-03T19:23:53Z' uid='1' user='Dharmin' version='1' changeset='3'>
@@ -3925,15 +3982,6 @@
     <nd ref='394' />
     <nd ref='393' />
     <nd ref='396' />
-    <tag k='indoor' v='wall' />
-    <tag k='level' v='0' />
-  </way>
-  <way id='130' timestamp='2018-10-03T19:23:55Z' uid='1' user='Dharmin' version='1' changeset='3'>
-    <nd ref='400' />
-    <nd ref='399' />
-    <nd ref='398' />
-    <nd ref='397' />
-    <nd ref='400' />
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
   </way>
@@ -5476,13 +5524,13 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='0' />
   </way>
-  <way id='279' timestamp='2018-10-03T19:24:00Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='279' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='793' />
     <nd ref='792' />
     <nd ref='791' />
     <nd ref='790' />
     <nd ref='793' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
   <way id='280' timestamp='2018-10-03T19:24:00Z' uid='1' user='Dharmin' version='1' changeset='3'>
@@ -5693,7 +5741,7 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
   </way>
-  <way id='301' timestamp='2018-10-03T19:24:00Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='301' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='864' />
     <nd ref='863' />
     <nd ref='862' />
@@ -5703,10 +5751,10 @@
     <nd ref='858' />
     <nd ref='865' />
     <nd ref='864' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='302' timestamp='2018-10-03T19:24:00Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='302' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='872' />
     <nd ref='871' />
     <nd ref='870' />
@@ -5716,10 +5764,10 @@
     <nd ref='866' />
     <nd ref='873' />
     <nd ref='872' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='303' timestamp='2018-10-03T19:24:01Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='303' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='880' />
     <nd ref='879' />
     <nd ref='878' />
@@ -5729,10 +5777,10 @@
     <nd ref='874' />
     <nd ref='881' />
     <nd ref='880' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='304' timestamp='2018-10-03T19:24:01Z' uid='1' user='Dharmin' version='1' changeset='3'>
+  <way id='304' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='889' />
     <nd ref='888' />
     <nd ref='887' />
@@ -5742,7 +5790,7 @@
     <nd ref='883' />
     <nd ref='882' />
     <nd ref='889' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
   <way id='305' timestamp='2018-10-03T19:24:01Z' uid='1' user='Dharmin' version='1' changeset='3'>
@@ -6478,7 +6526,7 @@
     <tag k='ref' v='BRSU_C_L0_C1' />
     <tag k='surface:smoothness' v='excellent' />
   </way>
-  <way id='366' timestamp='2018-10-04T21:05:31Z' uid='1' user='Dharmin' version='1' changeset='4'>
+  <way id='366' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='1041' />
     <nd ref='1042' />
     <nd ref='1043' />
@@ -6488,10 +6536,10 @@
     <nd ref='1047' />
     <nd ref='1048' />
     <nd ref='1041' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='367' timestamp='2018-10-04T21:05:31Z' uid='1' user='Dharmin' version='1' changeset='4'>
+  <way id='367' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='1049' />
     <nd ref='1050' />
     <nd ref='1051' />
@@ -6501,7 +6549,7 @@
     <nd ref='1055' />
     <nd ref='1056' />
     <nd ref='1049' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
   <way id='368' timestamp='2018-10-15T16:24:14Z' uid='1' user='Dharmin' version='2' changeset='17'>
@@ -6580,7 +6628,7 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
   </way>
-  <way id='372' timestamp='2018-10-04T21:05:32Z' uid='1' user='Dharmin' version='1' changeset='4'>
+  <way id='372' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='1109' />
     <nd ref='1110' />
     <nd ref='1111' />
@@ -6590,10 +6638,10 @@
     <nd ref='1115' />
     <nd ref='1116' />
     <nd ref='1109' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='373' timestamp='2018-10-04T21:05:32Z' uid='1' user='Dharmin' version='1' changeset='4'>
+  <way id='373' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='1117' />
     <nd ref='1118' />
     <nd ref='1119' />
@@ -6603,10 +6651,10 @@
     <nd ref='1123' />
     <nd ref='1124' />
     <nd ref='1117' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='374' timestamp='2018-10-04T21:05:32Z' uid='1' user='Dharmin' version='1' changeset='4'>
+  <way id='374' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='1125' />
     <nd ref='1126' />
     <nd ref='1127' />
@@ -6616,10 +6664,10 @@
     <nd ref='1131' />
     <nd ref='1132' />
     <nd ref='1125' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='375' timestamp='2018-10-04T21:05:32Z' uid='1' user='Dharmin' version='1' changeset='4'>
+  <way id='375' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='1133' />
     <nd ref='1134' />
     <nd ref='1135' />
@@ -6629,10 +6677,10 @@
     <nd ref='1139' />
     <nd ref='1140' />
     <nd ref='1133' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='376' timestamp='2018-10-04T21:05:32Z' uid='1' user='Dharmin' version='1' changeset='4'>
+  <way id='376' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='1141' />
     <nd ref='1142' />
     <nd ref='1143' />
@@ -6642,10 +6690,10 @@
     <nd ref='1147' />
     <nd ref='1148' />
     <nd ref='1141' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='377' timestamp='2018-10-04T21:05:32Z' uid='1' user='Dharmin' version='1' changeset='4'>
+  <way id='377' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='1149' />
     <nd ref='1150' />
     <nd ref='1151' />
@@ -6655,10 +6703,10 @@
     <nd ref='1155' />
     <nd ref='1156' />
     <nd ref='1149' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='378' timestamp='2018-10-04T21:05:32Z' uid='1' user='Dharmin' version='1' changeset='4'>
+  <way id='378' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='1157' />
     <nd ref='1158' />
     <nd ref='1159' />
@@ -6668,7 +6716,7 @@
     <nd ref='1163' />
     <nd ref='1164' />
     <nd ref='1157' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
   <way id='379' timestamp='2018-10-04T21:05:32Z' uid='1' user='Dharmin' version='1' changeset='4'>
@@ -7213,7 +7261,7 @@
     <tag k='level' v='0' />
     <tag k='oneway' v='yes' />
   </way>
-  <way id='456' timestamp='2018-10-05T15:59:56Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='456' timestamp='2019-01-16T20:20:28Z' uid='1' user='Dharmin' version='2' changeset='32'>
     <nd ref='1271' />
     <nd ref='1249' />
     <tag k='highway' v='local-way' />
@@ -7290,7 +7338,7 @@
     <tag k='level' v='0' />
     <tag k='oneway' v='yes' />
   </way>
-  <way id='467' timestamp='2018-10-05T15:59:56Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='467' timestamp='2019-01-16T20:20:28Z' uid='1' user='Dharmin' version='2' changeset='32'>
     <nd ref='1287' />
     <nd ref='1276' />
     <tag k='highway' v='local-way' />
@@ -7594,7 +7642,7 @@
     <tag k='ref' v='BRSU_C_L0_RoomC069' />
     <tag k='surface:smoothness' v='excellent' />
   </way>
-  <way id='507' timestamp='2018-10-05T15:59:58Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='507' timestamp='2019-01-23T15:09:47Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1368' />
     <nd ref='1369' />
     <nd ref='1367' />
@@ -7602,8 +7650,9 @@
     <nd ref='1368' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C26_LA2' />
+    <tag k='wifi:strength' v='Good' />
   </way>
-  <way id='508' timestamp='2018-10-05T15:59:58Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='508' timestamp='2019-01-23T15:09:47Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1371' />
     <nd ref='1370' />
     <nd ref='1369' />
@@ -7611,8 +7660,9 @@
     <nd ref='1371' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C26_LA1' />
+    <tag k='wifi:strength' v='Good' />
   </way>
-  <way id='509' timestamp='2018-10-05T15:59:58Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='509' timestamp='2019-01-23T15:09:47Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1374' />
     <nd ref='1375' />
     <nd ref='1373' />
@@ -7620,8 +7670,9 @@
     <nd ref='1374' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C25_LA2' />
+    <tag k='wifi:strength' v='Good' />
   </way>
-  <way id='510' timestamp='2018-10-05T15:59:58Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='510' timestamp='2019-01-23T15:09:47Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1377' />
     <nd ref='1376' />
     <nd ref='1375' />
@@ -7629,8 +7680,9 @@
     <nd ref='1377' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C25_LA1' />
+    <tag k='wifi:strength' v='Good' />
   </way>
-  <way id='511' timestamp='2018-10-05T15:59:58Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='511' timestamp='2019-01-23T15:09:47Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1379' />
     <nd ref='1380' />
     <nd ref='1381' />
@@ -7638,8 +7690,9 @@
     <nd ref='1379' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_A19_LA1' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='512' timestamp='2018-10-05T15:59:58Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='512' timestamp='2019-01-23T15:09:47Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1384' />
     <nd ref='1383' />
     <nd ref='1382' />
@@ -7649,8 +7702,9 @@
     <nd ref='1384' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_A19_LA2' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='513' timestamp='2018-10-05T15:59:58Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='513' timestamp='2019-01-23T15:09:47Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1387' />
     <nd ref='1388' />
     <nd ref='1385' />
@@ -7658,8 +7712,9 @@
     <nd ref='1387' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_A18_LA2' />
+    <tag k='wifi:strength' v='Good' />
   </way>
-  <way id='514' timestamp='2018-10-05T15:59:58Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='514' timestamp='2019-01-23T15:09:47Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1391' />
     <nd ref='1390' />
     <nd ref='1389' />
@@ -7669,8 +7724,9 @@
     <nd ref='1391' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_A18_LA1' />
+    <tag k='wifi:strength' v='Good' />
   </way>
-  <way id='515' timestamp='2018-10-05T15:59:58Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='515' timestamp='2019-01-23T15:09:47Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1395' />
     <nd ref='1394' />
     <nd ref='1393' />
@@ -7678,8 +7734,9 @@
     <nd ref='1395' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_A20_LA1' />
+    <tag k='wifi:strength' v='Good' />
   </way>
-  <way id='516' timestamp='2018-10-05T15:59:58Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='516' timestamp='2019-01-23T15:09:47Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1398' />
     <nd ref='1399' />
     <nd ref='1397' />
@@ -7687,8 +7744,9 @@
     <nd ref='1398' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_A16_LA2' />
+    <tag k='wifi:strength' v='Good' />
   </way>
-  <way id='517' timestamp='2018-10-05T15:59:58Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='517' timestamp='2019-01-23T15:09:47Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1401' />
     <nd ref='1400' />
     <nd ref='1399' />
@@ -7696,8 +7754,9 @@
     <nd ref='1401' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_A16_LA1' />
+    <tag k='wifi:strength' v='Good' />
   </way>
-  <way id='518' timestamp='2018-10-05T15:59:58Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='518' timestamp='2019-01-23T15:09:47Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1404' />
     <nd ref='1405' />
     <nd ref='1403' />
@@ -7705,8 +7764,9 @@
     <nd ref='1404' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_A17_LA2' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='519' timestamp='2018-10-05T15:59:58Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='519' timestamp='2019-01-23T15:09:47Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1407' />
     <nd ref='1406' />
     <nd ref='1405' />
@@ -7714,8 +7774,9 @@
     <nd ref='1407' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_A17_LA1' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='520' timestamp='2018-10-05T15:59:58Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='520' timestamp='2019-01-23T15:09:47Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1409' />
     <nd ref='1410' />
     <nd ref='1411' />
@@ -7723,8 +7784,9 @@
     <nd ref='1409' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_A15_LA1' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='521' timestamp='2018-10-05T15:59:58Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='521' timestamp='2019-01-23T15:09:47Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1414' />
     <nd ref='1413' />
     <nd ref='1412' />
@@ -7734,8 +7796,9 @@
     <nd ref='1414' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_A15_LA2' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='524' timestamp='2018-10-05T15:59:58Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='524' timestamp='2019-01-23T15:09:48Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1425' />
     <nd ref='1426' />
     <nd ref='1423' />
@@ -7743,8 +7806,9 @@
     <nd ref='1425' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_A14_LA2' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='525' timestamp='2018-10-05T15:59:59Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='525' timestamp='2019-01-23T15:09:48Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1429' />
     <nd ref='1428' />
     <nd ref='1427' />
@@ -7754,8 +7818,9 @@
     <nd ref='1429' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_A14_LA1' />
+    <tag k='wifi:strength' v='Good' />
   </way>
-  <way id='526' timestamp='2018-10-05T15:59:59Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='526' timestamp='2019-01-23T15:09:48Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1433' />
     <nd ref='1432' />
     <nd ref='1431' />
@@ -7763,8 +7828,9 @@
     <nd ref='1433' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_A13_LA1' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='533' timestamp='2019-01-15T14:37:45Z' uid='2' user='Lakshadeep' version='3' changeset='29'>
+  <way id='533' timestamp='2019-01-23T15:09:48Z' uid='1' user='Dharmin' version='4' changeset='34'>
     <nd ref='1461' />
     <nd ref='1460' />
     <nd ref='1459' />
@@ -7773,8 +7839,9 @@
     <tag k='behaviour' v='undocking' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_A_L0_A1_LA1' />
+    <tag k='wifi:strength' v='Bad' />
   </way>
-  <way id='534' timestamp='2018-10-05T15:59:59Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='534' timestamp='2019-01-23T15:09:48Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1465' />
     <nd ref='1464' />
     <nd ref='1463' />
@@ -7782,8 +7849,9 @@
     <nd ref='1465' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_A2_LA1' />
+    <tag k='wifi:strength' v='Bad' />
   </way>
-  <way id='535' timestamp='2018-10-05T15:59:59Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='535' timestamp='2019-01-23T15:09:48Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1469' />
     <nd ref='1468' />
     <nd ref='1467' />
@@ -7791,8 +7859,9 @@
     <nd ref='1469' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_A3_LA1' />
+    <tag k='wifi:strength' v='Bad' />
   </way>
-  <way id='536' timestamp='2018-10-05T15:59:59Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='536' timestamp='2019-01-23T15:09:48Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1473' />
     <nd ref='1472' />
     <nd ref='1471' />
@@ -7800,8 +7869,9 @@
     <nd ref='1473' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_A4_LA1' />
+    <tag k='wifi:strength' v='Bad' />
   </way>
-  <way id='537' timestamp='2018-10-05T15:59:59Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='537' timestamp='2019-01-23T15:09:48Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1477' />
     <nd ref='1476' />
     <nd ref='1475' />
@@ -7809,8 +7879,9 @@
     <nd ref='1477' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C24_LA1' />
+    <tag k='wifi:strength' v='Good' />
   </way>
-  <way id='538' timestamp='2018-10-05T15:59:59Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='538' timestamp='2019-01-23T15:09:48Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1481' />
     <nd ref='1479' />
     <nd ref='1478' />
@@ -7818,8 +7889,9 @@
     <nd ref='1481' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C23_LA1' />
+    <tag k='wifi:strength' v='Good' />
   </way>
-  <way id='539' timestamp='2018-10-05T15:59:59Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='539' timestamp='2019-01-23T15:09:48Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1483' />
     <nd ref='1482' />
     <nd ref='1481' />
@@ -7827,8 +7899,9 @@
     <nd ref='1483' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C23_LA2' />
+    <tag k='wifi:strength' v='Good' />
   </way>
-  <way id='540' timestamp='2018-10-05T15:59:59Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='540' timestamp='2019-01-23T15:09:48Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1486' />
     <nd ref='1487' />
     <nd ref='1485' />
@@ -7836,8 +7909,9 @@
     <nd ref='1486' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C22_LA2' />
+    <tag k='wifi:strength' v='Bad' />
   </way>
-  <way id='541' timestamp='2018-10-05T15:59:59Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='541' timestamp='2019-01-23T15:09:48Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1489' />
     <nd ref='1488' />
     <nd ref='1487' />
@@ -7845,8 +7919,9 @@
     <nd ref='1489' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C22_LA1' />
+    <tag k='wifi:strength' v='Bad' />
   </way>
-  <way id='542' timestamp='2018-10-05T15:59:59Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='542' timestamp='2019-01-23T15:09:48Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1492' />
     <nd ref='1493' />
     <nd ref='1491' />
@@ -7854,8 +7929,9 @@
     <nd ref='1492' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C21_LA2' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='543' timestamp='2018-10-05T15:59:59Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='543' timestamp='2019-01-23T15:09:48Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1495' />
     <nd ref='1494' />
     <nd ref='1493' />
@@ -7863,8 +7939,9 @@
     <nd ref='1495' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C21_LA1' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='544' timestamp='2018-10-05T15:59:59Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='544' timestamp='2019-01-23T15:09:48Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1498' />
     <nd ref='1499' />
     <nd ref='1497' />
@@ -7872,8 +7949,9 @@
     <nd ref='1498' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C20_LA1' />
+    <tag k='wifi:strength' v='Good' />
   </way>
-  <way id='545' timestamp='2018-10-05T15:59:59Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='545' timestamp='2019-01-23T15:09:48Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1501' />
     <nd ref='1500' />
     <nd ref='1499' />
@@ -7881,8 +7959,9 @@
     <nd ref='1501' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C20_LA2' />
+    <tag k='wifi:strength' v='Good' />
   </way>
-  <way id='546' timestamp='2018-10-05T15:59:59Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='546' timestamp='2019-01-23T15:09:48Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1504' />
     <nd ref='1505' />
     <nd ref='1503' />
@@ -7890,8 +7969,9 @@
     <nd ref='1504' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C19_LA2' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='547' timestamp='2018-10-05T15:59:59Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='547' timestamp='2019-01-23T15:09:48Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1507' />
     <nd ref='1506' />
     <nd ref='1505' />
@@ -7899,8 +7979,9 @@
     <nd ref='1507' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C19_LA1' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='548' timestamp='2018-10-05T15:59:59Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='548' timestamp='2019-01-23T15:09:48Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1510' />
     <nd ref='1511' />
     <nd ref='1509' />
@@ -7908,8 +7989,9 @@
     <nd ref='1510' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C16_LA2' />
+    <tag k='wifi:strength' v='Bad' />
   </way>
-  <way id='549' timestamp='2018-10-05T15:59:59Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='549' timestamp='2019-01-23T15:09:48Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1513' />
     <nd ref='1512' />
     <nd ref='1511' />
@@ -7917,6 +7999,7 @@
     <nd ref='1513' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C16_LA1' />
+    <tag k='wifi:strength' v='Bad' />
   </way>
   <way id='550' timestamp='2018-10-05T15:59:59Z' uid='1' user='Dharmin' version='1' changeset='5'>
     <nd ref='1517' />
@@ -7927,7 +8010,7 @@
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_RoomC069_LA1' />
   </way>
-  <way id='551' timestamp='2018-10-05T15:59:59Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='551' timestamp='2019-01-23T15:09:48Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1520' />
     <nd ref='1521' />
     <nd ref='1519' />
@@ -7935,8 +8018,9 @@
     <nd ref='1520' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C18_LA1' />
+    <tag k='wifi:strength' v='Bad' />
   </way>
-  <way id='552' timestamp='2018-10-05T15:59:59Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='552' timestamp='2019-01-23T15:09:48Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1523' />
     <nd ref='1522' />
     <nd ref='1521' />
@@ -7944,8 +8028,9 @@
     <nd ref='1523' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C18_LA2' />
+    <tag k='wifi:strength' v='Bad' />
   </way>
-  <way id='553' timestamp='2018-10-05T15:59:59Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='553' timestamp='2019-01-23T15:09:48Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1526' />
     <nd ref='1527' />
     <nd ref='1525' />
@@ -7953,8 +8038,9 @@
     <nd ref='1526' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C17_LA2' />
+    <tag k='wifi:strength' v='Bad' />
   </way>
-  <way id='554' timestamp='2018-10-05T15:59:59Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='554' timestamp='2019-01-23T15:09:48Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1529' />
     <nd ref='1528' />
     <nd ref='1527' />
@@ -7962,8 +8048,9 @@
     <nd ref='1529' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C17_LA1' />
+    <tag k='wifi:strength' v='Bad' />
   </way>
-  <way id='555' timestamp='2018-10-05T15:59:59Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='555' timestamp='2019-01-23T15:09:48Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1533' />
     <nd ref='1532' />
     <nd ref='1531' />
@@ -7971,8 +8058,9 @@
     <nd ref='1533' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C15_LA1' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='556' timestamp='2018-10-05T15:59:59Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='556' timestamp='2019-01-23T15:09:48Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1536' />
     <nd ref='1537' />
     <nd ref='1535' />
@@ -7980,8 +8068,9 @@
     <nd ref='1536' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C14_LA2' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='557' timestamp='2018-10-05T15:59:59Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='557' timestamp='2019-01-23T15:09:48Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1539' />
     <nd ref='1538' />
     <nd ref='1537' />
@@ -7989,8 +8078,9 @@
     <nd ref='1539' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C14_LA1' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='558' timestamp='2018-10-05T15:59:59Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='558' timestamp='2019-01-23T15:09:48Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1542' />
     <nd ref='1543' />
     <nd ref='1541' />
@@ -7998,8 +8088,9 @@
     <nd ref='1542' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C13_LA2' />
+    <tag k='wifi:strength' v='Good' />
   </way>
-  <way id='559' timestamp='2018-10-05T15:59:59Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='559' timestamp='2019-01-23T15:09:49Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1545' />
     <nd ref='1544' />
     <nd ref='1543' />
@@ -8007,8 +8098,9 @@
     <nd ref='1545' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C13_LA1' />
+    <tag k='wifi:strength' v='Good' />
   </way>
-  <way id='560' timestamp='2018-10-05T15:59:59Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='560' timestamp='2019-01-23T15:09:49Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1548' />
     <nd ref='1549' />
     <nd ref='1547' />
@@ -8016,8 +8108,9 @@
     <nd ref='1548' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C12_LA2' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='561' timestamp='2018-10-05T15:59:59Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='561' timestamp='2019-01-23T15:09:49Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1551' />
     <nd ref='1550' />
     <nd ref='1549' />
@@ -8025,8 +8118,9 @@
     <nd ref='1551' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C12_LA1' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='562' timestamp='2018-10-05T15:59:59Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='562' timestamp='2019-01-23T15:09:49Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1554' />
     <nd ref='1555' />
     <nd ref='1553' />
@@ -8034,8 +8128,9 @@
     <nd ref='1554' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C11_LA2' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='563' timestamp='2018-10-05T15:59:59Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='563' timestamp='2019-01-23T15:09:49Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1557' />
     <nd ref='1556' />
     <nd ref='1555' />
@@ -8043,6 +8138,7 @@
     <nd ref='1557' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C11_LA1' />
+    <tag k='wifi:strength' v='Average' />
   </way>
   <way id='564' timestamp='2018-10-05T15:59:59Z' uid='1' user='Dharmin' version='1' changeset='5'>
     <nd ref='1561' />
@@ -8053,7 +8149,7 @@
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_RoomC025_LA1' />
   </way>
-  <way id='565' timestamp='2018-10-05T16:00:00Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='565' timestamp='2019-01-23T15:09:49Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1565' />
     <nd ref='1564' />
     <nd ref='1563' />
@@ -8061,6 +8157,7 @@
     <nd ref='1565' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_RoomC022_LA1' />
+    <tag k='wifi:strength' v='Good' />
   </way>
   <way id='566' timestamp='2018-10-05T16:00:00Z' uid='1' user='Dharmin' version='1' changeset='5'>
     <nd ref='704' />
@@ -8071,7 +8168,7 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
   </way>
-  <way id='567' timestamp='2019-01-14T15:10:29Z' uid='2' user='Lakshadeep' version='2' changeset='28'>
+  <way id='567' timestamp='2019-01-23T15:09:49Z' uid='1' user='Dharmin' version='3' changeset='34'>
     <nd ref='1572' />
     <nd ref='1573' />
     <nd ref='1571' />
@@ -8080,8 +8177,9 @@
     <tag k='behaviour' v='docking' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C9_LA1' />
+    <tag k='wifi:strength' v='Bad' />
   </way>
-  <way id='568' timestamp='2019-01-14T15:10:29Z' uid='2' user='Lakshadeep' version='2' changeset='28'>
+  <way id='568' timestamp='2019-01-23T15:09:49Z' uid='1' user='Dharmin' version='3' changeset='34'>
     <nd ref='1575' />
     <nd ref='1574' />
     <nd ref='1573' />
@@ -8090,8 +8188,9 @@
     <tag k='behaviour' v='charging' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C9_LA2' />
+    <tag k='wifi:strength' v='Bad' />
   </way>
-  <way id='569' timestamp='2018-10-05T16:00:00Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='569' timestamp='2019-01-23T15:09:49Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1578' />
     <nd ref='1579' />
     <nd ref='1577' />
@@ -8099,8 +8198,9 @@
     <nd ref='1578' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C10_LA2' />
+    <tag k='wifi:strength' v='Bad' />
   </way>
-  <way id='570' timestamp='2018-10-05T16:00:00Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='570' timestamp='2019-01-23T15:09:49Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1581' />
     <nd ref='1580' />
     <nd ref='1579' />
@@ -8108,8 +8208,9 @@
     <nd ref='1581' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C10_LA1' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='571' timestamp='2018-10-05T16:00:00Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='571' timestamp='2019-01-23T15:09:49Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1585' />
     <nd ref='1586' />
     <nd ref='1583' />
@@ -8117,8 +8218,9 @@
     <nd ref='1585' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C3_LA2' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='572' timestamp='2018-10-08T13:22:01Z' uid='1' user='Dharmin' version='2' changeset='7'>
+  <way id='572' timestamp='2019-01-23T15:09:49Z' uid='1' user='Dharmin' version='3' changeset='34'>
     <nd ref='1588' />
     <nd ref='1587' />
     <nd ref='1586' />
@@ -8126,17 +8228,18 @@
     <nd ref='1588' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C3_LA1' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='573' timestamp='2018-10-05T16:00:00Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='573' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='1592' />
     <nd ref='1591' />
     <nd ref='1590' />
     <nd ref='1589' />
     <nd ref='1592' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='574' timestamp='2018-10-05T16:00:00Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='574' timestamp='2019-01-23T15:09:49Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1596' />
     <nd ref='1595' />
     <nd ref='1594' />
@@ -8144,8 +8247,9 @@
     <nd ref='1596' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C8_LA1' />
+    <tag k='wifi:strength' v='Bad' />
   </way>
-  <way id='575' timestamp='2018-10-05T16:00:00Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='575' timestamp='2019-01-23T15:09:49Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1599' />
     <nd ref='1600' />
     <nd ref='1598' />
@@ -8153,8 +8257,9 @@
     <nd ref='1599' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C7_LA2' />
+    <tag k='wifi:strength' v='Bad' />
   </way>
-  <way id='576' timestamp='2018-10-05T16:00:00Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='576' timestamp='2019-01-23T15:09:49Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1602' />
     <nd ref='1601' />
     <nd ref='1600' />
@@ -8162,8 +8267,9 @@
     <nd ref='1602' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C7_LA1' />
+    <tag k='wifi:strength' v='Bad' />
   </way>
-  <way id='577' timestamp='2018-10-05T16:00:00Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='577' timestamp='2019-01-23T15:09:49Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1605' />
     <nd ref='1606' />
     <nd ref='1604' />
@@ -8171,8 +8277,9 @@
     <nd ref='1605' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C6_LA2' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='578' timestamp='2018-10-05T16:00:00Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='578' timestamp='2019-01-23T15:09:49Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1608' />
     <nd ref='1607' />
     <nd ref='1606' />
@@ -8180,8 +8287,9 @@
     <nd ref='1608' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C6_LA1' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='579' timestamp='2018-10-05T16:00:00Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='579' timestamp='2019-01-23T15:09:49Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1612' />
     <nd ref='1610' />
     <nd ref='1609' />
@@ -8189,8 +8297,9 @@
     <nd ref='1612' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C5_LA2' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='580' timestamp='2018-10-05T16:00:00Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='580' timestamp='2019-01-23T15:09:49Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1614' />
     <nd ref='1613' />
     <nd ref='1612' />
@@ -8198,8 +8307,9 @@
     <nd ref='1614' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C5_LA1' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='581' timestamp='2018-10-05T16:00:00Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='581' timestamp='2019-01-23T15:09:49Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1618' />
     <nd ref='1616' />
     <nd ref='1615' />
@@ -8207,8 +8317,9 @@
     <nd ref='1618' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C4_LA2' />
+    <tag k='wifi:strength' v='Good' />
   </way>
-  <way id='582' timestamp='2018-10-05T16:00:00Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='582' timestamp='2019-01-23T15:09:49Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1620' />
     <nd ref='1619' />
     <nd ref='1618' />
@@ -8216,8 +8327,9 @@
     <nd ref='1620' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C4_LA1' />
+    <tag k='wifi:strength' v='Good' />
   </way>
-  <way id='583' timestamp='2019-01-14T15:10:29Z' uid='2' user='Lakshadeep' version='2' changeset='28'>
+  <way id='583' timestamp='2019-01-23T15:09:49Z' uid='1' user='Dharmin' version='3' changeset='34'>
     <nd ref='1624' />
     <nd ref='1623' />
     <nd ref='1622' />
@@ -8226,8 +8338,9 @@
     <tag k='behaviour' v='undocking' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C2_LA1' />
+    <tag k='wifi:strength' v='Good' />
   </way>
-  <way id='584' timestamp='2018-10-05T16:00:00Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='584' timestamp='2019-01-23T15:09:49Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1629' />
     <nd ref='1626' />
     <nd ref='1625' />
@@ -8235,8 +8348,9 @@
     <nd ref='1629' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C1_LA2' />
+    <tag k='wifi:strength' v='Good' />
   </way>
-  <way id='585' timestamp='2018-10-05T16:00:00Z' uid='1' user='Dharmin' version='1' changeset='5'>
+  <way id='585' timestamp='2019-01-23T15:09:49Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='1630' />
     <nd ref='1629' />
     <nd ref='1628' />
@@ -8244,6 +8358,7 @@
     <nd ref='1630' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_C_L0_C1_LA1' />
+    <tag k='wifi:strength' v='Good' />
   </way>
   <way id='586' timestamp='2018-10-05T16:00:00Z' uid='1' user='Dharmin' version='1' changeset='5'>
     <nd ref='1633' />
@@ -8573,15 +8688,6 @@
     <nd ref='1723' />
     <nd ref='1722' />
     <nd ref='1725' />
-    <tag k='indoor' v='wall' />
-    <tag k='level' v='2' />
-  </way>
-  <way id='624' timestamp='2018-10-10T11:13:13Z' uid='1' user='Dharmin' version='1' changeset='10'>
-    <nd ref='1730' />
-    <nd ref='1727' />
-    <nd ref='2080' />
-    <nd ref='1726' />
-    <nd ref='1730' />
     <tag k='indoor' v='wall' />
     <tag k='level' v='2' />
   </way>
@@ -11010,13 +11116,6 @@
     <tag k='level' v='2' />
     <tag k='oneway' v='yes' />
   </way>
-  <way id='862' timestamp='2018-10-10T14:20:58Z' uid='1' user='Dharmin' version='1' changeset='11'>
-    <nd ref='2391' />
-    <nd ref='2390' />
-    <tag k='highway' v='local-way' />
-    <tag k='level' v='2' />
-    <tag k='oneway' v='yes' />
-  </way>
   <way id='863' timestamp='2018-10-10T14:20:58Z' uid='1' user='Dharmin' version='1' changeset='11'>
     <nd ref='2392' />
     <nd ref='2391' />
@@ -11129,13 +11228,6 @@
     <tag k='level' v='2' />
     <tag k='oneway' v='yes' />
   </way>
-  <way id='881' timestamp='2018-10-10T14:20:59Z' uid='1' user='Dharmin' version='1' changeset='11'>
-    <nd ref='2389' />
-    <nd ref='2388' />
-    <tag k='highway' v='local-way' />
-    <tag k='level' v='2' />
-    <tag k='oneway' v='yes' />
-  </way>
   <way id='882' timestamp='2018-11-26T18:08:23Z' uid='1' user='Dharmin' version='2' changeset='23'>
     <nd ref='2402' />
     <nd ref='2427' />
@@ -11165,7 +11257,7 @@
     <tag k='level' v='2' />
     <tag k='oneway' v='no' />
   </way>
-  <way id='885' timestamp='2018-11-26T18:08:23Z' uid='1' user='Dharmin' version='3' changeset='23'>
+  <way id='885' timestamp='2019-01-23T15:17:58Z' uid='1' user='Dharmin' version='4' changeset='35'>
     <nd ref='1307' />
     <nd ref='2428' />
     <nd ref='2426' />
@@ -11181,7 +11273,6 @@
     <nd ref='2415' />
     <nd ref='2413' />
     <nd ref='2412' />
-    <nd ref='2411' />
     <tag k='highway' v='footway' />
     <tag k='lanes' v='2' />
     <tag k='lanes:backward' v='1' />
@@ -11189,45 +11280,27 @@
     <tag k='level' v='2' />
     <tag k='oneway' v='no' />
   </way>
-  <way id='886' timestamp='2018-10-10T14:20:59Z' uid='1' user='Dharmin' version='1' changeset='11'>
-    <nd ref='2431' />
-    <nd ref='2432' />
-    <nd ref='2430' />
-    <nd ref='2429' />
-    <nd ref='2431' />
-    <tag k='level' v='2' />
-    <tag k='ref' v='BRSU_C_L2_C16_LA1' />
-  </way>
-  <way id='887' timestamp='2018-10-10T14:20:59Z' uid='1' user='Dharmin' version='1' changeset='11'>
-    <nd ref='2434' />
-    <nd ref='2433' />
-    <nd ref='2432' />
-    <nd ref='2431' />
-    <nd ref='2434' />
-    <tag k='level' v='2' />
-    <tag k='ref' v='BRSU_C_L2_C16_LA2' />
-  </way>
-  <way id='888' timestamp='2018-10-10T14:20:59Z' uid='1' user='Dharmin' version='1' changeset='11'>
+  <way id='888' timestamp='2019-01-23T15:17:58Z' uid='1' user='Dharmin' version='3' changeset='35'>
     <nd ref='2436' />
-    <nd ref='2437' />
     <nd ref='2438' />
+    <nd ref='2673' />
     <nd ref='2435' />
     <nd ref='2436' />
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_C_L2_C15_LA2' />
+    <tag k='wifi:strength' v='Good' />
   </way>
-  <way id='889' timestamp='2018-10-10T14:20:59Z' uid='1' user='Dharmin' version='1' changeset='11'>
+  <way id='889' timestamp='2019-01-23T15:17:58Z' uid='1' user='Dharmin' version='3' changeset='35'>
     <nd ref='2441' />
     <nd ref='2440' />
-    <nd ref='2439' />
     <nd ref='2438' />
-    <nd ref='2437' />
     <nd ref='2436' />
     <nd ref='2441' />
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_C_L2_C15_LA1' />
+    <tag k='wifi:strength' v='Good' />
   </way>
-  <way id='890' timestamp='2018-10-10T14:20:59Z' uid='1' user='Dharmin' version='1' changeset='11'>
+  <way id='890' timestamp='2019-01-23T15:09:49Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='2444' />
     <nd ref='2445' />
     <nd ref='2443' />
@@ -11235,8 +11308,9 @@
     <nd ref='2444' />
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_C_L2_C14_LA2' />
+    <tag k='wifi:strength' v='Good' />
   </way>
-  <way id='891' timestamp='2018-10-10T14:20:59Z' uid='1' user='Dharmin' version='1' changeset='11'>
+  <way id='891' timestamp='2019-01-23T15:09:49Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='2447' />
     <nd ref='2446' />
     <nd ref='2445' />
@@ -11244,8 +11318,9 @@
     <nd ref='2447' />
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_C_L2_C14_LA1' />
+    <tag k='wifi:strength' v='Good' />
   </way>
-  <way id='892' timestamp='2018-10-10T14:20:59Z' uid='1' user='Dharmin' version='1' changeset='11'>
+  <way id='892' timestamp='2019-01-23T15:09:49Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='2450' />
     <nd ref='2451' />
     <nd ref='2449' />
@@ -11253,8 +11328,9 @@
     <nd ref='2450' />
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_C_L2_C13_LA2' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='893' timestamp='2018-10-10T14:20:59Z' uid='1' user='Dharmin' version='1' changeset='11'>
+  <way id='893' timestamp='2019-01-23T15:09:49Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='2453' />
     <nd ref='2452' />
     <nd ref='2451' />
@@ -11262,8 +11338,9 @@
     <nd ref='2453' />
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_C_L2_C13_LA1' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='894' timestamp='2018-10-10T14:20:59Z' uid='1' user='Dharmin' version='1' changeset='11'>
+  <way id='894' timestamp='2019-01-23T15:09:50Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='2456' />
     <nd ref='2457' />
     <nd ref='2455' />
@@ -11271,8 +11348,9 @@
     <nd ref='2456' />
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_C_L2_C12_LA2' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='895' timestamp='2018-10-10T14:20:59Z' uid='1' user='Dharmin' version='1' changeset='11'>
+  <way id='895' timestamp='2019-01-23T15:09:50Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='2459' />
     <nd ref='2458' />
     <nd ref='2457' />
@@ -11280,8 +11358,9 @@
     <nd ref='2459' />
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_C_L2_C12_LA1' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='896' timestamp='2018-10-10T14:20:59Z' uid='1' user='Dharmin' version='1' changeset='11'>
+  <way id='896' timestamp='2019-01-23T15:09:50Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='2462' />
     <nd ref='2463' />
     <nd ref='2461' />
@@ -11289,8 +11368,9 @@
     <nd ref='2462' />
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_C_L2_C11_LA2' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='897' timestamp='2018-10-10T14:20:59Z' uid='1' user='Dharmin' version='1' changeset='11'>
+  <way id='897' timestamp='2019-01-23T15:09:50Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='2465' />
     <nd ref='2464' />
     <nd ref='2463' />
@@ -11298,8 +11378,9 @@
     <nd ref='2465' />
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_C_L2_C11_LA1' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='898' timestamp='2018-10-10T14:20:59Z' uid='1' user='Dharmin' version='1' changeset='11'>
+  <way id='898' timestamp='2019-01-23T15:09:50Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='2468' />
     <nd ref='2469' />
     <nd ref='2467' />
@@ -11307,8 +11388,9 @@
     <nd ref='2468' />
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_C_L2_C10_LA2' />
+    <tag k='wifi:strength' v='Good' />
   </way>
-  <way id='899' timestamp='2018-10-10T14:20:59Z' uid='1' user='Dharmin' version='1' changeset='11'>
+  <way id='899' timestamp='2019-01-23T15:09:50Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='2471' />
     <nd ref='2470' />
     <nd ref='2469' />
@@ -11316,8 +11398,9 @@
     <nd ref='2471' />
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_C_L2_C10_LA1' />
+    <tag k='wifi:strength' v='Good' />
   </way>
-  <way id='900' timestamp='2018-10-10T14:20:59Z' uid='1' user='Dharmin' version='1' changeset='11'>
+  <way id='900' timestamp='2019-01-23T15:09:50Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='2475' />
     <nd ref='2474' />
     <nd ref='2473' />
@@ -11325,8 +11408,9 @@
     <nd ref='2475' />
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_C_L2_C9_LA1' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='901' timestamp='2018-10-10T14:20:59Z' uid='1' user='Dharmin' version='1' changeset='11'>
+  <way id='901' timestamp='2019-01-23T15:09:50Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='2478' />
     <nd ref='2479' />
     <nd ref='2477' />
@@ -11334,8 +11418,9 @@
     <nd ref='2478' />
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_C_L2_C8_LA2' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='902' timestamp='2018-10-10T14:20:59Z' uid='1' user='Dharmin' version='1' changeset='11'>
+  <way id='902' timestamp='2019-01-23T15:09:50Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='2481' />
     <nd ref='2480' />
     <nd ref='2479' />
@@ -11343,8 +11428,9 @@
     <nd ref='2481' />
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_C_L2_C8_LA1' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='905' timestamp='2018-10-10T14:21:00Z' uid='1' user='Dharmin' version='1' changeset='11'>
+  <way id='905' timestamp='2019-01-23T15:09:50Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='2494' />
     <nd ref='2495' />
     <nd ref='2493' />
@@ -11352,8 +11438,9 @@
     <nd ref='2494' />
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_C_L2_C6_LA2' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='906' timestamp='2018-10-10T14:21:00Z' uid='1' user='Dharmin' version='1' changeset='11'>
+  <way id='906' timestamp='2019-01-23T15:09:50Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='2497' />
     <nd ref='2496' />
     <nd ref='2495' />
@@ -11361,8 +11448,9 @@
     <nd ref='2497' />
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_C_L2_C6_LA1' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='907' timestamp='2018-10-10T14:21:00Z' uid='1' user='Dharmin' version='1' changeset='11'>
+  <way id='907' timestamp='2019-01-23T15:09:50Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='2500' />
     <nd ref='2501' />
     <nd ref='2499' />
@@ -11370,8 +11458,9 @@
     <nd ref='2500' />
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_C_L2_C5_LA2' />
+    <tag k='wifi:strength' v='Bad' />
   </way>
-  <way id='908' timestamp='2018-10-10T14:21:00Z' uid='1' user='Dharmin' version='1' changeset='11'>
+  <way id='908' timestamp='2019-01-23T15:09:50Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='2503' />
     <nd ref='2502' />
     <nd ref='2501' />
@@ -11379,8 +11468,9 @@
     <nd ref='2503' />
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_C_L2_C5_LA1' />
+    <tag k='wifi:strength' v='Bad' />
   </way>
-  <way id='909' timestamp='2018-10-10T14:21:00Z' uid='1' user='Dharmin' version='1' changeset='11'>
+  <way id='909' timestamp='2019-01-23T15:09:50Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='2506' />
     <nd ref='2507' />
     <nd ref='2505' />
@@ -11388,8 +11478,9 @@
     <nd ref='2506' />
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_C_L2_C4_LA2' />
+    <tag k='wifi:strength' v='Bad' />
   </way>
-  <way id='910' timestamp='2018-10-10T14:21:00Z' uid='1' user='Dharmin' version='1' changeset='11'>
+  <way id='910' timestamp='2019-01-23T15:09:50Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='2509' />
     <nd ref='2508' />
     <nd ref='2507' />
@@ -11397,8 +11488,9 @@
     <nd ref='2509' />
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_C_L2_C4_LA1' />
+    <tag k='wifi:strength' v='Bad' />
   </way>
-  <way id='911' timestamp='2018-10-10T14:21:00Z' uid='1' user='Dharmin' version='1' changeset='11'>
+  <way id='911' timestamp='2019-01-23T15:09:50Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='2512' />
     <nd ref='2513' />
     <nd ref='2511' />
@@ -11406,8 +11498,9 @@
     <nd ref='2512' />
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_C_L2_C3_LA2' />
+    <tag k='wifi:strength' v='Bad' />
   </way>
-  <way id='912' timestamp='2018-10-10T14:21:00Z' uid='1' user='Dharmin' version='1' changeset='11'>
+  <way id='912' timestamp='2019-01-23T15:09:50Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='2515' />
     <nd ref='2514' />
     <nd ref='2513' />
@@ -11415,8 +11508,9 @@
     <nd ref='2515' />
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_C_L2_C3_LA1' />
+    <tag k='wifi:strength' v='Bad' />
   </way>
-  <way id='913' action='modify' timestamp='2018-10-10T14:21:00Z' uid='1' user='Dharmin' version='1' changeset='11'>
+  <way id='913' timestamp='2019-01-23T15:09:50Z' uid='1' user='Dharmin' version='3' changeset='34'>
     <nd ref='2519' />
     <nd ref='2518' />
     <nd ref='2517' />
@@ -11425,8 +11519,9 @@
     <tag k='behaviour' v='undocking' />
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_C_L2_C2_LA1' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='914' timestamp='2018-10-10T14:21:00Z' uid='1' user='Dharmin' version='1' changeset='11'>
+  <way id='914' timestamp='2019-01-23T15:09:50Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='2522' />
     <nd ref='2523' />
     <nd ref='2521' />
@@ -11434,8 +11529,9 @@
     <nd ref='2522' />
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_C_L2_C1_LA2' />
+    <tag k='wifi:strength' v='Bad' />
   </way>
-  <way id='915' timestamp='2018-10-10T14:21:00Z' uid='1' user='Dharmin' version='1' changeset='11'>
+  <way id='915' timestamp='2019-01-23T15:09:50Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='2525' />
     <nd ref='2524' />
     <nd ref='2523' />
@@ -11443,8 +11539,9 @@
     <nd ref='2525' />
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_C_L2_C1_LA1' />
+    <tag k='wifi:strength' v='Bad' />
   </way>
-  <way id='916' timestamp='2018-10-10T14:21:00Z' uid='1' user='Dharmin' version='1' changeset='11'>
+  <way id='916' timestamp='2019-01-23T15:09:50Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='2528' />
     <nd ref='2529' />
     <nd ref='2527' />
@@ -11452,8 +11549,9 @@
     <nd ref='2528' />
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_A_L2_C1_LA2' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='917' timestamp='2018-10-10T14:21:00Z' uid='1' user='Dharmin' version='1' changeset='11'>
+  <way id='917' timestamp='2019-01-23T15:09:50Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='2531' />
     <nd ref='2530' />
     <nd ref='2529' />
@@ -11461,19 +11559,7 @@
     <nd ref='2531' />
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_A_L2_C1_LA1' />
-  </way>
-  <way id='918' timestamp='2018-10-10T14:21:00Z' uid='1' user='Dharmin' version='1' changeset='11'>
-    <nd ref='2537' />
-    <nd ref='2532' />
-    <nd ref='2535' />
-    <nd ref='2534' />
-    <nd ref='2533' />
-    <nd ref='2537' />
-    <tag k='indoor' v='corridor' />
-    <tag k='internet' v='yes' />
-    <tag k='level' v='2' />
-    <tag k='ref' v='BRSU_C_L2_C16' />
-    <tag k='surface:smoothness' v='excellent' />
+    <tag k='wifi:strength' v='Average' />
   </way>
   <way id='919' timestamp='2018-10-10T14:21:00Z' uid='1' user='Dharmin' version='1' changeset='11'>
     <nd ref='2538' />
@@ -11862,7 +11948,7 @@
     <tag k='level' v='2' />
     <tag k='oneway' v='yes' />
   </way>
-  <way id='959' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18'>
+  <way id='959' timestamp='2019-01-23T15:09:50Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='2615' />
     <nd ref='2614' />
     <nd ref='2613' />
@@ -11870,8 +11956,9 @@
     <nd ref='2615' />
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_C_L2_C18_LA1' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='960' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18'>
+  <way id='960' timestamp='2019-01-23T15:09:50Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='2620' />
     <nd ref='2617' />
     <nd ref='2616' />
@@ -11879,8 +11966,9 @@
     <nd ref='2620' />
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_C_L2_C17_LA2' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='961' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18'>
+  <way id='961' timestamp='2019-01-23T15:09:50Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='2621' />
     <nd ref='2620' />
     <nd ref='2619' />
@@ -11888,8 +11976,9 @@
     <nd ref='2621' />
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_C_L2_C17_LA1' />
+    <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='962' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18'>
+  <way id='962' timestamp='2019-01-23T15:09:50Z' uid='1' user='Dharmin' version='2' changeset='34'>
     <nd ref='2625' />
     <nd ref='2624' />
     <nd ref='2623' />
@@ -11897,6 +11986,7 @@
     <nd ref='2625' />
     <tag k='level' v='2' />
     <tag k='ref' v='BRSU_C_L2_C7_LA1' />
+    <tag k='wifi:strength' v='Average' />
   </way>
   <way id='963' timestamp='2018-10-17T12:16:02Z' uid='1' user='Dharmin' version='1' changeset='18'>
     <nd ref='2627' />
@@ -12229,26 +12319,351 @@
     <tag k='level' v='2' />
     <tag k='oneway' v='yes' />
   </way>
-  <way id='1006' timestamp='2018-12-12T18:06:06Z' uid='2' user='Lakshadeep' version='1' changeset='25'>
+  <way id='1006' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
     <nd ref='2657' />
     <nd ref='2656' />
     <nd ref='2655' />
     <nd ref='2654' />
     <nd ref='2657' />
-    <tag k='indoor' v='wall' />
+    <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <relation id='1' timestamp='2018-11-25T19:32:32Z' uid='1' user='Dharmin' version='4' changeset='22'>
+  <way id='1007' timestamp='2019-01-16T20:20:26Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='2391' />
+    <nd ref='2388' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='2' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1008' timestamp='2019-01-16T20:20:26Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='2392' />
+    <nd ref='2387' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='2' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1009' timestamp='2019-01-16T20:20:26Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='2393' />
+    <nd ref='2386' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='2' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1010' timestamp='2019-01-16T20:20:26Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='2394' />
+    <nd ref='2385' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='2' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1011' timestamp='2019-01-16T20:20:27Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='2395' />
+    <nd ref='2384' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='2' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1012' timestamp='2019-01-16T20:20:27Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='2383' />
+    <nd ref='2397' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='2' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1013' timestamp='2019-01-16T20:20:27Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='2382' />
+    <nd ref='2398' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='2' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1014' timestamp='2019-01-16T20:20:27Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='2381' />
+    <nd ref='2399' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='2' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1015' timestamp='2019-01-16T20:20:27Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='2376' />
+    <nd ref='2373' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='2' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1016' timestamp='2019-01-16T20:20:27Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='2377' />
+    <nd ref='2372' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='2' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1017' timestamp='2019-01-16T20:20:27Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='2380' />
+    <nd ref='2401' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='2' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1018' timestamp='2019-01-16T20:20:27Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='2403' />
+    <nd ref='2402' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='2' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1019' timestamp='2019-01-16T20:20:27Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='1295' />
+    <nd ref='1285' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='0' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1020' timestamp='2019-01-16T20:20:27Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='1291' />
+    <nd ref='1284' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='0' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1021' timestamp='2019-01-16T20:20:27Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='1293' />
+    <nd ref='1292' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='0' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1022' timestamp='2019-01-16T20:20:27Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='1233' />
+    <nd ref='1242' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='0' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1023' timestamp='2019-01-16T20:20:27Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='1232' />
+    <nd ref='1243' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='0' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1024' timestamp='2019-01-16T20:20:27Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='1240' />
+    <nd ref='1234' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='0' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1025' timestamp='2019-01-16T20:20:27Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='1235' />
+    <nd ref='1239' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='0' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1026' timestamp='2019-01-16T20:20:27Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='1238' />
+    <nd ref='1236' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='0' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1027' timestamp='2019-01-16T20:20:27Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='1244' />
+    <nd ref='1231' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='0' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1028' timestamp='2019-01-16T20:20:27Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='1246' />
+    <nd ref='1237' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='0' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1029' timestamp='2019-01-16T20:20:27Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='1266' />
+    <nd ref='1256' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='0' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1030' timestamp='2019-01-16T20:20:27Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='1257' />
+    <nd ref='1267' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='0' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1031' timestamp='2019-01-16T20:20:27Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='1268' />
+    <nd ref='1258' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='0' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1032' timestamp='2019-01-16T20:20:27Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='1259' />
+    <nd ref='1269' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='0' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1033' timestamp='2019-01-16T20:20:27Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='1260' />
+    <nd ref='1270' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='0' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1034' timestamp='2019-01-16T20:20:27Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='1249' />
+    <nd ref='1248' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='0' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1035' timestamp='2019-01-16T20:20:27Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='1253' />
+    <nd ref='1250' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='0' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1036' timestamp='2019-01-16T20:20:27Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='1251' />
+    <nd ref='1252' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='0' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1037' timestamp='2019-01-16T20:20:27Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='1261' />
+    <nd ref='1272' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='0' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1038' timestamp='2019-01-16T20:20:27Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='1262' />
+    <nd ref='1273' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='0' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1039' timestamp='2019-01-16T20:20:27Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='1263' />
+    <nd ref='1274' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='0' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1040' timestamp='2019-01-16T20:20:27Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='1277' />
+    <nd ref='1279' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='0' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1041' timestamp='2019-01-16T20:20:27Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='1276' />
+    <nd ref='1278' />
+    <tag k='highway' v='local-way' />
+    <tag k='level' v='0' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1042' timestamp='2019-01-16T20:20:27Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='1280' />
+    <nd ref='1286' />
+    <tag k='highway' v='local-way' />
+    <tag k='level' v='0' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1043' timestamp='2019-01-16T20:20:28Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='1281' />
+    <nd ref='1288' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='0' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1044' timestamp='2019-01-16T20:20:28Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='1282' />
+    <nd ref='1289' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='0' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1045' timestamp='2019-01-16T20:20:28Z' uid='1' user='Dharmin' version='1' changeset='32'>
+    <nd ref='1283' />
+    <nd ref='1290' />
+    <tag k='highway' v='local-way' />
+    <tag k='lanes' v='1' />
+    <tag k='level' v='0' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='1046' timestamp='2019-01-23T15:17:58Z' uid='1' user='Dharmin' version='1' changeset='35'>
+    <nd ref='2080' />
+    <nd ref='1729' />
+    <nd ref='1730' />
+    <nd ref='2081' />
+    <nd ref='2080' />
+    <tag k='always_closed' v='no' />
+    <tag k='door' v='hinged' />
+    <tag k='door:automatic' v='no' />
+    <tag k='door:direction' v='outside' />
+    <tag k='double_doors' v='no' />
+    <tag k='indoor' v='door' />
+    <tag k='level' v='2' />
+  </way>
+  <relation id='1' timestamp='2019-01-16T20:20:28Z' uid='1' user='Dharmin' version='5' changeset='32'>
     <member type='way' ref='352' role='geometry' />
     <member type='node' ref='1350' role='topology' />
     <member type='way' ref='591' role='local_connection' />
     <member type='way' ref='589' role='local_connection' />
     <member type='relation' ref='55' role='local_area' />
     <member type='relation' ref='54' role='local_area' />
+    <member type='way' ref='1039' role='recovery_connection' />
     <tag k='ref' v='BRSU_C_L0_C12' />
     <tag k='type' v='corridor' />
   </relation>
-  <relation id='2' timestamp='2018-11-25T19:32:32Z' uid='1' user='Dharmin' version='4' changeset='22'>
+  <relation id='2' timestamp='2019-01-16T20:20:28Z' uid='1' user='Dharmin' version='5' changeset='32'>
     <member type='way' ref='353' role='geometry' />
     <member type='node' ref='1351' role='topology' />
     <member type='way' ref='592' role='local_connection' />
@@ -12258,6 +12673,7 @@
     <member type='relation' ref='56' role='local_area' />
     <member type='relation' ref='57' role='local_area' />
     <member type='relation' ref='86' role='door' />
+    <member type='way' ref='1040' role='recovery_connection' />
     <tag k='ref' v='BRSU_C_L0_C11' />
     <tag k='type' v='corridor' />
   </relation>
@@ -12288,7 +12704,7 @@
     <tag k='ref' v='BRSU_C_L0_RoomC022' />
     <tag k='type' v='room' />
   </relation>
-  <relation id='5' timestamp='2018-12-12T18:06:08Z' uid='2' user='Lakshadeep' version='5' changeset='25'>
+  <relation id='5' timestamp='2019-01-16T20:20:28Z' uid='1' user='Dharmin' version='6' changeset='32'>
     <member type='relation' ref='209' role='door' />
     <member type='relation' ref='88' role='door' />
     <member type='relation' ref='87' role='door' />
@@ -12309,19 +12725,21 @@
     <member type='way' ref='468' role='local_connection' />
     <member type='relation' ref='61' role='local_area' />
     <member type='relation' ref='60' role='local_area' />
+    <member type='way' ref='1042' role='recovery_connection' />
     <tag k='ref' v='BRSU_C_L0_C9' />
     <tag k='type' v='corridor' />
   </relation>
-  <relation id='6' timestamp='2018-10-15T14:28:25Z' uid='1' user='Dharmin' version='3' changeset='14'>
+  <relation id='6' timestamp='2019-01-16T20:20:28Z' uid='1' user='Dharmin' version='4' changeset='32'>
     <member type='way' ref='356' role='geometry' />
     <member type='node' ref='1352' role='topology' />
     <member type='way' ref='470' role='local_connection' />
     <member type='relation' ref='63' role='local_area' />
     <member type='relation' ref='62' role='local_area' />
+    <member type='way' ref='1041' role='recovery_connection' />
     <tag k='ref' v='BRSU_C_L0_C10' />
     <tag k='type' v='corridor' />
   </relation>
-  <relation id='7' timestamp='2018-10-15T14:28:25Z' uid='1' user='Dharmin' version='3' changeset='14'>
+  <relation id='7' timestamp='2019-01-16T20:20:28Z' uid='1' user='Dharmin' version='4' changeset='32'>
     <member type='way' ref='358' role='geometry' />
     <member type='node' ref='1354' role='topology' />
     <member type='way' ref='467' role='local_connection' />
@@ -12332,7 +12750,7 @@
     <tag k='ref' v='BRSU_C_L0_C8' />
     <tag k='type' v='junction' />
   </relation>
-  <relation id='8' timestamp='2018-11-25T19:32:32Z' uid='1' user='Dharmin' version='4' changeset='22'>
+  <relation id='8' timestamp='2019-01-16T20:20:28Z' uid='1' user='Dharmin' version='5' changeset='32'>
     <member type='way' ref='360' role='geometry' />
     <member type='node' ref='1357' role='topology' />
     <member type='way' ref='415' role='local_connection' />
@@ -12342,20 +12760,22 @@
     <member type='relation' ref='68' role='local_area' />
     <member type='relation' ref='67' role='local_area' />
     <member type='relation' ref='89' role='door' />
+    <member type='way' ref='1044' role='recovery_connection' />
     <tag k='ref' v='BRSU_C_L0_C6' />
     <tag k='type' v='corridor' />
   </relation>
-  <relation id='9' timestamp='2018-11-25T19:32:32Z' uid='1' user='Dharmin' version='4' changeset='22'>
+  <relation id='9' timestamp='2019-01-16T20:20:28Z' uid='1' user='Dharmin' version='5' changeset='32'>
     <member type='way' ref='361' role='geometry' />
     <member type='node' ref='1358' role='topology' />
     <member type='way' ref='414' role='local_connection' />
     <member type='way' ref='419' role='local_connection' />
     <member type='relation' ref='70' role='local_area' />
     <member type='relation' ref='69' role='local_area' />
+    <member type='way' ref='1045' role='recovery_connection' />
     <tag k='ref' v='BRSU_C_L0_C5' />
     <tag k='type' v='corridor' />
   </relation>
-  <relation id='10' timestamp='2018-11-25T19:32:32Z' uid='1' user='Dharmin' version='4' changeset='22'>
+  <relation id='10' timestamp='2019-01-16T20:20:28Z' uid='1' user='Dharmin' version='5' changeset='32'>
     <member type='way' ref='362' role='geometry' />
     <member type='node' ref='1361' role='topology' />
     <member type='way' ref='413' role='local_connection' />
@@ -12365,10 +12785,11 @@
     <member type='relation' ref='90' role='door' />
     <member type='relation' ref='72' role='local_area' />
     <member type='relation' ref='71' role='local_area' />
+    <member type='way' ref='1020' role='recovery_connection' />
     <tag k='ref' v='BRSU_C_L0_C4' />
     <tag k='type' v='corridor' />
   </relation>
-  <relation id='11' timestamp='2018-11-25T19:32:32Z' uid='1' user='Dharmin' version='4' changeset='22'>
+  <relation id='11' timestamp='2019-01-16T20:20:28Z' uid='1' user='Dharmin' version='5' changeset='32'>
     <member type='way' ref='363' role='geometry' />
     <member type='node' ref='1360' role='topology' />
     <member type='way' ref='422' role='local_connection' />
@@ -12378,6 +12799,7 @@
     <member type='relation' ref='74' role='local_area' />
     <member type='relation' ref='73' role='local_area' />
     <member type='relation' ref='80' role='door' />
+    <member type='way' ref='1021' role='recovery_connection' />
     <tag k='ref' v='BRSU_C_L0_C3' />
     <tag k='type' v='corridor' />
   </relation>
@@ -12391,7 +12813,7 @@
     <tag k='ref' v='BRSU_C_L0_C2' />
     <tag k='type' v='junction' />
   </relation>
-  <relation id='13' timestamp='2018-11-25T19:32:32Z' uid='1' user='Dharmin' version='4' changeset='22'>
+  <relation id='13' timestamp='2019-01-16T20:20:28Z' uid='1' user='Dharmin' version='5' changeset='32'>
     <member type='way' ref='365' role='geometry' />
     <member type='node' ref='1363' role='topology' />
     <member type='way' ref='409' role='local_connection' />
@@ -12401,6 +12823,7 @@
     <member type='relation' ref='76' role='local_area' />
     <member type='way' ref='991' role='local_connection' />
     <member type='way' ref='410' role='local_connection' />
+    <member type='way' ref='1019' role='recovery_connection' />
     <tag k='ref' v='BRSU_C_L0_C1' />
     <tag k='type' v='corridor' />
   </relation>
@@ -12869,13 +13292,14 @@
     <tag k='ref' v='BRSU_C_L0_C1_Door1' />
     <tag k='type' v='door' />
   </relation>
-  <relation id='92' timestamp='2018-11-25T19:32:32Z' uid='1' user='Dharmin' version='3' changeset='22'>
+  <relation id='92' timestamp='2019-01-16T20:20:28Z' uid='1' user='Dharmin' version='4' changeset='32'>
     <member type='way' ref='359' role='geometry' />
     <member type='node' ref='1355' role='topology' />
     <member type='way' ref='416' role='local_connection' />
     <member type='way' ref='417' role='local_connection' />
     <member type='relation' ref='66' role='local_area' />
     <member type='relation' ref='65' role='local_area' />
+    <member type='way' ref='1043' role='recovery_connection' />
     <tag k='ref' v='BRSU_C_L0_C7' />
     <tag k='type' v='corridor' />
   </relation>
@@ -12885,13 +13309,14 @@
     <tag k='ref' v='BRSU_C_L0_A13_LA1' />
     <tag k='type' v='local_area' />
   </relation>
-  <relation id='94' timestamp='2018-10-15T14:28:26Z' uid='1' user='Dharmin' version='2' changeset='14'>
+  <relation id='94' timestamp='2019-01-16T20:20:28Z' uid='1' user='Dharmin' version='3' changeset='32'>
     <member type='way' ref='324' role='geometry' />
     <member type='node' ref='1327' role='topology' />
     <member type='way' ref='425' role='local_connection' />
     <member type='way' ref='446' role='local_connection' />
     <member type='relation' ref='14' role='local_area' />
     <member type='relation' ref='15' role='local_area' />
+    <member type='way' ref='1022' role='recovery_connection' />
     <tag k='ref' v='BRSU_C_L0_A14' />
     <tag k='type' v='area' />
   </relation>
@@ -12905,43 +13330,47 @@
     <tag k='ref' v='BRSU_C_L0_A15' />
     <tag k='type' v='area' />
   </relation>
-  <relation id='96' timestamp='2018-10-15T14:28:26Z' uid='1' user='Dharmin' version='2' changeset='14'>
+  <relation id='96' timestamp='2019-01-16T20:20:28Z' uid='1' user='Dharmin' version='3' changeset='32'>
     <member type='way' ref='321' role='geometry' />
     <member type='node' ref='1324' role='topology' />
     <member type='way' ref='428' role='local_connection' />
     <member type='way' ref='444' role='local_connection' />
     <member type='relation' ref='21' role='local_area' />
     <member type='relation' ref='20' role='local_area' />
+    <member type='way' ref='1025' role='recovery_connection' />
     <tag k='ref' v='BRSU_C_L0_A17' />
     <tag k='type' v='area' />
   </relation>
-  <relation id='97' timestamp='2018-10-15T14:28:26Z' uid='1' user='Dharmin' version='2' changeset='14'>
+  <relation id='97' timestamp='2019-01-16T20:20:28Z' uid='1' user='Dharmin' version='3' changeset='32'>
     <member type='way' ref='322' role='geometry' />
     <member type='node' ref='1328' role='topology' />
     <member type='way' ref='447' role='local_connection' />
     <member type='way' ref='424' role='local_connection' />
     <member type='relation' ref='17' role='local_area' />
     <member type='relation' ref='16' role='local_area' />
+    <member type='way' ref='1023' role='recovery_connection' />
     <tag k='ref' v='BRSU_C_L0_A16' />
     <tag k='type' v='area' />
   </relation>
-  <relation id='98' timestamp='2018-10-15T14:28:26Z' uid='1' user='Dharmin' version='2' changeset='14'>
+  <relation id='98' timestamp='2019-01-16T20:20:28Z' uid='1' user='Dharmin' version='3' changeset='32'>
     <member type='way' ref='318' role='geometry' />
     <member type='node' ref='1323' role='topology' />
     <member type='way' ref='429' role='local_connection' />
     <member type='way' ref='443' role='local_connection' />
     <member type='relation' ref='22' role='local_area' />
     <member type='relation' ref='23' role='local_area' />
+    <member type='way' ref='1026' role='recovery_connection' />
     <tag k='ref' v='BRSU_C_L0_A19' />
     <tag k='type' v='area' />
   </relation>
-  <relation id='99' timestamp='2018-10-15T14:28:26Z' uid='1' user='Dharmin' version='2' changeset='14'>
+  <relation id='99' timestamp='2019-01-16T20:20:28Z' uid='1' user='Dharmin' version='3' changeset='32'>
     <member type='way' ref='320' role='geometry' />
     <member type='node' ref='1329' role='topology' />
     <member type='way' ref='423' role='local_connection' />
     <member type='way' ref='448' role='local_connection' />
     <member type='relation' ref='25' role='local_area' />
     <member type='relation' ref='24' role='local_area' />
+    <member type='way' ref='1027' role='recovery_connection' />
     <tag k='ref' v='BRSU_C_L0_A18' />
     <tag k='type' v='area' />
   </relation>
@@ -12955,7 +13384,7 @@
     <tag k='ref' v='BRSU_C_L0_A20' />
     <tag k='type' v='area' />
   </relation>
-  <relation id='101' timestamp='2018-11-25T19:32:32Z' uid='1' user='Dharmin' version='3' changeset='22'>
+  <relation id='101' timestamp='2019-01-16T20:20:28Z' uid='1' user='Dharmin' version='4' changeset='32'>
     <member type='way' ref='338' role='geometry' />
     <member type='node' ref='1331' role='topology' />
     <member type='way' ref='432' role='local_connection' />
@@ -12965,6 +13394,7 @@
     <member type='relation' ref='28' role='local_area' />
     <member type='relation' ref='27' role='local_area' />
     <member type='relation' ref='81' role='door' />
+    <member type='way' ref='1028' role='recovery_connection' />
     <tag k='ref' v='BRSU_C_L0_C26' />
     <tag k='type' v='corridor' />
   </relation>
@@ -12987,7 +13417,7 @@
     <tag k='ref' v='BRSU_C_L0_C24' />
     <tag k='type' v='junction' />
   </relation>
-  <relation id='104' timestamp='2018-11-25T19:32:32Z' uid='1' user='Dharmin' version='3' changeset='22'>
+  <relation id='104' timestamp='2019-01-16T20:20:28Z' uid='1' user='Dharmin' version='4' changeset='32'>
     <member type='way' ref='341' role='geometry' />
     <member type='node' ref='1333' role='topology' />
     <member type='way' ref='442' role='local_connection' />
@@ -12997,6 +13427,7 @@
     <member type='relation' ref='33' role='local_area' />
     <member type='relation' ref='32' role='local_area' />
     <member type='relation' ref='82' role='door' />
+    <member type='way' ref='1029' role='recovery_connection' />
     <tag k='ref' v='BRSU_C_L0_C23' />
     <tag k='type' v='corridor' />
   </relation>
@@ -13010,17 +13441,18 @@
     <tag k='ref' v='BRSU_C_L0_C22' />
     <tag k='type' v='corridor' />
   </relation>
-  <relation id='106' timestamp='2018-10-15T14:28:26Z' uid='1' user='Dharmin' version='2' changeset='14'>
+  <relation id='106' timestamp='2019-01-16T20:20:28Z' uid='1' user='Dharmin' version='3' changeset='32'>
     <member type='way' ref='343' role='geometry' />
     <member type='node' ref='1336' role='topology' />
     <member type='way' ref='440' role='local_connection' />
     <member type='way' ref='435' role='local_connection' />
     <member type='relation' ref='37' role='local_area' />
     <member type='relation' ref='36' role='local_area' />
+    <member type='way' ref='1031' role='recovery_connection' />
     <tag k='ref' v='BRSU_C_L0_C21' />
     <tag k='type' v='corridor' />
   </relation>
-  <relation id='107' timestamp='2018-11-25T19:32:32Z' uid='1' user='Dharmin' version='3' changeset='22'>
+  <relation id='107' timestamp='2019-01-16T20:20:28Z' uid='1' user='Dharmin' version='4' changeset='32'>
     <member type='way' ref='344' role='geometry' />
     <member type='node' ref='1337' role='topology' />
     <member type='way' ref='439' role='local_connection' />
@@ -13030,25 +13462,28 @@
     <member type='relation' ref='38' role='local_area' />
     <member type='relation' ref='39' role='local_area' />
     <member type='relation' ref='83' role='door' />
+    <member type='way' ref='1032' role='recovery_connection' />
     <tag k='ref' v='BRSU_C_L0_C20' />
     <tag k='type' v='corridor' />
   </relation>
-  <relation id='108' timestamp='2018-11-25T19:32:32Z' uid='1' user='Dharmin' version='3' changeset='22'>
+  <relation id='108' timestamp='2019-01-16T20:20:28Z' uid='1' user='Dharmin' version='4' changeset='32'>
     <member type='way' ref='345' role='geometry' />
     <member type='node' ref='1339' role='topology' />
     <member type='way' ref='438' role='local_connection' />
     <member type='way' ref='437' role='local_connection' />
     <member type='relation' ref='41' role='local_area' />
     <member type='relation' ref='40' role='local_area' />
+    <member type='way' ref='1033' role='recovery_connection' />
     <tag k='ref' v='BRSU_C_L0_C19' />
     <tag k='type' v='corridor' />
   </relation>
-  <relation id='109' timestamp='2018-10-15T14:28:26Z' uid='1' user='Dharmin' version='2' changeset='14'>
+  <relation id='109' timestamp='2019-01-16T20:20:28Z' uid='1' user='Dharmin' version='3' changeset='32'>
     <member type='way' ref='348' role='geometry' />
     <member type='node' ref='1340' role='topology' />
     <member type='way' ref='455' role='local_connection' />
     <member type='relation' ref='42' role='local_area' />
     <member type='relation' ref='43' role='local_area' />
+    <member type='way' ref='1034' role='recovery_connection' />
     <tag k='ref' v='BRSU_C_L0_C16' />
     <tag k='type' v='corridor' />
   </relation>
@@ -13062,27 +13497,29 @@
     <tag k='ref' v='BRSU_C_L0_RoomC069' />
     <tag k='type' v='room' />
   </relation>
-  <relation id='111' timestamp='2018-11-25T19:32:33Z' uid='1' user='Dharmin' version='3' changeset='22'>
+  <relation id='111' timestamp='2019-01-16T20:20:28Z' uid='1' user='Dharmin' version='4' changeset='32'>
     <member type='way' ref='346' role='geometry' />
     <member type='node' ref='1344' role='topology' />
     <member type='way' ref='453' role='local_connection' />
     <member type='way' ref='457' role='local_connection' />
     <member type='relation' ref='46' role='local_area' />
     <member type='relation' ref='45' role='local_area' />
+    <member type='way' ref='1036' role='recovery_connection' />
     <tag k='ref' v='BRSU_C_L0_C18' />
     <tag k='type' v='corridor' />
   </relation>
-  <relation id='112' timestamp='2018-10-15T14:28:26Z' uid='1' user='Dharmin' version='2' changeset='14'>
+  <relation id='112' timestamp='2019-01-16T20:20:28Z' uid='1' user='Dharmin' version='3' changeset='32'>
     <member type='way' ref='347' role='geometry' />
     <member type='node' ref='1345' role='topology' />
     <member type='way' ref='596' role='local_connection' />
     <member type='way' ref='595' role='local_connection' />
     <member type='relation' ref='47' role='local_area' />
     <member type='relation' ref='48' role='local_area' />
+    <member type='way' ref='1035' role='recovery_connection' />
     <tag k='ref' v='BRSU_C_L0_C17' />
     <tag k='type' v='corridor' />
   </relation>
-  <relation id='113' timestamp='2018-10-15T14:28:26Z' uid='1' user='Dharmin' version='2' changeset='14'>
+  <relation id='113' timestamp='2019-01-16T20:20:28Z' uid='1' user='Dharmin' version='3' changeset='32'>
     <member type='way' ref='349' role='geometry' />
     <member type='node' ref='1346' role='topology' />
     <member type='way' ref='456' role='local_connection' />
@@ -13106,13 +13543,14 @@
     <tag k='ref' v='BRSU_C_L0_C14' />
     <tag k='type' v='corridor' />
   </relation>
-  <relation id='115' timestamp='2018-11-25T19:32:33Z' uid='1' user='Dharmin' version='3' changeset='22'>
+  <relation id='115' timestamp='2019-01-16T20:20:28Z' uid='1' user='Dharmin' version='4' changeset='32'>
     <member type='way' ref='351' role='geometry' />
     <member type='node' ref='1349' role='topology' />
     <member type='way' ref='464' role='local_connection' />
     <member type='way' ref='590' role='local_connection' />
     <member type='relation' ref='53' role='local_area' />
     <member type='relation' ref='52' role='local_area' />
+    <member type='way' ref='1038' role='recovery_connection' />
     <tag k='ref' v='BRSU_C_L0_C13' />
     <tag k='type' v='corridor' />
   </relation>
@@ -13205,7 +13643,7 @@
     <tag k='ref' v='BRSU_A_L0_A2' />
     <tag k='type' v='area' />
   </relation>
-  <relation id='127' timestamp='2018-12-12T18:06:08Z' uid='2' user='Lakshadeep' version='5' changeset='25'>
+  <relation id='127' timestamp='2019-01-16T15:22:43Z' uid='1' user='Dharmin' version='6' changeset='31'>
     <member type='way' ref='597' role='geometry' />
     <member type='relation' ref='125' role='area' />
     <member type='relation' ref='126' role='area' />
@@ -13269,21 +13707,20 @@
     <member type='way' ref='479' role='global_connection' />
     <member type='way' ref='480' role='global_connection' />
     <member type='way' ref='481' role='global_connection' />
+    <member type='node' ref='2670' role='wlan' />
+    <member type='node' ref='2658' role='wlan' />
+    <member type='node' ref='2665' role='wlan' />
+    <member type='node' ref='2664' role='wlan' />
+    <member type='node' ref='2662' role='wlan' />
+    <member type='node' ref='2661' role='wlan' />
+    <member type='node' ref='2660' role='wlan' />
+    <member type='node' ref='2659' role='wlan' />
+    <member type='node' ref='2669' role='wlan' />
+    <member type='node' ref='2667' role='wlan' />
+    <member type='node' ref='2666' role='wlan' />
     <tag k='name' v='Ground floor' />
     <tag k='ref' v='BRSU_L0' />
     <tag k='type' v='level' />
-  </relation>
-  <relation id='128' timestamp='2018-10-10T16:14:01Z' uid='1' user='Dharmin' version='1' changeset='12'>
-    <member type='way' ref='887' role='geometry' />
-    <member type='node' ref='2389' role='topology' />
-    <tag k='ref' v='BRSU_C_L2_C16_LA2' />
-    <tag k='type' v='local_area' />
-  </relation>
-  <relation id='129' timestamp='2018-10-10T16:14:01Z' uid='1' user='Dharmin' version='1' changeset='12'>
-    <member type='way' ref='886' role='geometry' />
-    <member type='node' ref='2390' role='topology' />
-    <tag k='ref' v='BRSU_C_L2_C16_LA1' />
-    <tag k='type' v='local_area' />
   </relation>
   <relation id='130' timestamp='2018-10-10T16:14:02Z' uid='1' user='Dharmin' version='1' changeset='12'>
     <member type='way' ref='888' role='geometry' />
@@ -13501,7 +13938,7 @@
     <tag k='ref' v='BRSU_C_L2_C1_Door1' />
     <tag k='type' v='door' />
   </relation>
-  <relation id='169' timestamp='2018-11-26T18:08:23Z' uid='1' user='Dharmin' version='3' changeset='23'>
+  <relation id='169' timestamp='2019-01-16T20:20:28Z' uid='1' user='Dharmin' version='4' changeset='32'>
     <member type='way' ref='923' role='geometry' />
     <member type='node' ref='2418' role='topology' />
     <member type='way' ref='857' role='local_connection' />
@@ -13511,10 +13948,11 @@
     <member type='relation' ref='161' role='door' />
     <member type='relation' ref='139' role='local_area' />
     <member type='relation' ref='138' role='local_area' />
+    <member type='way' ref='1011' role='recovery_connection' />
     <tag k='ref' v='BRSU_C_L2_C11' />
     <tag k='type' v='corridor' />
   </relation>
-  <relation id='170' timestamp='2018-11-26T18:08:23Z' uid='1' user='Dharmin' version='4' changeset='23'>
+  <relation id='170' timestamp='2019-01-16T20:20:29Z' uid='1' user='Dharmin' version='5' changeset='32'>
     <member type='way' ref='935' role='geometry' />
     <member type='node' ref='2426' role='topology' />
     <member type='way' ref='872' role='local_connection' />
@@ -13524,6 +13962,7 @@
     <member type='relation' ref='167' role='door' />
     <member type='relation' ref='157' role='local_area' />
     <member type='relation' ref='156' role='local_area' />
+    <member type='way' ref='1017' role='recovery_connection' />
     <tag k='ref' v='BRSU_C_L2_C1' />
     <tag k='type' v='corridor' />
   </relation>
@@ -13537,7 +13976,7 @@
     <tag k='ref' v='BRSU_C_L2_C13' />
     <tag k='type' v='corridor' />
   </relation>
-  <relation id='172' timestamp='2018-11-26T18:08:23Z' uid='1' user='Dharmin' version='5' changeset='23'>
+  <relation id='172' timestamp='2019-01-16T20:20:29Z' uid='1' user='Dharmin' version='6' changeset='32'>
     <member type='way' ref='929' role='geometry' />
     <member type='node' ref='2424' role='topology' />
     <member type='way' ref='853' role='local_connection' />
@@ -13547,10 +13986,11 @@
     <member type='relation' ref='163' role='door' />
     <member type='relation' ref='148' role='local_area' />
     <member type='relation' ref='147' role='local_area' />
+    <member type='way' ref='1014' role='recovery_connection' />
     <tag k='ref' v='BRSU_C_L2_C6' />
     <tag k='type' v='corridor' />
   </relation>
-  <relation id='173' timestamp='2018-11-26T18:08:23Z' uid='1' user='Dharmin' version='3' changeset='23'>
+  <relation id='173' timestamp='2019-01-16T20:20:29Z' uid='1' user='Dharmin' version='4' changeset='32'>
     <member type='way' ref='920' role='geometry' />
     <member type='node' ref='2413' role='topology' />
     <member type='way' ref='860' role='local_connection' />
@@ -13560,10 +14000,11 @@
     <member type='relation' ref='160' role='door' />
     <member type='relation' ref='133' role='local_area' />
     <member type='relation' ref='132' role='local_area' />
+    <member type='way' ref='1008' role='recovery_connection' />
     <tag k='ref' v='BRSU_C_L2_C14' />
     <tag k='type' v='corridor' />
   </relation>
-  <relation id='174' timestamp='2018-11-26T18:08:23Z' uid='1' user='Dharmin' version='3' changeset='23'>
+  <relation id='174' timestamp='2019-01-16T20:20:29Z' uid='1' user='Dharmin' version='4' changeset='32'>
     <member type='way' ref='932' role='geometry' />
     <member type='node' ref='2409' role='topology' />
     <member type='way' ref='873' role='local_connection' />
@@ -13573,6 +14014,7 @@
     <member type='relation' ref='165' role='door' />
     <member type='relation' ref='154' role='local_area' />
     <member type='relation' ref='153' role='local_area' />
+    <member type='way' ref='1016' role='recovery_connection' />
     <tag k='ref' v='BRSU_C_L2_C3' />
     <tag k='type' v='corridor' />
   </relation>
@@ -13611,13 +14053,13 @@
     <tag k='ref' v='BRSU_C_L2_C9' />
     <tag k='type' v='junction' />
   </relation>
-  <relation id='178' timestamp='2018-10-15T14:28:27Z' uid='1' user='Dharmin' version='2' changeset='14'>
+  <relation id='178' timestamp='2019-01-23T15:17:58Z' uid='1' user='Dharmin' version='4' changeset='35'>
     <member type='way' ref='919' role='geometry' />
     <member type='node' ref='2412' role='topology' />
     <member type='way' ref='861' role='local_connection' />
-    <member type='way' ref='862' role='local_connection' />
     <member type='relation' ref='131' role='local_area' />
     <member type='relation' ref='130' role='local_area' />
+    <member type='way' ref='1007' role='recovery_connection' />
     <tag k='ref' v='BRSU_C_L2_C15' />
     <tag k='type' v='corridor' />
   </relation>
@@ -13664,26 +14106,18 @@
     <tag k='ref' v='BRSU_C_L2_C2' />
     <tag k='type' v='junction' />
   </relation>
-  <relation id='183' timestamp='2018-10-15T14:28:27Z' uid='1' user='Dharmin' version='2' changeset='14'>
-    <member type='way' ref='918' role='geometry' />
-    <member type='node' ref='2411' role='topology' />
-    <member type='way' ref='881' role='local_connection' />
-    <member type='relation' ref='129' role='local_area' />
-    <member type='relation' ref='128' role='local_area' />
-    <tag k='ref' v='BRSU_C_L2_C16' />
-    <tag k='type' v='corridor' />
-  </relation>
-  <relation id='184' timestamp='2018-11-26T18:08:24Z' uid='1' user='Dharmin' version='3' changeset='23'>
+  <relation id='184' timestamp='2019-01-16T20:20:29Z' uid='1' user='Dharmin' version='4' changeset='32'>
     <member type='way' ref='922' role='geometry' />
     <member type='node' ref='2416' role='topology' />
     <member type='way' ref='858' role='local_connection' />
     <member type='way' ref='865' role='local_connection' />
     <member type='relation' ref='137' role='local_area' />
     <member type='relation' ref='136' role='local_area' />
+    <member type='way' ref='1010' role='recovery_connection' />
     <tag k='ref' v='BRSU_C_L2_C12' />
     <tag k='type' v='corridor' />
   </relation>
-  <relation id='185' timestamp='2018-10-17T12:16:03Z' uid='1' user='Dharmin' version='3' changeset='18'>
+  <relation id='185' timestamp='2019-01-23T15:17:58Z' uid='1' user='Dharmin' version='5' changeset='35'>
     <member type='way' ref='946' role='geometry' />
     <member type='relation' ref='179' role='corridor' />
     <member type='relation' ref='170' role='corridor' />
@@ -13698,7 +14132,6 @@
     <member type='relation' ref='171' role='corridor' />
     <member type='relation' ref='173' role='corridor' />
     <member type='relation' ref='178' role='corridor' />
-    <member type='relation' ref='183' role='corridor' />
     <member type='relation' ref='195' role='corridor' />
     <member type='relation' ref='182' role='junction' />
     <member type='relation' ref='190' role='junction' />
@@ -13707,6 +14140,8 @@
     <member type='way' ref='883' role='global_connection' />
     <member type='way' ref='885' role='global_connection' />
     <member type='way' ref='884' role='global_connection' />
+    <member type='node' ref='2672' role='wlan' />
+    <member type='node' ref='2671' role='wlan' />
     <tag k='name' v='Second floor' />
     <tag k='ref' v='BRSU_L2' />
     <tag k='type' v='level' />
@@ -13762,13 +14197,14 @@
     <tag k='ref' v='BRSU_C_L2_C18' />
     <tag k='type' v='junction' />
   </relation>
-  <relation id='195' timestamp='2018-10-17T12:16:03Z' uid='1' user='Dharmin' version='1' changeset='18'>
+  <relation id='195' timestamp='2019-01-16T20:20:29Z' uid='1' user='Dharmin' version='2' changeset='32'>
     <member type='way' ref='964' role='geometry' />
     <member type='node' ref='2422' role='topology' />
     <member type='way' ref='952' role='local_connection' />
     <member type='way' ref='956' role='local_connection' />
     <member type='relation' ref='193' role='local_area' />
     <member type='relation' ref='192' role='local_area' />
+    <member type='way' ref='1013' role='recovery_connection' />
     <tag k='ref' v='BRSU_C_L2_C17' />
     <tag k='type' v='corridor' />
   </relation>
