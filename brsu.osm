@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='JOSM'>
-  <bounds minlat='50.7771042' minlon='7.1767123' maxlat='50.7820157' maxlon='7.1869477' origin='OpenStreetMap server' />
+  <bounds minlat='50.7793829' minlon='7.1810531' maxlat='50.7808644' maxlon='7.1843656' origin='OpenStreetMap server' />
   <node id='1' timestamp='2018-10-03T19:24:01Z' uid='1' user='Dharmin' version='3' changeset='3' lat='50.7804202' lon='7.1822901' />
   <node id='2' timestamp='2018-10-03T19:24:01Z' uid='1' user='Dharmin' version='3' changeset='3' lat='50.7804202' lon='7.1823011' />
   <node id='3' timestamp='2018-10-03T19:24:01Z' uid='1' user='Dharmin' version='3' changeset='3' lat='50.7804176' lon='7.1823011' />
@@ -1648,7 +1648,6 @@
   <node id='1703' timestamp='2018-10-09T15:45:54Z' uid='1' user='Dharmin' version='1' changeset='9' lat='50.780259' lon='7.1823105' />
   <node id='1704' timestamp='2018-10-09T15:45:54Z' uid='1' user='Dharmin' version='1' changeset='9' lat='50.7802588' lon='7.1822918' />
   <node id='1705' timestamp='2018-10-09T15:45:54Z' uid='1' user='Dharmin' version='1' changeset='9' lat='50.7802569' lon='7.182292' />
-  <node id='1706' timestamp='2018-10-09T15:45:54Z' uid='1' user='Dharmin' version='1' changeset='9' lat='50.7809214' lon='7.1802336' />
   <node id='1707' timestamp='2018-10-10T11:13:09Z' uid='1' user='Dharmin' version='1' changeset='10' lat='50.780259' lon='7.1823092' />
   <node id='1708' timestamp='2018-10-31T11:46:38Z' uid='1' user='Dharmin' version='3' changeset='21' lat='50.7800516' lon='7.182309' />
   <node id='1709' timestamp='2018-10-31T11:46:38Z' uid='1' user='Dharmin' version='3' changeset='21' lat='50.7800516' lon='7.1823072' />
@@ -2931,7 +2930,7 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
   </way>
-  <way id='27' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='27' timestamp='2019-01-27T15:44:17Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='73' />
     <nd ref='72' />
     <nd ref='71' />
@@ -3228,7 +3227,7 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
   </way>
-  <way id='54' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='54' timestamp='2019-01-27T15:44:17Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='170' />
     <nd ref='169' />
     <nd ref='168' />
@@ -3237,7 +3236,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='55' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='55' timestamp='2019-01-27T15:44:17Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='174' />
     <nd ref='173' />
     <nd ref='172' />
@@ -3246,7 +3245,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='56' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='56' timestamp='2019-01-27T15:44:17Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='178' />
     <nd ref='177' />
     <nd ref='176' />
@@ -3255,7 +3254,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='57' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='57' timestamp='2019-01-27T15:44:17Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='182' />
     <nd ref='181' />
     <nd ref='180' />
@@ -3264,7 +3263,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='58' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='58' timestamp='2019-01-27T15:44:17Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='186' />
     <nd ref='185' />
     <nd ref='184' />
@@ -3273,7 +3272,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='59' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='59' timestamp='2019-01-27T15:44:17Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='190' />
     <nd ref='189' />
     <nd ref='188' />
@@ -3282,7 +3281,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='60' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='60' timestamp='2019-01-27T15:44:17Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='194' />
     <nd ref='193' />
     <nd ref='192' />
@@ -3291,7 +3290,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='61' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='61' timestamp='2019-01-27T15:44:17Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='198' />
     <nd ref='197' />
     <nd ref='196' />
@@ -3300,7 +3299,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='62' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='62' timestamp='2019-01-27T15:44:17Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='202' />
     <nd ref='201' />
     <nd ref='200' />
@@ -3309,7 +3308,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='63' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='63' timestamp='2019-01-27T15:44:17Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='206' />
     <nd ref='205' />
     <nd ref='204' />
@@ -3318,7 +3317,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='64' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='64' timestamp='2019-01-27T15:44:17Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='210' />
     <nd ref='209' />
     <nd ref='208' />
@@ -3327,7 +3326,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='65' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='65' timestamp='2019-01-27T15:44:17Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='214' />
     <nd ref='213' />
     <nd ref='212' />
@@ -3336,7 +3335,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='66' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='66' timestamp='2019-01-27T15:44:17Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='218' />
     <nd ref='217' />
     <nd ref='216' />
@@ -3345,7 +3344,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='67' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='67' timestamp='2019-01-27T15:44:17Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='222' />
     <nd ref='221' />
     <nd ref='220' />
@@ -3354,7 +3353,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='68' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='68' timestamp='2019-01-27T15:44:17Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='226' />
     <nd ref='225' />
     <nd ref='224' />
@@ -3363,7 +3362,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='69' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='69' timestamp='2019-01-27T15:44:17Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='230' />
     <nd ref='229' />
     <nd ref='228' />
@@ -3372,7 +3371,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='70' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='70' timestamp='2019-01-27T15:44:17Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='234' />
     <nd ref='233' />
     <nd ref='232' />
@@ -3381,7 +3380,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='71' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='71' timestamp='2019-01-27T15:44:17Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='238' />
     <nd ref='237' />
     <nd ref='236' />
@@ -3390,7 +3389,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='72' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='72' timestamp='2019-01-27T15:44:17Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='242' />
     <nd ref='241' />
     <nd ref='240' />
@@ -3399,7 +3398,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='73' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='73' timestamp='2019-01-27T15:44:17Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='246' />
     <nd ref='245' />
     <nd ref='244' />
@@ -3408,7 +3407,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='74' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='74' timestamp='2019-01-27T15:44:17Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='250' />
     <nd ref='249' />
     <nd ref='248' />
@@ -3417,7 +3416,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='75' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='75' timestamp='2019-01-27T15:44:17Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='254' />
     <nd ref='253' />
     <nd ref='252' />
@@ -3426,7 +3425,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='76' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='76' timestamp='2019-01-27T15:44:17Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='258' />
     <nd ref='257' />
     <nd ref='256' />
@@ -3435,7 +3434,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='77' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='77' timestamp='2019-01-27T15:44:17Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='262' />
     <nd ref='261' />
     <nd ref='260' />
@@ -3444,7 +3443,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='78' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='78' timestamp='2019-01-27T15:44:17Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='266' />
     <nd ref='265' />
     <nd ref='264' />
@@ -3453,7 +3452,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='79' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='79' timestamp='2019-01-27T15:44:17Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='270' />
     <nd ref='269' />
     <nd ref='268' />
@@ -3462,7 +3461,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='80' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='80' timestamp='2019-01-27T15:44:17Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='274' />
     <nd ref='273' />
     <nd ref='272' />
@@ -3471,7 +3470,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='81' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='81' timestamp='2019-01-27T15:44:17Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='706' />
     <nd ref='277' />
     <nd ref='276' />
@@ -3480,7 +3479,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='82' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='82' timestamp='2019-01-27T15:44:18Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='281' />
     <nd ref='280' />
     <nd ref='279' />
@@ -3489,7 +3488,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='83' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='83' timestamp='2019-01-27T15:44:18Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='285' />
     <nd ref='284' />
     <nd ref='283' />
@@ -3498,7 +3497,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='84' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='84' timestamp='2019-01-27T15:44:18Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='289' />
     <nd ref='288' />
     <nd ref='287' />
@@ -3507,7 +3506,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='85' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='85' timestamp='2019-01-27T15:44:18Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='293' />
     <nd ref='292' />
     <nd ref='291' />
@@ -3516,7 +3515,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='86' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='86' timestamp='2019-01-27T15:44:18Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='297' />
     <nd ref='296' />
     <nd ref='295' />
@@ -3525,7 +3524,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='87' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='87' timestamp='2019-01-27T15:44:18Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='301' />
     <nd ref='300' />
     <nd ref='299' />
@@ -3534,7 +3533,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='88' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='88' timestamp='2019-01-27T15:44:18Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='305' />
     <nd ref='304' />
     <nd ref='303' />
@@ -3543,7 +3542,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='89' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='89' timestamp='2019-01-27T15:44:18Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='309' />
     <nd ref='308' />
     <nd ref='307' />
@@ -3552,7 +3551,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='90' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='90' timestamp='2019-01-27T15:44:18Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='313' />
     <nd ref='312' />
     <nd ref='311' />
@@ -3561,7 +3560,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='91' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='91' timestamp='2019-01-27T15:44:18Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='317' />
     <nd ref='316' />
     <nd ref='315' />
@@ -5524,7 +5523,7 @@
     <tag k='indoor' v='door' />
     <tag k='level' v='0' />
   </way>
-  <way id='279' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='279' timestamp='2019-01-27T15:44:18Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='793' />
     <nd ref='792' />
     <nd ref='791' />
@@ -5741,7 +5740,7 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
   </way>
-  <way id='301' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='301' timestamp='2019-01-27T15:44:18Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='864' />
     <nd ref='863' />
     <nd ref='862' />
@@ -5754,7 +5753,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='302' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='302' timestamp='2019-01-27T15:44:18Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='872' />
     <nd ref='871' />
     <nd ref='870' />
@@ -5767,7 +5766,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='303' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='303' timestamp='2019-01-27T15:44:18Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='880' />
     <nd ref='879' />
     <nd ref='878' />
@@ -5780,7 +5779,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='304' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='304' timestamp='2019-01-27T15:44:18Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='889' />
     <nd ref='888' />
     <nd ref='887' />
@@ -6526,7 +6525,7 @@
     <tag k='ref' v='BRSU_C_L0_C1' />
     <tag k='surface:smoothness' v='excellent' />
   </way>
-  <way id='366' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='366' timestamp='2019-01-27T15:44:18Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='1041' />
     <nd ref='1042' />
     <nd ref='1043' />
@@ -6539,7 +6538,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='367' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='367' timestamp='2019-01-27T15:44:18Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='1049' />
     <nd ref='1050' />
     <nd ref='1051' />
@@ -6628,7 +6627,7 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
   </way>
-  <way id='372' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='372' timestamp='2019-01-27T15:44:18Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='1109' />
     <nd ref='1110' />
     <nd ref='1111' />
@@ -6641,7 +6640,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='373' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='373' timestamp='2019-01-27T15:44:18Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='1117' />
     <nd ref='1118' />
     <nd ref='1119' />
@@ -6654,7 +6653,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='374' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='374' timestamp='2019-01-27T15:44:18Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='1125' />
     <nd ref='1126' />
     <nd ref='1127' />
@@ -6667,7 +6666,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='375' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='375' timestamp='2019-01-27T15:44:18Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='1133' />
     <nd ref='1134' />
     <nd ref='1135' />
@@ -6680,7 +6679,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='376' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='376' timestamp='2019-01-27T15:44:18Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='1141' />
     <nd ref='1142' />
     <nd ref='1143' />
@@ -6693,7 +6692,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='377' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='377' timestamp='2019-01-27T15:44:18Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='1149' />
     <nd ref='1150' />
     <nd ref='1151' />
@@ -6706,7 +6705,7 @@
     <tag k='indoor' v='pillar' />
     <tag k='level' v='0' />
   </way>
-  <way id='378' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='378' timestamp='2019-01-27T15:44:18Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='1157' />
     <nd ref='1158' />
     <nd ref='1159' />
@@ -8230,7 +8229,7 @@
     <tag k='ref' v='BRSU_C_L0_C3_LA1' />
     <tag k='wifi:strength' v='Average' />
   </way>
-  <way id='573' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='573' timestamp='2019-01-27T15:44:18Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='1592' />
     <nd ref='1591' />
     <nd ref='1590' />
@@ -12319,7 +12318,7 @@
     <tag k='level' v='2' />
     <tag k='oneway' v='yes' />
   </way>
-  <way id='1006' timestamp='2019-01-27T15:44:18Z' version='2' changeset='36'>
+  <way id='1006' timestamp='2019-01-27T15:44:18Z' uid='2' user='Lakshadeep' version='2' changeset='36'>
     <nd ref='2657' />
     <nd ref='2656' />
     <nd ref='2655' />
