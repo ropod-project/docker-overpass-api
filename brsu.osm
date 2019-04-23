@@ -16224,41 +16224,45 @@
     <tag k='ref' v='BRSU_A_E1_LA1' />
     <tag k='type' v='local_area' />
   </relation>
-  <relation id='123' timestamp='2018-11-25T19:32:33Z' uid='1' user='Dharmin' version='3' changeset='22'>
+  <relation id='123' action='modify' timestamp='2018-11-25T19:32:33Z' uid='1' user='Dharmin' version='3' changeset='22'>
     <member type='way' ref='332' role='geometry' />
     <member type='node' ref='1312' role='topology' />
     <member type='way' ref='410' role='local_connection' />
     <member type='way' ref='408' role='local_connection' />
+    <member type='way' ref='1174' role='local_connection' />
     <member type='relation' ref='117' role='local_area' />
     <tag k='ref' v='BRSU_A_L0_A4' />
     <tag k='type' v='area' />
   </relation>
-  <relation id='124' timestamp='2018-10-15T14:28:26Z' uid='1' user='Dharmin' version='2' changeset='14'>
+  <relation id='124' action='modify' timestamp='2018-10-15T14:28:26Z' uid='1' user='Dharmin' version='2' changeset='14'>
     <member type='way' ref='333' role='geometry' />
     <member type='node' ref='1311' role='topology' />
     <member type='way' ref='408' role='local_connection' />
     <member type='way' ref='407' role='local_connection' />
+    <member type='way' ref='1172' role='local_connection' />
     <member type='relation' ref='118' role='local_area' />
     <member type='relation' ref='79' role='door' />
     <tag k='ref' v='BRSU_A_L0_A3' />
     <tag k='type' v='area' />
   </relation>
-  <relation id='125' timestamp='2018-11-26T18:08:23Z' uid='1' user='Dharmin' version='6' changeset='23'>
+  <relation id='125' action='modify' timestamp='2018-11-26T18:08:23Z' uid='1' user='Dharmin' version='6' changeset='23'>
     <member type='way' ref='335' role='geometry' />
     <member type='node' ref='1309' role='topology' />
     <member type='way' ref='406' role='local_connection' />
     <member type='way' ref='405' role='local_connection' />
     <member type='way' ref='992' role='local_connection' />
+    <member type='way' ref='1171' role='local_connection' />
     <member type='relation' ref='120' role='local_area' />
     <member type='relation' ref='196' role='door' />
     <tag k='ref' v='BRSU_A_L0_A1' />
     <tag k='type' v='area' />
   </relation>
-  <relation id='126' timestamp='2018-10-15T14:28:26Z' uid='1' user='Dharmin' version='2' changeset='14'>
+  <relation id='126' action='modify' timestamp='2018-10-15T14:28:26Z' uid='1' user='Dharmin' version='2' changeset='14'>
     <member type='way' ref='334' role='geometry' />
     <member type='node' ref='1310' role='topology' />
     <member type='way' ref='406' role='local_connection' />
     <member type='way' ref='407' role='local_connection' />
+    <member type='way' ref='1203' role='local_connection' />
     <member type='relation' ref='119' role='local_area' />
     <tag k='ref' v='BRSU_A_L0_A2' />
     <tag k='type' v='area' />
