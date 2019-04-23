@@ -16224,7 +16224,7 @@
     <tag k='ref' v='BRSU_A_E1_LA1' />
     <tag k='type' v='local_area' />
   </relation>
-  <relation id='123' action='modify' timestamp='2018-11-25T19:32:33Z' uid='1' user='Dharmin' version='3' changeset='22'>
+  <relation id='123' timestamp='2019-04-23T12:35:32Z' version='4' changeset='52'>
     <member type='way' ref='332' role='geometry' />
     <member type='node' ref='1312' role='topology' />
     <member type='way' ref='410' role='local_connection' />
@@ -16234,7 +16234,7 @@
     <tag k='ref' v='BRSU_A_L0_A4' />
     <tag k='type' v='area' />
   </relation>
-  <relation id='124' action='modify' timestamp='2018-10-15T14:28:26Z' uid='1' user='Dharmin' version='2' changeset='14'>
+  <relation id='124' timestamp='2019-04-23T12:35:32Z' version='3' changeset='52'>
     <member type='way' ref='333' role='geometry' />
     <member type='node' ref='1311' role='topology' />
     <member type='way' ref='408' role='local_connection' />
@@ -16245,7 +16245,7 @@
     <tag k='ref' v='BRSU_A_L0_A3' />
     <tag k='type' v='area' />
   </relation>
-  <relation id='125' action='modify' timestamp='2018-11-26T18:08:23Z' uid='1' user='Dharmin' version='6' changeset='23'>
+  <relation id='125' timestamp='2019-04-23T12:35:32Z' version='7' changeset='52'>
     <member type='way' ref='335' role='geometry' />
     <member type='node' ref='1309' role='topology' />
     <member type='way' ref='406' role='local_connection' />
@@ -16257,7 +16257,7 @@
     <tag k='ref' v='BRSU_A_L0_A1' />
     <tag k='type' v='area' />
   </relation>
-  <relation id='126' action='modify' timestamp='2018-10-15T14:28:26Z' uid='1' user='Dharmin' version='2' changeset='14'>
+  <relation id='126' timestamp='2019-04-23T12:35:32Z' version='3' changeset='52'>
     <member type='way' ref='334' role='geometry' />
     <member type='node' ref='1310' role='topology' />
     <member type='way' ref='406' role='local_connection' />
@@ -16267,7 +16267,7 @@
     <tag k='ref' v='BRSU_A_L0_A2' />
     <tag k='type' v='area' />
   </relation>
-  <relation id='127' timestamp='2019-04-02T13:43:21Z' uid='2' user='Lakshadeep' version='7' changeset='46'>
+  <relation id='127' action='modify' timestamp='2019-04-02T13:43:21Z' uid='2' user='Lakshadeep' version='7' changeset='46'>
     <member type='way' ref='597' role='geometry' />
     <member type='relation' ref='125' role='area' />
     <member type='relation' ref='126' role='area' />
@@ -16342,6 +16342,12 @@
     <member type='node' ref='2669' role='wlan' />
     <member type='node' ref='2667' role='wlan' />
     <member type='node' ref='2666' role='wlan' />
+    <member type='way' ref='1205' role='global_connection' />
+    <member type='way' ref='1188' role='global_connection' />
+    <member type='way' ref='1208' role='global_connection' />
+    <member type='way' ref='1204' role='global_connection' />
+    <member type='way' ref='1206' role='global_connection' />
+    <member type='way' ref='1207' role='global_connection' />
     <tag k='name' v='Ground floor' />
     <tag k='ref' v='BRSU_L0' />
     <tag k='type' v='level' />
