@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='JOSM'>
-  <bounds minlat='50.7796206' minlon='7.180531' maxlat='50.7808824' maxlon='7.1834064' origin='OpenStreetMap server' />
+  <bounds minlat='50.7795522' minlon='7.1801868' maxlat='50.7810322' maxlon='7.1834049' origin='OpenStreetMap server' />
   <node id='1' timestamp='2018-10-03T19:24:01Z' uid='1' user='Dharmin' version='3' changeset='3' lat='50.7804202' lon='7.1822901' />
   <node id='2' timestamp='2018-10-03T19:24:01Z' uid='1' user='Dharmin' version='3' changeset='3' lat='50.7804202' lon='7.1823011' />
   <node id='3' timestamp='2018-10-03T19:24:01Z' uid='1' user='Dharmin' version='3' changeset='3' lat='50.7804176' lon='7.1823011' />
@@ -1640,6 +1640,7 @@
   <node id='1703' timestamp='2018-10-09T15:45:54Z' uid='1' user='Dharmin' version='1' changeset='9' lat='50.780259' lon='7.1823105' />
   <node id='1704' timestamp='2018-10-09T15:45:54Z' uid='1' user='Dharmin' version='1' changeset='9' lat='50.7802588' lon='7.1822918' />
   <node id='1705' timestamp='2018-10-09T15:45:54Z' uid='1' user='Dharmin' version='1' changeset='9' lat='50.7802569' lon='7.182292' />
+  <node id='1706' timestamp='2018-10-09T15:45:54Z' uid='1' user='Dharmin' version='1' changeset='9' lat='50.7809214' lon='7.1802336' />
   <node id='1707' timestamp='2018-10-10T11:13:09Z' uid='1' user='Dharmin' version='1' changeset='10' lat='50.780259' lon='7.1823092' />
   <node id='1708' timestamp='2018-10-31T11:46:38Z' uid='1' user='Dharmin' version='3' changeset='21' lat='50.7800516' lon='7.182309' />
   <node id='1709' timestamp='2018-10-31T11:46:38Z' uid='1' user='Dharmin' version='3' changeset='21' lat='50.7800516' lon='7.1823072' />
@@ -14801,30 +14802,6 @@
     <tag k='level' v='0' />
     <tag k='oneway' v='no' />
   </way>
-  <way id='1185' action='delete' timestamp='2019-04-22T14:57:32Z' uid='1' user='Dharmin' version='1' changeset='49'>
-    <tag k='highway' v='local-way' />
-    <tag k='lanes' v='1' />
-    <tag k='level' v='0' />
-    <tag k='oneway' v='yes' />
-  </way>
-  <way id='1186' action='delete' timestamp='2019-04-22T14:57:32Z' uid='1' user='Dharmin' version='1' changeset='49'>
-    <tag k='highway' v='local-way' />
-    <tag k='lanes' v='1' />
-    <tag k='level' v='0' />
-    <tag k='oneway' v='no' />
-  </way>
-  <way id='1187' action='delete' timestamp='2019-04-22T14:57:32Z' uid='1' user='Dharmin' version='1' changeset='49'>
-    <tag k='highway' v='local-way' />
-    <tag k='lanes' v='1' />
-    <tag k='level' v='0' />
-    <tag k='oneway' v='no' />
-  </way>
-  <way id='1188' action='delete' timestamp='2019-04-22T14:57:32Z' uid='1' user='Dharmin' version='1' changeset='49'>
-    <tag k='highway' v='footway' />
-    <tag k='lanes' v='2' />
-    <tag k='level' v='0' />
-    <tag k='oneway' v='no' />
-  </way>
   <way id='1189' timestamp='2019-04-22T14:57:32Z' uid='1' user='Dharmin' version='1' changeset='49'>
     <nd ref='3177' />
     <nd ref='3188' />
@@ -14848,24 +14825,6 @@
     <tag k='lanes' v='1' />
     <tag k='level' v='0' />
     <tag k='oneway' v='yes' />
-  </way>
-  <way id='1192' action='delete' timestamp='2019-04-22T14:57:32Z' uid='1' user='Dharmin' version='1' changeset='49'>
-    <tag k='highway' v='local-way' />
-    <tag k='lanes' v='1' />
-    <tag k='level' v='0' />
-    <tag k='oneway' v='yes' />
-  </way>
-  <way id='1193' action='delete' timestamp='2019-04-22T14:57:32Z' uid='1' user='Dharmin' version='1' changeset='49'>
-    <tag k='highway' v='local-way' />
-    <tag k='lanes' v='1' />
-    <tag k='level' v='0' />
-    <tag k='oneway' v='yes' />
-  </way>
-  <way id='1194' action='delete' timestamp='2019-04-22T14:57:32Z' uid='1' user='Dharmin' version='1' changeset='49'>
-    <tag k='highway' v='local-way' />
-    <tag k='lanes' v='1' />
-    <tag k='level' v='0' />
-    <tag k='oneway' v='no' />
   </way>
   <way id='1195' timestamp='2019-04-22T14:57:32Z' uid='1' user='Dharmin' version='1' changeset='49'>
     <nd ref='3185' />
@@ -14928,22 +14887,6 @@
     <nd ref='3191' />
     <tag k='highway' v='local-way' />
     <tag k='lanes' v='1' />
-    <tag k='level' v='0' />
-    <tag k='oneway' v='no' />
-  </way>
-  <way id='1204' action='delete' timestamp='2019-04-22T14:57:33Z' uid='1' user='Dharmin' version='1' changeset='49'>
-    <tag k='highway' v='footway' />
-    <tag k='lanes' v='2' />
-    <tag k='lanes:backward' v='1' />
-    <tag k='lanes:forward' v='1' />
-    <tag k='level' v='0' />
-    <tag k='oneway' v='no' />
-  </way>
-  <way id='1205' action='delete' timestamp='2019-04-22T14:57:33Z' uid='1' user='Dharmin' version='1' changeset='49'>
-    <tag k='highway' v='footway' />
-    <tag k='lanes' v='2' />
-    <tag k='lanes:backward' v='1' />
-    <tag k='lanes:forward' v='1' />
     <tag k='level' v='0' />
     <tag k='oneway' v='no' />
   </way>
@@ -15337,7 +15280,7 @@
     <tag k='ref' v='BRSU_C_L0_C10' />
     <tag k='type' v='corridor' />
   </relation>
-  <relation id='7' timestamp='2019-01-16T20:20:28Z' uid='1' user='Dharmin' version='4' changeset='32'>
+  <relation id='7' timestamp='2019-04-30T10:49:05Z' version='5' changeset='55'>
     <member type='way' ref='358' role='geometry' />
     <member type='node' ref='1354' role='topology' />
     <member type='way' ref='467' role='local_connection' />
@@ -15345,6 +15288,7 @@
     <member type='way' ref='594' role='local_connection' />
     <member type='way' ref='471' role='local_connection' />
     <member type='relation' ref='64' role='local_area' />
+    <tag k='junction_type' v='X' />
     <tag k='ref' v='BRSU_C_L0_C8' />
     <tag k='type' v='junction' />
   </relation>
@@ -15401,13 +15345,14 @@
     <tag k='ref' v='BRSU_C_L0_C3' />
     <tag k='type' v='corridor' />
   </relation>
-  <relation id='12' timestamp='2018-10-15T14:28:26Z' uid='1' user='Dharmin' version='3' changeset='14'>
+  <relation id='12' timestamp='2019-04-30T10:49:05Z' version='4' changeset='55'>
     <member type='way' ref='364' role='geometry' />
     <member type='node' ref='1362' role='topology' />
     <member type='way' ref='474' role='local_connection' />
     <member type='way' ref='475' role='local_connection' />
     <member type='way' ref='476' role='local_connection' />
     <member type='relation' ref='75' role='local_area' />
+    <tag k='junction_type' v='T' />
     <tag k='ref' v='BRSU_C_L0_C2' />
     <tag k='type' v='junction' />
   </relation>
@@ -16245,7 +16190,7 @@
     <tag k='ref' v='BRSU_A_L0_A2' />
     <tag k='type' v='area' />
   </relation>
-  <relation id='127' action='modify' timestamp='2019-04-23T12:48:00Z' uid='1' user='Dharmin' version='8' changeset='53'>
+  <relation id='127' timestamp='2019-04-24T09:59:41Z' uid='1' user='Dharmin' version='9' changeset='54'>
     <member type='way' ref='597' role='geometry' />
     <member type='relation' ref='125' role='area' />
     <member type='relation' ref='126' role='area' />
@@ -17305,7 +17250,7 @@
     <tag k='ref' v='BRSU_A_L0_C4' />
     <tag k='type' v='corridor' />
   </relation>
-  <relation id='268' action='modify' timestamp='2019-04-22T16:04:56Z' uid='1' user='Dharmin' version='1' changeset='50'>
+  <relation id='268' timestamp='2019-04-24T09:59:42Z' uid='1' user='Dharmin' version='2' changeset='54'>
     <member type='way' ref='1059' role='geometry' />
     <member type='node' ref='3204' role='topology' />
     <member type='way' ref='1180' role='local_connection' />
@@ -17332,7 +17277,7 @@
     <tag k='ref' v='BRSU_A_L0_A13' />
     <tag k='type' v='area' />
   </relation>
-  <relation id='271' action='modify' timestamp='2019-04-22T16:04:56Z' uid='1' user='Dharmin' version='1' changeset='50'>
+  <relation id='271' timestamp='2019-04-24T09:59:42Z' uid='1' user='Dharmin' version='2' changeset='54'>
     <member type='way' ref='1056' role='geometry' />
     <member type='node' ref='3193' role='topology' />
     <member type='relation' ref='254' role='local_area' />
@@ -17371,7 +17316,7 @@
     <tag k='ref' v='BRSU_A_L0_A12' />
     <tag k='type' v='area' />
   </relation>
-  <relation id='275' action='modify' timestamp='2019-04-22T16:04:56Z' uid='1' user='Dharmin' version='1' changeset='50'>
+  <relation id='275' timestamp='2019-04-24T09:59:42Z' uid='1' user='Dharmin' version='2' changeset='54'>
     <member type='way' ref='1055' role='geometry' />
     <member type='node' ref='3192' role='topology' />
     <member type='relation' ref='253' role='local_area' />
@@ -17398,7 +17343,7 @@
     <tag k='ref' v='BRSU_A_L0_C9' />
     <tag k='type' v='junction' />
   </relation>
-  <relation id='278' action='modify' timestamp='2019-04-22T16:04:56Z' uid='1' user='Dharmin' version='1' changeset='50'>
+  <relation id='278' timestamp='2019-04-24T09:59:43Z' uid='1' user='Dharmin' version='2' changeset='54'>
     <member type='way' ref='1054' role='geometry' />
     <member type='node' ref='3202' role='topology' />
     <member type='way' ref='1190' role='local_connection' />
@@ -17407,7 +17352,7 @@
     <tag k='ref' v='BRSU_A_L0_C6' />
     <tag k='type' v='junction' />
   </relation>
-  <relation id='279' action='modify' timestamp='2019-04-22T16:04:56Z' uid='1' user='Dharmin' version='1' changeset='50'>
+  <relation id='279' timestamp='2019-04-24T09:59:43Z' uid='1' user='Dharmin' version='2' changeset='54'>
     <member type='way' ref='1057' role='geometry' />
     <member type='node' ref='3194' role='topology' />
     <member type='way' ref='1183' role='recovery_connection' />
