@@ -1215,7 +1215,7 @@
   <node id='1227' timestamp='2018-10-05T15:59:52Z' uid='1' user='Dharmin' version='1' changeset='5' lat='50.7800702' lon='7.1822632' />
   <node id='1228' timestamp='2018-10-05T15:59:52Z' uid='1' user='Dharmin' version='1' changeset='5' lat='50.7801044' lon='7.1822741' />
   <node id='1229' timestamp='2018-10-05T15:59:52Z' uid='1' user='Dharmin' version='1' changeset='5' lat='50.7801589' lon='7.182274' />
-  <node id='1230' timestamp='2019-05-22T10:36:19Z' version='3' changeset='60' lat='50.78023028739' lon='7.18227650318' />
+  <node id='1230' timestamp='2019-05-22T10:36:19Z' uid='1' user='Dharmin' version='3' changeset='60' lat='50.7802303' lon='7.1822765' />
   <node id='1231' timestamp='2019-04-23T12:06:33Z' uid='1' user='Dharmin' version='2' changeset='51' lat='50.7805549' lon='7.1822352' />
   <node id='1232' timestamp='2019-04-23T12:06:33Z' uid='1' user='Dharmin' version='2' changeset='51' lat='50.7804994' lon='7.1822404' />
   <node id='1233' timestamp='2019-04-23T12:06:33Z' uid='1' user='Dharmin' version='2' changeset='51' lat='50.7804428' lon='7.182235' />
@@ -1294,7 +1294,7 @@
   <node id='1309' timestamp='2018-11-25T19:32:30Z' uid='1' user='Dharmin' version='2' changeset='22' lat='50.7800708' lon='7.1822711' />
   <node id='1310' timestamp='2018-10-05T15:59:53Z' uid='1' user='Dharmin' version='1' changeset='5' lat='50.7801074' lon='7.1822761' />
   <node id='1311' timestamp='2018-10-05T15:59:53Z' uid='1' user='Dharmin' version='1' changeset='5' lat='50.7801614' lon='7.1822761' />
-  <node id='1312' timestamp='2019-05-22T10:36:19Z' version='2' changeset='60' lat='50.78023295599' lon='7.18227920955' />
+  <node id='1312' timestamp='2019-05-22T10:36:19Z' uid='1' user='Dharmin' version='2' changeset='60' lat='50.780233' lon='7.1822792' />
   <node id='1313' timestamp='2018-10-05T15:59:53Z' uid='1' user='Dharmin' version='1' changeset='5' lat='50.7802572' lon='7.1822764' />
   <node id='1314' timestamp='2018-11-25T19:32:30Z' uid='1' user='Dharmin' version='2' changeset='22' lat='50.7807102' lon='7.1829609' />
   <node id='1315' timestamp='2018-10-05T15:59:53Z' uid='1' user='Dharmin' version='1' changeset='5' lat='50.7806761' lon='7.1829583' />
@@ -16190,7 +16190,7 @@
     <tag k='ref' v='BRSU_A_L0_A2' />
     <tag k='type' v='area' />
   </relation>
-  <relation id='127' timestamp='2019-04-24T09:59:41Z' uid='1' user='Dharmin' version='9' changeset='54'>
+  <relation id='127' action='modify' timestamp='2019-04-24T09:59:41Z' uid='1' user='Dharmin' version='9' changeset='54'>
     <member type='way' ref='597' role='geometry' />
     <member type='relation' ref='125' role='area' />
     <member type='relation' ref='126' role='area' />
@@ -16227,10 +16227,10 @@
     <member type='relation' ref='102' role='corridor' />
     <member type='relation' ref='101' role='corridor' />
     <member type='relation' ref='121' role='elevator' />
-    <member type='relation' ref='12' role='junction' />
-    <member type='relation' ref='7' role='junction' />
-    <member type='relation' ref='113' role='junction' />
-    <member type='relation' ref='103' role='junction' />
+    <member type='relation' ref='12' role='corridor' />
+    <member type='relation' ref='7' role='corridor' />
+    <member type='relation' ref='113' role='corridor' />
+    <member type='relation' ref='103' role='corridor' />
     <member type='relation' ref='4' role='room' />
     <member type='relation' ref='3' role='room' />
     <member type='relation' ref='110' role='room' />
@@ -16667,7 +16667,7 @@
     <tag k='ref' v='BRSU_C_L2_C12' />
     <tag k='type' v='corridor' />
   </relation>
-  <relation id='185' timestamp='2019-01-23T15:17:58Z' uid='1' user='Dharmin' version='5' changeset='35'>
+  <relation id='185' action='modify' timestamp='2019-01-23T15:17:58Z' uid='1' user='Dharmin' version='5' changeset='35'>
     <member type='way' ref='946' role='geometry' />
     <member type='relation' ref='179' role='corridor' />
     <member type='relation' ref='170' role='corridor' />
@@ -16683,10 +16683,10 @@
     <member type='relation' ref='173' role='corridor' />
     <member type='relation' ref='178' role='corridor' />
     <member type='relation' ref='195' role='corridor' />
-    <member type='relation' ref='182' role='junction' />
-    <member type='relation' ref='190' role='junction' />
-    <member type='relation' ref='177' role='junction' />
-    <member type='relation' ref='194' role='junction' />
+    <member type='relation' ref='182' role='corridor' />
+    <member type='relation' ref='190' role='corridor' />
+    <member type='relation' ref='177' role='corridor' />
+    <member type='relation' ref='194' role='corridor' />
     <member type='way' ref='883' role='global_connection' />
     <member type='way' ref='885' role='global_connection' />
     <member type='way' ref='884' role='global_connection' />
