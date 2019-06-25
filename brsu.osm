@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='JOSM'>
-  <bounds minlat='50.7796206' minlon='7.180531' maxlat='50.7808824' maxlon='7.1834064' origin='OpenStreetMap server' />
+  <bounds minlat='50.7795297' minlon='7.1799305' maxlat='50.7810533' maxlon='7.1836604' origin='OpenStreetMap server' />
   <node id='1' timestamp='2018-10-03T19:24:01Z' uid='1' user='Dharmin' version='3' changeset='3' lat='50.7804202' lon='7.1822901' />
   <node id='2' timestamp='2018-10-03T19:24:01Z' uid='1' user='Dharmin' version='3' changeset='3' lat='50.7804202' lon='7.1823011' />
   <node id='3' timestamp='2018-10-03T19:24:01Z' uid='1' user='Dharmin' version='3' changeset='3' lat='50.7804176' lon='7.1823011' />
@@ -1493,10 +1493,10 @@
   <node id='1550' timestamp='2019-03-29T09:02:06Z' uid='2' user='Lakshadeep' version='2' changeset='41' lat='50.7804963' lon='7.1829122' />
   <node id='1551' timestamp='2019-03-29T09:02:06Z' uid='2' user='Lakshadeep' version='2' changeset='41' lat='50.780419' lon='7.1829456' />
   <node id='1552' timestamp='2019-03-29T09:02:06Z' uid='2' user='Lakshadeep' version='2' changeset='41' lat='50.7804099' lon='7.1829727' />
-  <node id='1553' timestamp='2019-03-29T09:02:06Z' uid='2' user='Lakshadeep' version='2' changeset='41' lat='50.7803638' lon='7.1829921' />
+  <node id='1553' timestamp='2019-06-25T14:04:57Z' uid='2' user='Lakshadeep' version='3' changeset='62' lat='50.7803714' lon='7.1829897' />
   <node id='1554' timestamp='2019-03-29T09:02:06Z' uid='2' user='Lakshadeep' version='2' changeset='41' lat='50.7804075' lon='7.1829603' />
-  <node id='1555' timestamp='2018-10-05T15:59:54Z' uid='1' user='Dharmin' version='1' changeset='5' lat='50.7803614' lon='7.182979' />
-  <node id='1556' timestamp='2019-03-29T09:02:06Z' uid='2' user='Lakshadeep' version='2' changeset='41' lat='50.7803584' lon='7.1829649' />
+  <node id='1555' timestamp='2019-06-25T14:04:57Z' uid='2' user='Lakshadeep' version='2' changeset='62' lat='50.7803687' lon='7.1829761' />
+  <node id='1556' timestamp='2019-06-25T14:04:57Z' uid='2' user='Lakshadeep' version='3' changeset='62' lat='50.7803665' lon='7.1829618' />
   <node id='1557' timestamp='2019-03-29T09:02:06Z' uid='2' user='Lakshadeep' version='2' changeset='41' lat='50.7804045' lon='7.1829458' />
   <node id='1558' timestamp='2018-10-05T15:59:54Z' uid='1' user='Dharmin' version='1' changeset='5' lat='50.7803594' lon='7.1830555' />
   <node id='1559' timestamp='2018-10-05T15:59:54Z' uid='1' user='Dharmin' version='1' changeset='5' lat='50.7803592' lon='7.1831479' />
@@ -1640,6 +1640,7 @@
   <node id='1703' timestamp='2018-10-09T15:45:54Z' uid='1' user='Dharmin' version='1' changeset='9' lat='50.780259' lon='7.1823105' />
   <node id='1704' timestamp='2018-10-09T15:45:54Z' uid='1' user='Dharmin' version='1' changeset='9' lat='50.7802588' lon='7.1822918' />
   <node id='1705' timestamp='2018-10-09T15:45:54Z' uid='1' user='Dharmin' version='1' changeset='9' lat='50.7802569' lon='7.182292' />
+  <node id='1706' timestamp='2018-10-09T15:45:54Z' uid='1' user='Dharmin' version='1' changeset='9' lat='50.7809214' lon='7.1802336' />
   <node id='1707' timestamp='2018-10-10T11:13:09Z' uid='1' user='Dharmin' version='1' changeset='10' lat='50.780259' lon='7.1823092' />
   <node id='1708' timestamp='2018-10-31T11:46:38Z' uid='1' user='Dharmin' version='3' changeset='21' lat='50.7800516' lon='7.182309' />
   <node id='1709' timestamp='2018-10-31T11:46:38Z' uid='1' user='Dharmin' version='3' changeset='21' lat='50.7800516' lon='7.1823072' />
@@ -16190,7 +16191,7 @@
     <tag k='ref' v='BRSU_A_L0_A2' />
     <tag k='type' v='area' />
   </relation>
-  <relation id='127' action='modify' timestamp='2019-04-24T09:59:41Z' uid='1' user='Dharmin' version='9' changeset='54'>
+  <relation id='127' timestamp='2019-06-10T17:14:12Z' uid='1' user='Dharmin' version='10' changeset='61'>
     <member type='way' ref='597' role='geometry' />
     <member type='relation' ref='125' role='area' />
     <member type='relation' ref='126' role='area' />
@@ -16667,7 +16668,7 @@
     <tag k='ref' v='BRSU_C_L2_C12' />
     <tag k='type' v='corridor' />
   </relation>
-  <relation id='185' action='modify' timestamp='2019-01-23T15:17:58Z' uid='1' user='Dharmin' version='5' changeset='35'>
+  <relation id='185' timestamp='2019-06-10T17:14:12Z' uid='1' user='Dharmin' version='6' changeset='61'>
     <member type='way' ref='946' role='geometry' />
     <member type='relation' ref='179' role='corridor' />
     <member type='relation' ref='170' role='corridor' />
