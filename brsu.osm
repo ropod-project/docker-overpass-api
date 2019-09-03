@@ -1,6 +1,47 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='JOSM'>
   <bounds minlat='50.7796206' minlon='7.180531' maxlat='50.7808824' maxlon='7.1834064' origin='OpenStreetMap server' />
+  <node id='-309955' action='modify' lat='50.78000899559' lon='7.18122102303' />
+  <node id='-309956' action='modify' lat='50.78005418678' lon='7.18122119058' />
+  <node id='-309960' action='modify' lat='50.78000888954' lon='7.18121842473' />
+  <node id='-324356' action='modify' lat='50.78000888959' lon='7.18107266335' />
+  <node id='-324358' action='modify' lat='50.78001026756' lon='7.18107266335' />
+  <node id='-324360' action='modify' lat='50.78001037362' lon='7.18122102814' />
+  <node id='-324367' action='modify' lat='50.78005388875' lon='7.18107241195' />
+  <node id='-324371' action='modify' lat='50.78000889199' lon='7.18107601619' />
+  <node id='-324389' action='modify' lat='50.78005398649' lon='7.18114642418' />
+  <node id='-324390' action='modify' lat='50.78005318649' lon='7.18114872418' />
+  <node id='-324391' action='modify' lat='50.78005208649' lon='7.18114952418' />
+  <node id='-324392' action='modify' lat='50.78005088649' lon='7.18114872418' />
+  <node id='-324393' action='modify' lat='50.78005028649' lon='7.18114632418' />
+  <node id='-324394' action='modify' lat='50.78005088649' lon='7.18114432418' />
+  <node id='-324395' action='modify' lat='50.78005208649' lon='7.18114332418' />
+  <node id='-324396' action='modify' lat='50.78005318649' lon='7.18114422418' />
+  <node id='-324397' action='modify' lat='50.78007704587' lon='7.18155529342' />
+  <node id='-324398' action='modify' lat='50.78008070278' lon='7.18155445523' />
+  <node id='-324400' action='modify' lat='50.78007985478' lon='7.18154691156' />
+  <node id='-324402' action='modify' lat='50.7800788743' lon='7.18153274614' />
+  <node id='-324404' action='modify' lat='50.78007839731' lon='7.1815167367' />
+  <node id='-324406' action='modify' lat='50.78007839731' lon='7.18151086937' />
+  <node id='-324408' action='modify' lat='50.78007471391' lon='7.18151086937' />
+  <node id='-324410' action='modify' lat='50.78007519089' lon='7.18153266232' />
+  <node id='-324416' action='modify' lat='50.78010288269' lon='7.18151082746' />
+  <node id='-324418' action='modify' lat='50.78010288269' lon='7.18151677861' />
+  <node id='-324420' action='modify' lat='50.78007484138' lon='7.18151669362' />
+  <node id='-324428' action='modify' lat='50.78010306819' lon='7.18152998011' />
+  <node id='-324430' action='modify' lat='50.78010457865' lon='7.18154678583' />
+  <node id='-324437' action='modify' lat='50.78010108072' lon='7.18154779168' />
+  <node id='-324439' action='modify' lat='50.780099822' lon='7.18153340625' />
+  <node id='-324441' action='modify' lat='50.78009922577' lon='7.181517072' />
+  <node id='-324443' action='modify' lat='50.78009914628' lon='7.18151083302' />
+  <node id='-339361' action='modify' lat='50.78005216297' lon='7.18223929867' />
+  <node id='-339365' action='modify' lat='50.78005221596' lon='7.18230823982' />
+  <node id='-353827' action='modify' lat='50.78005664138' lon='7.1822440344' />
+  <node id='-353828' action='modify' lat='50.78007874183' lon='7.18224428586' />
+  <node id='-353830' action='modify' lat='50.78007858283' lon='7.18228083096' />
+  <node id='-353832' action='modify' lat='50.78005664138' lon='7.1822801604' />
+  <node id='-353853' action='modify' lat='50.78006771811' lon='7.18226356423' />
+  <node id='-353854' action='modify' lat='50.78006787432' lon='7.18226068486' />
   <node id='1' timestamp='2018-10-03T19:24:01Z' uid='1' user='Dharmin' version='3' changeset='3' lat='50.7804202' lon='7.1822901' />
   <node id='2' timestamp='2018-10-03T19:24:01Z' uid='1' user='Dharmin' version='3' changeset='3' lat='50.7804202' lon='7.1823011' />
   <node id='3' timestamp='2018-10-03T19:24:01Z' uid='1' user='Dharmin' version='3' changeset='3' lat='50.7804176' lon='7.1823011' />
@@ -1493,10 +1534,10 @@
   <node id='1550' timestamp='2019-03-29T09:02:06Z' uid='2' user='Lakshadeep' version='2' changeset='41' lat='50.7804963' lon='7.1829122' />
   <node id='1551' timestamp='2019-03-29T09:02:06Z' uid='2' user='Lakshadeep' version='2' changeset='41' lat='50.780419' lon='7.1829456' />
   <node id='1552' timestamp='2019-03-29T09:02:06Z' uid='2' user='Lakshadeep' version='2' changeset='41' lat='50.7804099' lon='7.1829727' />
-  <node id='1553' timestamp='2019-03-29T09:02:06Z' uid='2' user='Lakshadeep' version='2' changeset='41' lat='50.7803638' lon='7.1829921' />
+  <node id='1553' timestamp='2019-06-25T14:04:57Z' uid='2' user='Lakshadeep' version='3' changeset='62' lat='50.7803714' lon='7.1829897' />
   <node id='1554' timestamp='2019-03-29T09:02:06Z' uid='2' user='Lakshadeep' version='2' changeset='41' lat='50.7804075' lon='7.1829603' />
-  <node id='1555' timestamp='2018-10-05T15:59:54Z' uid='1' user='Dharmin' version='1' changeset='5' lat='50.7803614' lon='7.182979' />
-  <node id='1556' timestamp='2019-03-29T09:02:06Z' uid='2' user='Lakshadeep' version='2' changeset='41' lat='50.7803584' lon='7.1829649' />
+  <node id='1555' timestamp='2019-06-25T14:04:57Z' uid='2' user='Lakshadeep' version='2' changeset='62' lat='50.7803687' lon='7.1829761' />
+  <node id='1556' timestamp='2019-06-25T14:04:57Z' uid='2' user='Lakshadeep' version='3' changeset='62' lat='50.7803665' lon='7.1829618' />
   <node id='1557' timestamp='2019-03-29T09:02:06Z' uid='2' user='Lakshadeep' version='2' changeset='41' lat='50.7804045' lon='7.1829458' />
   <node id='1558' timestamp='2018-10-05T15:59:54Z' uid='1' user='Dharmin' version='1' changeset='5' lat='50.7803594' lon='7.1830555' />
   <node id='1559' timestamp='2018-10-05T15:59:54Z' uid='1' user='Dharmin' version='1' changeset='5' lat='50.7803592' lon='7.1831479' />
@@ -1565,11 +1606,11 @@
   <node id='1623' timestamp='2018-10-05T15:59:54Z' uid='1' user='Dharmin' version='1' changeset='5' lat='50.7803542' lon='7.1823063' />
   <node id='1624' timestamp='2018-10-05T15:59:54Z' uid='1' user='Dharmin' version='1' changeset='5' lat='50.7803537' lon='7.182245' />
   <node id='1625' timestamp='2019-03-29T09:02:06Z' uid='2' user='Lakshadeep' version='3' changeset='41' lat='50.7803252' lon='7.1822897' />
-  <node id='1626' timestamp='2019-03-28T17:37:08Z' uid='2' user='Lakshadeep' version='3' changeset='40' lat='50.7802685' lon='7.1822892' />
+  <node id='1626' action='modify' timestamp='2019-03-28T17:37:08Z' uid='2' user='Lakshadeep' version='3' changeset='40' lat='50.78027030195' lon='7.18228869709' />
   <node id='1627' timestamp='2019-03-29T09:02:06Z' uid='2' user='Lakshadeep' version='3' changeset='41' lat='50.7803253' lon='7.1822619' />
   <node id='1628' timestamp='2019-03-29T09:02:06Z' uid='2' user='Lakshadeep' version='2' changeset='41' lat='50.7803252' lon='7.1822759' />
-  <node id='1629' timestamp='2019-03-28T17:37:08Z' uid='2' user='Lakshadeep' version='2' changeset='40' lat='50.7802684' lon='7.182275' />
-  <node id='1630' timestamp='2019-03-28T17:37:08Z' uid='2' user='Lakshadeep' version='3' changeset='40' lat='50.7802688' lon='7.1822616' />
+  <node id='1629' action='modify' timestamp='2019-03-28T17:37:08Z' uid='2' user='Lakshadeep' version='2' changeset='40' lat='50.78027020195' lon='7.18227449709' />
+  <node id='1630' action='modify' timestamp='2019-03-28T17:37:08Z' uid='2' user='Lakshadeep' version='3' changeset='40' lat='50.78027007196' lon='7.18226109709' />
   <node id='1631' timestamp='2018-10-05T15:59:54Z' uid='1' user='Dharmin' version='1' changeset='5' lat='50.7800284' lon='7.1822446' />
   <node id='1632' timestamp='2018-10-05T15:59:55Z' uid='1' user='Dharmin' version='1' changeset='5' lat='50.7800284' lon='7.1822758' />
   <node id='1633' timestamp='2018-10-05T15:59:55Z' uid='1' user='Dharmin' version='1' changeset='5' lat='50.7800527' lon='7.182276' />
@@ -2330,8 +2371,8 @@
   <node id='2399' timestamp='2018-10-10T14:20:57Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7803885' lon='7.1822892' />
   <node id='2400' timestamp='2018-10-10T14:20:57Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7803449' lon='7.1822706' />
   <node id='2401' timestamp='2018-10-10T14:20:57Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7802955' lon='7.1822889' />
-  <node id='2402' timestamp='2019-02-20T12:05:25Z' uid='2' user='Lakshadeep' version='2' changeset='37' lat='50.7800697' lon='7.1822857' />
-  <node id='2403' timestamp='2019-02-20T12:05:25Z' uid='2' user='Lakshadeep' version='2' changeset='37' lat='50.7800683' lon='7.1822599' />
+  <node id='2402' action='modify' timestamp='2019-02-20T12:05:25Z' uid='2' user='Lakshadeep' version='2' changeset='37' lat='50.78015778372' lon='7.18228905276' />
+  <node id='2403' action='modify' timestamp='2019-02-20T12:05:25Z' uid='2' user='Lakshadeep' version='2' changeset='37' lat='50.78015807967' lon='7.18226258221' />
   <node id='2404' timestamp='2018-11-26T18:08:23Z' uid='1' user='Dharmin' version='2' changeset='23' lat='50.7800524' lon='7.1822603' />
   <node id='2405' timestamp='2018-10-10T14:20:57Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.780344' lon='7.1829288' />
   <node id='2406' timestamp='2018-11-26T18:08:23Z' uid='1' user='Dharmin' version='2' changeset='23' lat='50.7803437' lon='7.1828149' />
@@ -2435,12 +2476,12 @@
   <node id='2523' timestamp='2018-10-10T14:20:58Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7803299' lon='7.1822758' />
   <node id='2524' timestamp='2018-10-10T14:20:58Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7803301' lon='7.1822478' />
   <node id='2525' timestamp='2018-10-10T14:20:58Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7802602' lon='7.1822466' />
-  <node id='2526' timestamp='2018-10-10T14:20:58Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7800546' lon='7.182301' />
+  <node id='2526' action='modify' timestamp='2018-10-10T14:20:58Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.78008290129' lon='7.18230301166' />
   <node id='2527' timestamp='2018-10-10T14:20:58Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7802549' lon='7.1823036' />
-  <node id='2528' timestamp='2018-10-10T14:20:58Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7800547' lon='7.1822725' />
+  <node id='2528' action='modify' timestamp='2018-10-10T14:20:58Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.78008300129' lon='7.18227451166' />
   <node id='2529' timestamp='2018-10-10T14:20:58Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.780255' lon='7.1822751' />
   <node id='2530' timestamp='2018-10-10T14:20:58Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7802552' lon='7.1822446' />
-  <node id='2531' timestamp='2018-10-10T14:20:58Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7800549' lon='7.1822426' />
+  <node id='2531' action='modify' timestamp='2018-10-10T14:20:58Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.78008320129' lon='7.18224461166' />
   <node id='2532' timestamp='2019-01-23T15:17:58Z' uid='1' user='Dharmin' version='2' changeset='35' lat='50.7806431' lon='7.1830673' />
   <node id='2535' timestamp='2019-01-23T15:17:58Z' uid='1' user='Dharmin' version='2' changeset='35' lat='50.7806428' lon='7.1831201' />
   <node id='2536' timestamp='2018-10-10T14:20:58Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7806658' lon='7.18312' />
@@ -2478,10 +2519,10 @@
   <node id='2570' timestamp='2018-10-10T14:20:58Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7803554' lon='7.1822428' />
   <node id='2571' timestamp='2018-10-10T14:20:58Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7803327' lon='7.182309' />
   <node id='2572' timestamp='2018-10-10T14:20:58Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7803327' lon='7.1822427' />
-  <node id='2573' timestamp='2018-10-31T11:46:38Z' uid='1' user='Dharmin' version='2' changeset='21' lat='50.780052' lon='7.1823081' />
+  <node id='2573' action='modify' timestamp='2018-10-31T11:46:38Z' uid='1' user='Dharmin' version='2' changeset='21' lat='50.78008141427' lon='7.18230826764' />
   <node id='2574' timestamp='2018-10-10T14:20:58Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.780258' lon='7.1823083' />
   <node id='2575' timestamp='2018-10-10T14:20:58Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7802579' lon='7.182241' />
-  <node id='2576' timestamp='2018-10-31T11:46:38Z' uid='1' user='Dharmin' version='2' changeset='21' lat='50.7800522' lon='7.1822392' />
+  <node id='2576' action='modify' timestamp='2018-10-31T11:46:38Z' uid='1' user='Dharmin' version='2' changeset='21' lat='50.78008161427' lon='7.18223936764' />
   <node id='2577' timestamp='2018-10-10T14:20:58Z' uid='1' user='Dharmin' version='1' changeset='11' lat='50.7800276' lon='7.1822759' />
   <node id='2578' timestamp='2018-10-31T11:46:38Z' uid='1' user='Dharmin' version='2' changeset='21' lat='50.7800523' lon='7.1822761' />
   <node id='2579' timestamp='2018-10-31T11:46:38Z' uid='1' user='Dharmin' version='2' changeset='21' lat='50.7800521' lon='7.1822444' />
@@ -3133,7 +3174,7 @@
   <node id='3169' timestamp='2019-04-22T14:08:44Z' uid='1' user='Dharmin' version='1' changeset='48' lat='50.780053' lon='7.1821146' />
   <node id='3170' timestamp='2019-04-22T14:08:44Z' uid='1' user='Dharmin' version='1' changeset='48' lat='50.7800357' lon='7.1821148' />
   <node id='3171' timestamp='2019-04-22T14:57:31Z' uid='1' user='Dharmin' version='1' changeset='49' lat='50.7801565' lon='7.1822108' />
-  <node id='3172' timestamp='2019-04-22T14:57:31Z' uid='1' user='Dharmin' version='1' changeset='49' lat='50.7802326' lon='7.1821903' />
+  <node id='3172' action='modify' timestamp='2019-04-22T14:57:31Z' uid='1' user='Dharmin' version='1' changeset='49' lat='50.7802256042' lon='7.18218761779' />
   <node id='3173' timestamp='2019-04-22T14:57:31Z' uid='1' user='Dharmin' version='1' changeset='49' lat='50.780183' lon='7.1820901' />
   <node id='3174' timestamp='2019-05-13T14:37:39Z' uid='2' user='Lakshadeep' version='3' changeset='58' lat='50.780063' lon='7.1818755' />
   <node id='3175' timestamp='2019-04-23T12:06:33Z' uid='1' user='Dharmin' version='2' changeset='51' lat='50.7801212' lon='7.1815103' />
@@ -3157,7 +3198,7 @@
   <node id='3193' timestamp='2019-04-22T14:57:31Z' uid='1' user='Dharmin' version='1' changeset='49' lat='50.7801048' lon='7.1814294' />
   <node id='3194' timestamp='2019-04-22T14:57:31Z' uid='1' user='Dharmin' version='1' changeset='49' lat='50.7801191' lon='7.1815073' />
   <node id='3195' timestamp='2019-04-22T14:57:31Z' uid='1' user='Dharmin' version='1' changeset='49' lat='50.7801845' lon='7.182086' />
-  <node id='3196' timestamp='2019-04-22T14:57:31Z' uid='1' user='Dharmin' version='1' changeset='49' lat='50.7802356' lon='7.182188' />
+  <node id='3196' action='modify' timestamp='2019-04-22T14:57:31Z' uid='1' user='Dharmin' version='1' changeset='49' lat='50.78022839221' lon='7.18218833528' />
   <node id='3197' timestamp='2019-04-22T14:57:31Z' uid='1' user='Dharmin' version='1' changeset='49' lat='50.7801597' lon='7.1822064' />
   <node id='3198' timestamp='2019-04-22T14:57:31Z' uid='1' user='Dharmin' version='1' changeset='49' lat='50.7800686' lon='7.1807761' />
   <node id='3199' timestamp='2019-05-13T14:37:39Z' uid='2' user='Lakshadeep' version='2' changeset='58' lat='50.7800675' lon='7.1808612' />
@@ -3238,8 +3279,8 @@
   <node id='3274' timestamp='2019-05-14T08:31:01Z' uid='2' user='Lakshadeep' version='2' changeset='59' lat='50.7801905' lon='7.1820787' />
   <node id='3275' timestamp='2019-05-13T14:37:39Z' uid='2' user='Lakshadeep' version='2' changeset='58' lat='50.7802175' lon='7.1821653' />
   <node id='3276' timestamp='2019-05-13T14:37:39Z' uid='2' user='Lakshadeep' version='2' changeset='58' lat='50.7802191' lon='7.1822133' />
-  <node id='3277' timestamp='2019-05-13T14:37:39Z' uid='2' user='Lakshadeep' version='2' changeset='58' lat='50.7802426' lon='7.1822137' />
-  <node id='3278' timestamp='2019-05-13T14:37:39Z' uid='2' user='Lakshadeep' version='2' changeset='58' lat='50.7802416' lon='7.182166' />
+  <node id='3277' action='modify' timestamp='2019-05-13T14:37:39Z' uid='2' user='Lakshadeep' version='2' changeset='58' lat='50.78023433224' lon='7.18221319709' />
+  <node id='3278' action='modify' timestamp='2019-05-13T14:37:39Z' uid='2' user='Lakshadeep' version='2' changeset='58' lat='50.78023407422' lon='7.18216532945' />
   <node id='3279' timestamp='2019-04-22T14:57:32Z' uid='1' user='Dharmin' version='1' changeset='49' lat='50.7801239' lon='7.1822298' />
   <node id='3280' timestamp='2019-04-22T14:57:32Z' uid='1' user='Dharmin' version='1' changeset='49' lat='50.7800425' lon='7.1822312' />
   <node id='3281' timestamp='2019-04-22T14:57:32Z' uid='1' user='Dharmin' version='1' changeset='49' lat='50.7800416' lon='7.1821437' />
@@ -3257,6 +3298,128 @@
   <node id='3293' timestamp='2019-04-23T12:06:33Z' uid='1' user='Dharmin' version='1' changeset='51' lat='50.7805501' lon='7.1822144' />
   <node id='3294' timestamp='2019-04-23T12:06:33Z' uid='1' user='Dharmin' version='1' changeset='51' lat='50.7804481' lon='7.1822142' />
   <node id='3295' timestamp='2019-04-23T12:06:33Z' uid='1' user='Dharmin' version='1' changeset='51' lat='50.7804272' lon='7.1822404' />
+  <way id='-309957' action='modify'>
+    <nd ref='-309955' />
+    <nd ref='-309956' />
+    <nd ref='3143' />
+    <nd ref='-309960' />
+    <nd ref='-309955' />
+    <tag k='indoor' v='wall' />
+    <tag k='level' v='0' />
+  </way>
+  <way id='-324357' action='modify'>
+    <nd ref='-309955' />
+    <nd ref='-324356' />
+    <nd ref='-324358' />
+    <nd ref='-324360' />
+    <nd ref='-309955' />
+    <tag k='indoor' v='wall' />
+    <tag k='level' v='0' />
+  </way>
+  <way id='-324368' action='modify'>
+    <nd ref='-324356' />
+    <nd ref='-324367' />
+    <nd ref='3146' />
+    <nd ref='-324371' />
+    <nd ref='-324356' />
+    <tag k='indoor' v='wall' />
+    <tag k='level' v='0' />
+  </way>
+  <way id='-324388' action='modify'>
+    <nd ref='-324389' />
+    <nd ref='-324390' />
+    <nd ref='-324391' />
+    <nd ref='-324392' />
+    <nd ref='-324393' />
+    <nd ref='-324394' />
+    <nd ref='-324395' />
+    <nd ref='-324396' />
+    <nd ref='-324389' />
+    <tag k='indoor' v='pillar' />
+    <tag k='level' v='0' />
+  </way>
+  <way id='-324399' action='modify'>
+    <nd ref='-324397' />
+    <nd ref='-324398' />
+    <nd ref='-324400' />
+    <nd ref='-324402' />
+    <nd ref='-324404' />
+    <nd ref='-324406' />
+    <nd ref='-324408' />
+    <nd ref='-324410' />
+    <nd ref='-324397' />
+    <tag k='height' v='0.5' />
+    <tag k='indoor' v='wall' />
+    <tag k='level' v='0' />
+  </way>
+  <way id='-324417' action='modify'>
+    <nd ref='-324408' />
+    <nd ref='-324416' />
+    <nd ref='-324418' />
+    <nd ref='-324420' />
+    <nd ref='-324408' />
+    <tag k='height' v='0.5' />
+    <tag k='indoor' v='wall' />
+    <tag k='level' v='0' />
+  </way>
+  <way id='-324429' action='modify'>
+    <nd ref='-324416' />
+    <nd ref='-324428' />
+    <nd ref='-324430' />
+    <nd ref='-324437' />
+    <nd ref='-324439' />
+    <nd ref='-324441' />
+    <nd ref='-324443' />
+    <nd ref='-324416' />
+    <tag k='height' v='0.5' />
+    <tag k='indoor' v='wall' />
+    <tag k='level' v='0' />
+  </way>
+  <way id='-339362' action='modify'>
+    <nd ref='2579' />
+    <nd ref='-339361' />
+    <nd ref='2576' />
+    <nd ref='2573' />
+    <nd ref='-339365' />
+    <nd ref='2578' />
+    <nd ref='2579' />
+    <tag k='indoor' v='area' />
+    <tag k='internet' v='yes' />
+    <tag k='level' v='2' />
+    <tag k='ref' v='BRSU_A_L2_A1' />
+    <tag k='surface:smoothness' v='excellent' />
+  </way>
+  <way id='-353829' action='modify'>
+    <nd ref='-353827' />
+    <nd ref='-353828' />
+    <nd ref='-353830' />
+    <nd ref='-353832' />
+    <nd ref='-353827' />
+    <tag k='level' v='2' />
+    <tag k='ref' v='BRSU_A_L2_A1_LA1' />
+    <tag k='wifi:strength' v='Average' />
+  </way>
+  <way id='-353866' action='modify'>
+    <nd ref='-353853' />
+    <nd ref='2402' />
+    <tag k='highway' v='local-way' />
+    <tag k='level' v='2' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-353873' action='modify'>
+    <nd ref='2403' />
+    <nd ref='-353853' />
+    <tag k='highway' v='local-way' />
+    <tag k='level' v='2' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-353895' action='modify'>
+    <nd ref='2404' />
+    <nd ref='-353853' />
+    <tag k='highway' v='local-way' />
+    <tag k='level' v='2' />
+    <tag k='oneway' v='no' />
+  </way>
   <way id='1' timestamp='2018-09-30T17:43:57Z' uid='1' user='Dharmin' version='1' changeset='1'>
     <nd ref='9' />
     <nd ref='5' />
@@ -11875,8 +12038,9 @@
     <tag k='level' v='2' />
     <tag k='oneway' v='no' />
   </way>
-  <way id='885' timestamp='2019-01-23T15:17:58Z' uid='1' user='Dharmin' version='4' changeset='35'>
+  <way id='885' action='modify' timestamp='2019-01-23T15:17:58Z' uid='1' user='Dharmin' version='4' changeset='35'>
     <nd ref='1307' />
+    <nd ref='-353854' />
     <nd ref='2428' />
     <nd ref='2426' />
     <nd ref='2425' />
@@ -12366,14 +12530,12 @@
     <tag k='ref' v='BRSU_C_L2_C1' />
     <tag k='surface:smoothness' v='excellent' />
   </way>
-  <way id='936' timestamp='2018-10-10T14:21:01Z' uid='1' user='Dharmin' version='1' changeset='11'>
-    <nd ref='2578' />
-    <nd ref='2579' />
+  <way id='936' action='modify' timestamp='2018-10-10T14:21:01Z' uid='1' user='Dharmin' version='1' changeset='11'>
     <nd ref='2576' />
     <nd ref='2575' />
     <nd ref='2574' />
     <nd ref='2573' />
-    <nd ref='2578' />
+    <nd ref='2576' />
     <tag k='indoor' v='corridor' />
     <tag k='internet' v='yes' />
     <tag k='level' v='2' />
@@ -12474,16 +12636,14 @@
     <nd ref='2605' />
     <tag k='level' v='2' />
   </way>
-  <way id='947' timestamp='2018-11-26T18:08:23Z' uid='1' user='Dharmin' version='2' changeset='23'>
+  <way id='947' action='modify' timestamp='2018-11-26T18:08:23Z' uid='1' user='Dharmin' version='2' changeset='23'>
     <nd ref='1226' />
     <nd ref='2404' />
     <tag k='highway' v='local-way' />
     <tag k='level' v='2' />
     <tag k='oneway' v='no' />
   </way>
-  <way id='948' timestamp='2018-11-26T18:08:23Z' uid='1' user='Dharmin' version='2' changeset='23'>
-    <nd ref='2403' />
-    <nd ref='2404' />
+  <way id='948' action='delete' timestamp='2018-11-26T18:08:23Z' uid='1' user='Dharmin' version='2' changeset='23'>
     <tag k='highway' v='local-way' />
     <tag k='level' v='2' />
     <tag k='oneway' v='yes' />
@@ -12930,9 +13090,7 @@
     <tag k='level' v='2' />
     <tag k='oneway' v='yes' />
   </way>
-  <way id='1005' timestamp='2018-11-26T18:08:23Z' uid='1' user='Dharmin' version='1' changeset='23'>
-    <nd ref='2404' />
-    <nd ref='2402' />
+  <way id='1005' action='delete' timestamp='2018-11-26T18:08:23Z' uid='1' user='Dharmin' version='1' changeset='23'>
     <tag k='highway' v='local-way' />
     <tag k='level' v='2' />
     <tag k='oneway' v='yes' />
@@ -14619,7 +14777,7 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
   </way>
-  <way id='1165' timestamp='2019-04-22T13:53:35Z' uid='1' user='Dharmin' version='1' changeset='47'>
+  <way id='1165' action='modify' timestamp='2019-04-22T13:53:35Z' uid='1' user='Dharmin' version='1' changeset='47'>
     <nd ref='3143' />
     <nd ref='3142' />
     <nd ref='3141' />
@@ -14628,7 +14786,7 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
   </way>
-  <way id='1166' timestamp='2019-04-22T13:53:35Z' uid='1' user='Dharmin' version='1' changeset='47'>
+  <way id='1166' action='modify' timestamp='2019-04-22T13:53:35Z' uid='1' user='Dharmin' version='1' changeset='47'>
     <nd ref='3147' />
     <nd ref='3146' />
     <nd ref='3145' />
@@ -15193,6 +15351,23 @@
     <tag k='level' v='0' />
     <tag k='oneway' v='yes' />
   </way>
+  <relation id='-353989' action='modify'>
+    <member type='way' ref='-353829' role='geometry' />
+    <member type='node' ref='-353853' role='topology' />
+    <tag k='ref' v='BRSU_A_L2_A1_LA1' />
+    <tag k='type' v='local_area' />
+  </relation>
+  <relation id='-354002' action='modify'>
+    <member type='way' ref='-339362' role='geometry' />
+    <member type='node' ref='-353854' role='topology' />
+    <member type='way' ref='-353895' role='local_connection' />
+    <member type='way' ref='-353866' role='local_connection' />
+    <member type='way' ref='947' role='local_connection' />
+    <member type='relation' ref='-353989' role='local_area' />
+    <member type='relation' ref='187' role='door' />
+    <tag k='ref' v='BRSU_A_L2_A1' />
+    <tag k='type' v='area' />
+  </relation>
   <relation id='1' timestamp='2019-01-16T20:20:28Z' uid='1' user='Dharmin' version='5' changeset='32'>
     <member type='way' ref='352' role='geometry' />
     <member type='node' ref='1350' role='topology' />
@@ -16131,13 +16306,13 @@
     <tag k='ref' v='BRSU_A_L0_A1_LA1' />
     <tag k='type' v='local_area' />
   </relation>
-  <relation id='121' timestamp='2018-11-26T18:08:23Z' uid='1' user='Dharmin' version='6' changeset='23'>
+  <relation id='121' action='modify' timestamp='2018-11-26T18:08:23Z' uid='1' user='Dharmin' version='6' changeset='23'>
     <member type='way' ref='966' role='geometry' />
     <member type='node' ref='1307' role='topology' />
     <member type='way' ref='992' role='local_connection' />
     <member type='relation' ref='122' role='local_area' />
     <member type='way' ref='947' role='local_connection' />
-    <member type='way' ref='1005' role='local_connection' />
+    <member type='way' ref='-353895' role='local_connection' />
     <tag k='ref' v='BRSU_A_E1' />
     <tag k='type' v='elevator' />
   </relation>
@@ -16190,7 +16365,7 @@
     <tag k='ref' v='BRSU_A_L0_A2' />
     <tag k='type' v='area' />
   </relation>
-  <relation id='127' action='modify' timestamp='2019-04-24T09:59:41Z' uid='1' user='Dharmin' version='9' changeset='54'>
+  <relation id='127' timestamp='2019-06-10T17:14:12Z' uid='1' user='Dharmin' version='10' changeset='61'>
     <member type='way' ref='597' role='geometry' />
     <member type='relation' ref='125' role='area' />
     <member type='relation' ref='126' role='area' />
@@ -16613,16 +16788,13 @@
     <tag k='ref' v='BRSU_C_L2_C15' />
     <tag k='type' v='corridor' />
   </relation>
-  <relation id='179' timestamp='2018-11-26T18:08:24Z' uid='1' user='Dharmin' version='5' changeset='23'>
+  <relation id='179' action='modify' timestamp='2018-11-26T18:08:24Z' uid='1' user='Dharmin' version='5' changeset='23'>
     <member type='way' ref='936' role='geometry' />
     <member type='node' ref='2428' role='topology' />
     <member type='way' ref='882' role='local_connection' />
-    <member type='way' ref='948' role='local_connection' />
-    <member type='way' ref='1005' role='local_connection' />
-    <member type='way' ref='947' role='local_connection' />
+    <member type='way' ref='-353873' role='local_connection' />
     <member type='relation' ref='159' role='local_area' />
     <member type='relation' ref='158' role='local_area' />
-    <member type='relation' ref='167' role='door' />
     <tag k='ref' v='BRSU_A_L2_C1' />
     <tag k='type' v='corridor' />
   </relation>
@@ -16667,7 +16839,7 @@
     <tag k='ref' v='BRSU_C_L2_C12' />
     <tag k='type' v='corridor' />
   </relation>
-  <relation id='185' action='modify' timestamp='2019-01-23T15:17:58Z' uid='1' user='Dharmin' version='5' changeset='35'>
+  <relation id='185' action='modify' timestamp='2019-06-10T17:14:12Z' uid='1' user='Dharmin' version='6' changeset='61'>
     <member type='way' ref='946' role='geometry' />
     <member type='relation' ref='179' role='corridor' />
     <member type='relation' ref='170' role='corridor' />
@@ -16692,14 +16864,15 @@
     <member type='way' ref='884' role='global_connection' />
     <member type='node' ref='2672' role='wlan' />
     <member type='node' ref='2671' role='wlan' />
+    <member type='relation' ref='-354002' role='area' />
     <tag k='name' v='Second floor' />
     <tag k='ref' v='BRSU_L2' />
     <tag k='type' v='level' />
   </relation>
-  <relation id='187' timestamp='2018-10-31T11:46:38Z' uid='1' user='Dharmin' version='2' changeset='21'>
+  <relation id='187' action='modify' timestamp='2018-10-31T11:46:38Z' uid='1' user='Dharmin' version='2' changeset='21'>
     <member type='way' ref='938' role='geometry' />
     <member type='node' ref='2404' role='topology' />
-    <tag k='ref' v='BRSU_A_L2_C1_Door1' />
+    <tag k='ref' v='BRSU_A_L2_A1_Door1' />
     <tag k='type' v='door' />
   </relation>
   <relation id='189' timestamp='2018-10-15T16:24:14Z' uid='1' user='Dharmin' version='1' changeset='17'>
