@@ -6772,7 +6772,7 @@
     <tag k='ref' v='BRSU_A_L0_A5' />
     <tag k='surface:smoothness' v='excellent' />
   </way>
-  <way id='332' timestamp='2018-10-09T13:20:42Z' uid='1' user='Dharmin' version='2' changeset='8'>
+  <way id='332' timestamp='2019-09-11T12:40:47Z' version='3' changeset='65'>
     <nd ref='964' />
     <nd ref='951' />
     <nd ref='1039' />
@@ -6780,7 +6780,7 @@
     <nd ref='956' />
     <nd ref='963' />
     <nd ref='964' />
-    <tag k='indoor' v='area' />
+    <tag k='indoor' v='junction' />
     <tag k='internet' v='yes' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_A_L0_A4' />
@@ -14703,14 +14703,14 @@
     <tag k='ref' v='BRSU_A_L0_A13' />
     <tag k='surface:smoothness' v='excellent' />
   </way>
-  <way id='1170' timestamp='2019-04-22T14:08:44Z' uid='1' user='Dharmin' version='1' changeset='48'>
+  <way id='1170' timestamp='2019-09-11T12:40:47Z' version='2' changeset='65'>
     <nd ref='953' />
     <nd ref='3168' />
     <nd ref='2719' />
     <nd ref='2720' />
     <nd ref='3169' />
     <nd ref='953' />
-    <tag k='indoor' v='area' />
+    <tag k='indoor' v='junction' />
     <tag k='internet' v='wireless' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_A_L0_A12' />
@@ -16296,7 +16296,7 @@
     <tag k='ref' v='BRSU_A_E1_LA1' />
     <tag k='type' v='local_area' />
   </relation>
-  <relation id='123' timestamp='2019-04-23T12:35:31Z' uid='1' user='Dharmin' version='4' changeset='52'>
+  <relation id='123' timestamp='2019-09-11T12:40:47Z' version='5' changeset='65'>
     <member type='way' ref='332' role='geometry' />
     <member type='node' ref='1312' role='topology' />
     <member type='way' ref='410' role='local_connection' />
@@ -16304,7 +16304,7 @@
     <member type='way' ref='1174' role='local_connection' />
     <member type='relation' ref='117' role='local_area' />
     <tag k='ref' v='BRSU_A_L0_A4' />
-    <tag k='type' v='area' />
+    <tag k='type' v='junction' />
   </relation>
   <relation id='124' timestamp='2019-04-23T12:35:31Z' uid='1' user='Dharmin' version='3' changeset='52'>
     <member type='way' ref='333' role='geometry' />
@@ -17453,7 +17453,7 @@
     <tag k='ref' v='BRSU_A_L0_C7' />
     <tag k='type' v='corridor' />
   </relation>
-  <relation id='274' timestamp='2019-04-22T16:04:56Z' uid='1' user='Dharmin' version='1' changeset='50'>
+  <relation id='274' timestamp='2019-09-11T12:40:47Z' version='2' changeset='65'>
     <member type='way' ref='1170' role='geometry' />
     <member type='node' ref='3206' role='topology' />
     <member type='way' ref='1178' role='local_connection' />
@@ -17461,7 +17461,7 @@
     <member type='way' ref='1177' role='local_connection' />
     <member type='relation' ref='262' role='local_area' />
     <tag k='ref' v='BRSU_A_L0_A12' />
-    <tag k='type' v='area' />
+    <tag k='type' v='junction' />
   </relation>
   <relation id='275' timestamp='2019-04-24T09:59:42Z' uid='1' user='Dharmin' version='2' changeset='54'>
     <member type='way' ref='1055' role='geometry' />
