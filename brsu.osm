@@ -11861,12 +11861,12 @@
     <tag k='level' v='2' />
     <tag k='oneway' v='yes' />
   </way>
-  <way id='877' timestamp='2018-11-26T18:08:23Z' uid='1' user='Dharmin' version='3' changeset='23'>
+  <way id='877' timestamp='2019-10-17T12:23:15Z' version='4' changeset='71'>
+    <nd ref='2375' />
     <nd ref='2374' />
-    <nd ref='2406' />
     <tag k='highway' v='local-way' />
     <tag k='level' v='2' />
-    <tag k='oneway' v='yes' />
+    <tag k='oneway' v='no' />
   </way>
   <way id='878' timestamp='2018-10-10T16:14:04Z' uid='1' user='Dharmin' version='2' changeset='12'>
     <nd ref='2400' />
@@ -14959,7 +14959,7 @@
     <tag k='level' v='0' />
     <tag k='oneway' v='no' />
   </way>
-  <way id='1209' timestamp='2019-10-16T12:10:02Z' version='2' changeset='70'>
+  <way id='1209' timestamp='2019-10-16T12:10:02Z' uid='1' user='Dharmin' version='2' changeset='70'>
     <nd ref='3211' />
     <nd ref='3210' />
     <nd ref='3209' />
@@ -15346,6 +15346,13 @@
     <nd ref='3336' />
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
+  </way>
+  <way id='1248' timestamp='2019-10-17T12:23:15Z' version='1' changeset='71'>
+    <nd ref='2374' />
+    <nd ref='2406' />
+    <tag k='highway' v='local-way' />
+    <tag k='level' v='2' />
+    <tag k='oneway' v='yes' />
   </way>
   <relation id='1' timestamp='2019-01-16T20:20:28Z' uid='1' user='Dharmin' version='5' changeset='32'>
     <member type='way' ref='352' role='geometry' />
@@ -16738,10 +16745,11 @@
     <tag k='ref' v='BRSU_C_L2_C3' />
     <tag k='type' v='corridor' />
   </relation>
-  <relation id='175' timestamp='2018-11-26T18:08:23Z' uid='1' user='Dharmin' version='3' changeset='23'>
+  <relation id='175' timestamp='2019-10-17T12:23:15Z' version='4' changeset='71'>
     <member type='way' ref='930' role='geometry' />
     <member type='node' ref='2405' role='topology' />
-    <member type='way' ref='877' role='local_connection' />
+    <member type='way' ref='877' role='recovery_connection' />
+    <member type='way' ref='1248' role='local_connection' />
     <member type='way' ref='999' role='local_connection' />
     <member type='way' ref='1000' role='local_connection' />
     <member type='relation' ref='164' role='door' />
