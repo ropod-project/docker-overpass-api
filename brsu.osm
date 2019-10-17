@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='JOSM'>
-  <bounds minlat='50.7796206' minlon='7.180531' maxlat='50.7808824' maxlon='7.1834064' origin='OpenStreetMap server' />
+  <bounds minlat='50.7787221' minlon='7.1785776' maxlat='50.781356' maxlon='7.1844476' origin='OpenStreetMap server' />
   <node id='1' timestamp='2018-10-03T19:24:01Z' uid='1' user='Dharmin' version='3' changeset='3' lat='50.7804202' lon='7.1822901' />
   <node id='2' timestamp='2018-10-03T19:24:01Z' uid='1' user='Dharmin' version='3' changeset='3' lat='50.7804202' lon='7.1823011' />
   <node id='3' timestamp='2018-10-03T19:24:01Z' uid='1' user='Dharmin' version='3' changeset='3' lat='50.7804176' lon='7.1823011' />
@@ -1640,6 +1640,7 @@
   <node id='1703' timestamp='2018-10-09T15:45:54Z' uid='1' user='Dharmin' version='1' changeset='9' lat='50.780259' lon='7.1823105' />
   <node id='1704' timestamp='2018-10-09T15:45:54Z' uid='1' user='Dharmin' version='1' changeset='9' lat='50.7802588' lon='7.1822918' />
   <node id='1705' timestamp='2018-10-09T15:45:54Z' uid='1' user='Dharmin' version='1' changeset='9' lat='50.7802569' lon='7.182292' />
+  <node id='1706' timestamp='2018-10-09T15:45:54Z' uid='1' user='Dharmin' version='1' changeset='9' lat='50.7809214' lon='7.1802336' />
   <node id='1707' timestamp='2018-10-10T11:13:09Z' uid='1' user='Dharmin' version='1' changeset='10' lat='50.780259' lon='7.1823092' />
   <node id='1708' timestamp='2018-10-31T11:46:38Z' uid='1' user='Dharmin' version='3' changeset='21' lat='50.7800516' lon='7.182309' />
   <node id='1709' timestamp='2018-10-31T11:46:38Z' uid='1' user='Dharmin' version='3' changeset='21' lat='50.7800516' lon='7.1823072' />
@@ -6797,13 +6798,13 @@
     <tag k='ref' v='BRSU_A_L0_A3' />
     <tag k='surface:smoothness' v='excellent' />
   </way>
-  <way id='334' timestamp='2018-10-09T13:20:42Z' uid='1' user='Dharmin' version='2' changeset='8'>
+  <way id='334' timestamp='2019-10-17T13:41:45Z' version='3' changeset='72'>
     <nd ref='969' />
     <nd ref='966' />
     <nd ref='965' />
     <nd ref='968' />
     <nd ref='969' />
-    <tag k='indoor' v='area' />
+    <tag k='indoor' v='junction' />
     <tag k='internet' v='yes' />
     <tag k='level' v='0' />
     <tag k='ref' v='BRSU_A_L0_A2' />
@@ -11861,7 +11862,7 @@
     <tag k='level' v='2' />
     <tag k='oneway' v='yes' />
   </way>
-  <way id='877' timestamp='2019-10-17T12:23:15Z' version='4' changeset='71'>
+  <way id='877' timestamp='2019-10-17T12:23:14Z' uid='1' user='Dharmin' version='4' changeset='71'>
     <nd ref='2375' />
     <nd ref='2374' />
     <tag k='highway' v='local-way' />
@@ -15347,7 +15348,7 @@
     <tag k='indoor' v='wall' />
     <tag k='level' v='0' />
   </way>
-  <way id='1248' timestamp='2019-10-17T12:23:15Z' version='1' changeset='71'>
+  <way id='1248' timestamp='2019-10-17T12:23:14Z' uid='1' user='Dharmin' version='1' changeset='71'>
     <nd ref='2374' />
     <nd ref='2406' />
     <tag k='highway' v='local-way' />
@@ -16341,7 +16342,7 @@
     <tag k='ref' v='BRSU_A_L0_A1' />
     <tag k='type' v='area' />
   </relation>
-  <relation id='126' timestamp='2019-04-23T12:35:31Z' uid='1' user='Dharmin' version='3' changeset='52'>
+  <relation id='126' timestamp='2019-10-17T13:41:45Z' version='4' changeset='72'>
     <member type='way' ref='334' role='geometry' />
     <member type='node' ref='1310' role='topology' />
     <member type='way' ref='406' role='local_connection' />
@@ -16349,7 +16350,7 @@
     <member type='way' ref='1203' role='local_connection' />
     <member type='relation' ref='119' role='local_area' />
     <tag k='ref' v='BRSU_A_L0_A2' />
-    <tag k='type' v='area' />
+    <tag k='type' v='junction' />
   </relation>
   <relation id='127' timestamp='2019-10-08T15:18:00Z' uid='1' user='Dharmin' version='11' changeset='68'>
     <member type='way' ref='597' role='geometry' />
@@ -16745,7 +16746,7 @@
     <tag k='ref' v='BRSU_C_L2_C3' />
     <tag k='type' v='corridor' />
   </relation>
-  <relation id='175' timestamp='2019-10-17T12:23:15Z' version='4' changeset='71'>
+  <relation id='175' timestamp='2019-10-17T12:23:15Z' uid='1' user='Dharmin' version='4' changeset='71'>
     <member type='way' ref='930' role='geometry' />
     <member type='node' ref='2405' role='topology' />
     <member type='way' ref='877' role='recovery_connection' />
