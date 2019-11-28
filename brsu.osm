@@ -1211,7 +1211,7 @@
   <node id='1217' timestamp='2018-10-04T21:05:29Z' uid='1' user='Dharmin' version='1' changeset='4' lat='50.7800544' lon='7.182315' />
   <node id='1218' timestamp='2018-10-04T21:05:29Z' uid='1' user='Dharmin' version='1' changeset='4' lat='50.7800544' lon='7.1822963' />
   <node id='1219' timestamp='2018-10-04T21:05:29Z' uid='1' user='Dharmin' version='1' changeset='4' lat='50.7800521' lon='7.1822963' />
-  <node id='1226' timestamp='2018-10-05T15:59:52Z' uid='1' user='Dharmin' version='1' changeset='5' lat='50.7800427' lon='7.1822626' />
+  <node id='1226' timestamp='2019-11-28T16:18:27Z' version='2' changeset='81' lat='50.78003965041' lon='7.18226030332' />
   <node id='1227' timestamp='2018-10-05T15:59:52Z' uid='1' user='Dharmin' version='1' changeset='5' lat='50.7800702' lon='7.1822632' />
   <node id='1228' timestamp='2018-10-05T15:59:52Z' uid='1' user='Dharmin' version='1' changeset='5' lat='50.7801044' lon='7.1822741' />
   <node id='1229' timestamp='2018-10-05T15:59:52Z' uid='1' user='Dharmin' version='1' changeset='5' lat='50.7801589' lon='7.182274' />
@@ -1286,7 +1286,7 @@
   <node id='1298' timestamp='2018-10-05T15:59:52Z' uid='1' user='Dharmin' version='1' changeset='5' lat='50.7800502' lon='7.1822679' />
   <node id='1299' timestamp='2018-10-05T15:59:52Z' uid='1' user='Dharmin' version='1' changeset='5' lat='50.7800501' lon='7.1822527' />
   <node id='1304' timestamp='2018-10-05T15:59:53Z' uid='1' user='Dharmin' version='1' changeset='5' lat='50.7801616' lon='7.1823103' />
-  <node id='1307' timestamp='2018-10-10T17:02:41Z' uid='1' user='Dharmin' version='2' changeset='13' lat='50.7800401' lon='7.18226'>
+  <node id='1307' timestamp='2019-11-28T16:18:27Z' version='3' changeset='81' lat='50.78003951913' lon='7.18226022967'>
     <tag k='highway' v='elevator' />
     <tag k='levels' v='0;1;2;' />
   </node>
@@ -1415,8 +1415,8 @@
   <node id='1472' timestamp='2019-09-05T17:27:28Z' uid='2' user='Lakshadeep' version='3' changeset='64' lat='50.7802441' lon='7.1822918' />
   <node id='1473' timestamp='2019-09-05T17:27:28Z' uid='2' user='Lakshadeep' version='3' changeset='64' lat='50.7802438' lon='7.1822606' />
   <node id='1474' timestamp='2019-11-26T15:25:49Z' uid='2' user='Lakshadeep' version='2' changeset='78' lat='50.7806449' lon='7.1822598' />
-  <node id='1475' timestamp='2019-11-27T13:51:14Z' version='4' changeset='80' lat='50.78064471063' lon='7.18228960117' />
-  <node id='1476' timestamp='2019-11-27T13:51:14Z' version='4' changeset='80' lat='50.78066331063' lon='7.18228980117' />
+  <node id='1475' timestamp='2019-11-27T13:51:14Z' uid='2' user='Lakshadeep' version='4' changeset='80' lat='50.7806447' lon='7.1822896' />
+  <node id='1476' timestamp='2019-11-27T13:51:14Z' uid='2' user='Lakshadeep' version='4' changeset='80' lat='50.7806633' lon='7.1822898' />
   <node id='1477' timestamp='2019-11-26T15:25:49Z' uid='2' user='Lakshadeep' version='2' changeset='78' lat='50.7806635' lon='7.1822602' />
   <node id='1478' timestamp='2019-11-26T15:17:24Z' uid='2' user='Lakshadeep' version='3' changeset='77' lat='50.7806637' lon='7.1823487' />
   <node id='1479' timestamp='2019-11-26T15:17:24Z' uid='2' user='Lakshadeep' version='2' changeset='77' lat='50.7806636' lon='7.1823184' />
@@ -1560,10 +1560,10 @@
   <node id='1618' timestamp='2018-10-05T15:59:54Z' uid='1' user='Dharmin' version='1' changeset='5' lat='50.7803444' lon='7.1823586' />
   <node id='1619' timestamp='2018-10-05T15:59:54Z' uid='1' user='Dharmin' version='1' changeset='5' lat='50.780354' lon='7.1823585' />
   <node id='1620' timestamp='2019-09-11T13:02:14Z' uid='2' user='Lakshadeep' version='3' changeset='66' lat='50.7803533' lon='7.1823258' />
-  <node id='1621' timestamp='2019-11-27T13:51:14Z' version='3' changeset='80' lat='50.78033652558' lon='7.18226230177' />
-  <node id='1622' timestamp='2019-11-27T13:51:14Z' version='4' changeset='80' lat='50.78033655324' lon='7.18228911294' />
-  <node id='1623' timestamp='2019-11-27T13:51:14Z' version='4' changeset='80' lat='50.78035264253' lon='7.18228888411' />
-  <node id='1624' timestamp='2019-11-27T13:51:14Z' version='3' changeset='80' lat='50.78035257019' lon='7.18226257294' />
+  <node id='1621' timestamp='2019-11-27T13:51:14Z' uid='2' user='Lakshadeep' version='3' changeset='80' lat='50.7803365' lon='7.1822623' />
+  <node id='1622' timestamp='2019-11-27T13:51:14Z' uid='2' user='Lakshadeep' version='4' changeset='80' lat='50.7803366' lon='7.1822891' />
+  <node id='1623' timestamp='2019-11-27T13:51:14Z' uid='2' user='Lakshadeep' version='4' changeset='80' lat='50.7803526' lon='7.1822889' />
+  <node id='1624' timestamp='2019-11-27T13:51:14Z' uid='2' user='Lakshadeep' version='3' changeset='80' lat='50.7803526' lon='7.1822626' />
   <node id='1625' timestamp='2019-03-29T09:02:06Z' uid='2' user='Lakshadeep' version='3' changeset='41' lat='50.7803252' lon='7.1822897' />
   <node id='1626' timestamp='2019-09-05T17:27:28Z' uid='2' user='Lakshadeep' version='5' changeset='64' lat='50.7802639' lon='7.1822899' />
   <node id='1627' timestamp='2019-03-29T09:02:06Z' uid='2' user='Lakshadeep' version='3' changeset='41' lat='50.7803253' lon='7.1822619' />
@@ -3258,8 +3258,8 @@
   <node id='3293' timestamp='2019-04-23T12:06:33Z' uid='1' user='Dharmin' version='1' changeset='51' lat='50.7805501' lon='7.1822144' />
   <node id='3294' timestamp='2019-04-23T12:06:33Z' uid='1' user='Dharmin' version='1' changeset='51' lat='50.7804481' lon='7.1822142' />
   <node id='3295' timestamp='2019-04-23T12:06:33Z' uid='1' user='Dharmin' version='1' changeset='51' lat='50.7804272' lon='7.1822404' />
-  <node id='3296' timestamp='2019-09-03T11:52:08Z' uid='1' user='Dharmin' version='1' changeset='63' lat='50.7800679' lon='7.1822607' />
-  <node id='3297' timestamp='2019-09-03T11:52:08Z' uid='1' user='Dharmin' version='1' changeset='63' lat='50.7800677' lon='7.1822636' />
+  <node id='3296' timestamp='2019-11-28T16:18:27Z' version='2' changeset='81' lat='50.78006615738' lon='7.18226047033' />
+  <node id='3297' timestamp='2019-11-28T16:18:27Z' version='2' changeset='81' lat='50.78006595738' lon='7.18226038465' />
   <node id='3298' timestamp='2019-09-03T11:52:08Z' uid='1' user='Dharmin' version='1' changeset='63' lat='50.7800566' lon='7.1822802' />
   <node id='3299' timestamp='2019-09-03T11:52:08Z' uid='1' user='Dharmin' version='1' changeset='63' lat='50.7800786' lon='7.1822808' />
   <node id='3300' timestamp='2019-09-03T11:52:08Z' uid='1' user='Dharmin' version='1' changeset='63' lat='50.7800787' lon='7.1822443' />
