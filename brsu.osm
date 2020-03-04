@@ -3306,11 +3306,11 @@
   <node id='3341' timestamp='2019-11-26T15:25:49Z' uid='2' user='Lakshadeep' visible='true' version='2' changeset='78' lat='50.7805386' lon='7.1822589' />
   <node id='3342' timestamp='2019-11-26T16:17:15Z' uid='2' user='Lakshadeep' visible='true' version='3' changeset='79' lat='50.7804498' lon='7.1822659' />
   <node id='3343' timestamp='2019-11-26T15:25:49Z' uid='2' user='Lakshadeep' visible='true' version='2' changeset='78' lat='50.7805383' lon='7.1822672' />
-  <node id='3344' timestamp='2020-03-04T13:00:46Z' visible='true' version='1' changeset='85' lat='50.78032276634' lon='7.1831102722' />
-  <node id='3345' timestamp='2020-03-04T13:05:28Z' visible='true' version='1' changeset='86' lat='50.7803554705' lon='7.18310980488' />
-  <node id='3346' timestamp='2020-03-04T13:11:04Z' visible='true' version='1' changeset='87' lat='50.78067553498' lon='7.1831101967' />
-  <node id='3347' timestamp='2020-03-04T13:11:04Z' visible='true' version='1' changeset='87' lat='50.78034467378' lon='7.18315256303' />
-  <node id='3348' timestamp='2020-03-04T13:12:36Z' visible='true' version='1' changeset='88' lat='50.78032331211' lon='7.18304040347' />
+  <node id='3344' timestamp='2020-03-04T13:00:45Z' uid='2' user='Lakshadeep' visible='true' version='1' changeset='85' lat='50.7803228' lon='7.1831103' />
+  <node id='3345' timestamp='2020-03-04T13:05:28Z' uid='2' user='Lakshadeep' visible='true' version='1' changeset='86' lat='50.7803555' lon='7.1831098' />
+  <node id='3346' timestamp='2020-03-04T13:11:04Z' uid='2' user='Lakshadeep' visible='true' version='1' changeset='87' lat='50.7806755' lon='7.1831102' />
+  <node id='3347' timestamp='2020-03-04T13:11:04Z' uid='2' user='Lakshadeep' visible='true' version='1' changeset='87' lat='50.7803447' lon='7.1831526' />
+  <node id='3348' timestamp='2020-03-04T13:12:36Z' uid='2' user='Lakshadeep' visible='true' version='1' changeset='88' lat='50.7803233' lon='7.1830404' />
   <way id='1' timestamp='2018-09-30T17:43:57Z' uid='1' user='Dharmin' visible='true' version='1' changeset='1'>
     <nd ref='9' />
     <nd ref='5' />
@@ -7052,7 +7052,7 @@
     <tag k='ref' v='BRSU_C_L0_C11' />
     <tag k='surface:smoothness' v='excellent' />
   </way>
-  <way id='354' timestamp='2020-03-04T13:00:46Z' visible='true' version='2' changeset='85'>
+  <way id='354' timestamp='2020-03-04T13:00:45Z' uid='2' user='Lakshadeep' visible='true' version='2' changeset='85'>
     <nd ref='1015' />
     <nd ref='1021' />
     <nd ref='1014' />
@@ -7088,7 +7088,7 @@
     <tag k='ref' v='BRSU_C_L0_C10' />
     <tag k='surface:smoothness' v='excellent' />
   </way>
-  <way id='357' timestamp='2020-03-04T13:00:46Z' visible='true' version='2' changeset='85'>
+  <way id='357' timestamp='2020-03-04T13:00:45Z' uid='2' user='Lakshadeep' visible='true' version='2' changeset='85'>
     <nd ref='1024' />
     <nd ref='1018' />
     <nd ref='1022' />
@@ -16148,7 +16148,7 @@
     <tag k='ref' v='BRSU_C_L0_A18' />
     <tag k='type' v='area' />
   </relation>
-  <relation id='100' timestamp='2019-11-26T12:08:55Z' uid='2' user='Lakshadeep' visible='true' version='4' changeset='76'>
+  <relation id='100' timestamp='2020-03-04T17:14:51Z' visible='true' version='5' changeset='90'>
     <member type='way' ref='319' role='geometry' />
     <member type='node' ref='1330' role='topology' />
     <member type='way' ref='431' role='local_connection' />
@@ -16156,7 +16156,7 @@
     <member type='way' ref='452' role='local_connection' />
     <member type='relation' ref='26' role='local_area' />
     <tag k='ref' v='BRSU_C_L0_A20' />
-    <tag k='type' v='junction' />
+    <tag k='type' v='area' />
   </relation>
   <relation id='101' timestamp='2019-01-16T20:20:28Z' uid='1' user='Dharmin' visible='true' version='4' changeset='32'>
     <member type='way' ref='338' role='geometry' />
@@ -16328,7 +16328,7 @@
     <tag k='ref' v='BRSU_C_L0_C13' />
     <tag k='type' v='corridor' />
   </relation>
-  <relation id='116' timestamp='2019-11-26T12:08:55Z' uid='2' user='Lakshadeep' visible='true' version='4' changeset='76'>
+  <relation id='116' timestamp='2020-03-04T17:14:51Z' visible='true' version='5' changeset='90'>
     <member type='way' ref='325' role='geometry' />
     <member type='node' ref='1326' role='topology' />
     <member type='way' ref='450' role='local_connection' />
@@ -16336,7 +16336,7 @@
     <member type='relation' ref='93' role='local_area' />
     <member type='way' ref='989' role='local_connection' />
     <tag k='ref' v='BRSU_C_L0_A13' />
-    <tag k='type' v='junction' />
+    <tag k='type' v='area' />
   </relation>
   <relation id='117' timestamp='2018-10-09T13:20:41Z' uid='1' user='Dharmin' visible='true' version='1' changeset='8'>
     <member type='way' ref='536' role='geometry' />
@@ -16421,7 +16421,7 @@
     <tag k='ref' v='BRSU_A_L0_A2' />
     <tag k='type' v='junction' />
   </relation>
-  <relation id='127' timestamp='2020-03-04T13:34:21Z' visible='true' version='13' changeset='89'>
+  <relation id='127' timestamp='2020-03-04T13:34:21Z' uid='2' user='Lakshadeep' visible='true' version='13' changeset='89'>
     <member type='way' ref='1249' role='global_connection' />
     <member type='relation' ref='287' role='area' />
     <member type='way' ref='597' role='geometry' />
@@ -17110,7 +17110,7 @@
     <tag k='ref' v='BRSU_C_L0_RoomC022_W4' />
     <tag k='type' v='wall' />
   </relation>
-  <relation id='209' timestamp='2020-03-04T13:00:46Z' visible='true' version='2' changeset='85'>
+  <relation id='209' timestamp='2020-03-04T13:00:45Z' uid='2' user='Lakshadeep' visible='true' version='2' changeset='85'>
     <member type='node' ref='3344' role='topology' />
     <member type='relation' ref='197' role='side' />
     <member type='relation' ref='201' role='side' />
@@ -17296,7 +17296,7 @@
     <tag k='ref' v='BRSU_C_L0_C9_W3' />
     <tag k='type' v='wall' />
   </relation>
-  <relation id='235' timestamp='2020-03-04T13:05:28Z' visible='true' version='2' changeset='86'>
+  <relation id='235' timestamp='2020-03-04T13:05:28Z' uid='2' user='Lakshadeep' visible='true' version='2' changeset='86'>
     <member type='node' ref='3345' role='topology' />
     <member type='relation' ref='216' role='side' />
     <member type='way' ref='123' role='geometry' />
@@ -17309,7 +17309,7 @@
     <tag k='ref' v='BRSU_C_L0_C11_W2' />
     <tag k='type' v='wall' />
   </relation>
-  <relation id='237' timestamp='2020-03-04T13:12:36Z' visible='true' version='2' changeset='88'>
+  <relation id='237' timestamp='2020-03-04T13:12:36Z' uid='2' user='Lakshadeep' visible='true' version='2' changeset='88'>
     <member type='node' ref='3348' role='topology' />
     <member type='relation' ref='215' role='side' />
     <member type='way' ref='117' role='geometry' />
@@ -17334,7 +17334,7 @@
     <tag k='ref' v='BRSU_C_L0_RoomC025_W4' />
     <tag k='type' v='wall' />
   </relation>
-  <relation id='241' timestamp='2020-03-04T13:11:04Z' visible='true' version='2' changeset='87'>
+  <relation id='241' timestamp='2020-03-04T13:11:04Z' uid='2' user='Lakshadeep' visible='true' version='2' changeset='87'>
     <member type='node' ref='3347' role='topology' />
     <member type='relation' ref='214' role='side' />
     <member type='way' ref='120' role='geometry' />
